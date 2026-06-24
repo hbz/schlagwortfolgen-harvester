@@ -11,7 +11,7 @@ default testLobidQuery = "https://lobid.org/resources/search?q=_exists_%3AdnbId+
 
 // Outcomment to not harvest the data every time.
 
-// "Start harvesting lobid for" + catalogue + "records without Schlagwortfolgen"
+// "Start harvesting lobid for " + catalogue + " records without Schlagwortfolgen"
 // | print;
 
 // testLobidQuery
@@ -47,7 +47,7 @@ lobidHarvest
 //| as-records
 //// The following two steps create a single xml file from the multiple incoming sru requests, saved into a harvest tag
 //| match(pattern="<\\?xml version=.*?>", replacement="")
-//| object-batch-log(batchSize="100")
+//| object-batch-log("SRU Queries: ${totalRecords}", batchSize="10")
 //| write(sruHarvest, header="<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<harvest>", footer="</harvest>")
 //;
 
@@ -61,11 +61,10 @@ sruHarvest
 | read-string
 | decode-xml
 | handle-marcxml
-| batch-log
+| batch-log("Total SRU proper records: ${totalRecords}", batchSize="10")
 | fix(FLUX_DIR + "subject.fix",*)
-| batch-log(batchSize="10")
 | encode-marcxml
-| object-batch-log 
+| object-batch-log("Harvested Records with Schlagwortfolgen: ${totalRecords}", batchSize="100")
 | write(outfile)
 ;
 
@@ -80,7 +79,7 @@ sruHarvest
 //| match(pattern= sruQueryPattern +"</query>.+$",replacement="$1")
 //| decode-csv(separator="\t")
 //| fix(FLUX_DIR + "failed.fix",*)
-//| batch-log(batchSize="10")
+//| batch-log("Total broken ids: ${totalRecords}",batchSize="100")
 //| encode-csv(separator="\t",includeheader="true",noQuotes="true")
-//| write(FLUX_DIR + + version + catalogue + "failed.tsv")
+//| write(FLUX_DIR + version + catalogue + "failed.tsv")
 //;
