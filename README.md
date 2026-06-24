@@ -1,6 +1,34 @@
-# dnbSubjectHarvester
+# schlagwortfolgen-harvester
 Script that fetches the subjects 6XX from dnb records for NZ records that are missing subjects.
 
 Currently the script searches for all records with dnbId, from the NZ and without zdbId and without complexSubjects in lobid-resources. Then checks DNB for the marcxml and creates reduced marcxml with only `001` and `689`.
 
 To be determined if other subjects should be kept.
+
+## Requirements
+
+Metafacture 8.0.1 or higher
+
+## Test
+
+### DNB
+
+`path/to/metafacture/flux.sh fetchSchlagwortfolgen_test_sru.flux` (Is the default setting of the workflow.)
+
+### Other Verbundkatalog
+
+`path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux catalogue="..." sruLinkPart1="..." sruLinkPart2="..." sruQueryPattern="..." testLobidQuery="..."`
+
+TODO: Adjust query for all union catalogue.
+
+## Prod
+
+### DNB
+
+`path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux`  (Is the default setting of the workflow.)
+
+### Other Verbundkatalog
+
+`path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux catalogue="..." sruLinkPart1="..." sruLinkPart2="..." sruQueryPattern="..."`
+
+TODO: Adjust query for all union catalogue.
