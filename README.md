@@ -9,11 +9,13 @@ To be determined if other subjects should be kept.
 
 Metafacture 8.0.1 or higher
 
-## Test
+## Run tests
 
 ### DNB
 
 `path/to/metafacture/flux.sh fetchSchlagwortfolgen_test_sru.flux` (Is the default setting of the workflow.)
+
+In order to upate or adjust the test data basis undo the outcomment in the test workflow.
 
 ### Other Verbundkatalog
 
@@ -21,7 +23,7 @@ Metafacture 8.0.1 or higher
 
 TODO: Adjust query for all union catalogue.
 
-## Prod
+## Create prod dump
 
 ### DNB
 
