@@ -1,7 +1,9 @@
 # schlagwortfolgen-harvester
-Script that fetches the subjects 6XX from dnb records for NZ records that are missing subjects.
+Script that fetches the subjects 6XX from dnb and other union catalogue records for NZ records that are missing subjects.
 
-Currently the script searches for all records with dnbId, from the NZ and without zdbId and without complexSubjects in lobid-resources. Then checks DNB for the marcxml and creates reduced marcxml with only `001` and `689`.
+By default the script currently searches for all records with dnbId, from the NZ and without zdbId and without complexSubjects in lobid-resources. Then checks DNB for the marcxml and creates reduced marcxml with only `001` and `689`.
+
+With the help of variables the workflow that can be provided when running the metafacture workflow the workflow can be configured that it harvests records from other union catalogues.
 
 To be determined if other subjects should be kept.
 
