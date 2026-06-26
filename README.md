@@ -21,7 +21,7 @@ In order to upate or adjust the test data basis undo the outcomment in the test 
 
 ### Other Verbundkatalog
 
-`path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux catalogue="..." sruLinkPart1="..." sruLinkPart2="..." sruQueryPattern="..." testLobidQuery="..."`
+`path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux catalogue="..." systemIsil="..." sruLinkPart1="..." sruLinkPart2="..." sruQueryPattern="..." testLobidQuery="..."`
 
 TODO: Adjust query for all union catalogue.
 
@@ -33,6 +33,6 @@ TODO: Adjust query for all union catalogue.
 
 ### Other Verbundkatalog
 
-`path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux catalogue="..." sruLinkPart1="..." sruLinkPart2="..." sruQueryPattern="..."`
+`path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux catalogue="..." systemIsil="..." sruLinkPart1="..." sruLinkPart2="..." sruQueryPattern="..."`
 
 TODO: Adjust query for all union catalogue.

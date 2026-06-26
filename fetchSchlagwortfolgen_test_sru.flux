@@ -1,5 +1,6 @@
 default version="test/";
 default catalogue="dnb";
+default systemIsil="DE-101";
 default sruHarvest=FLUX_DIR + version + catalogue + "_sru_records.xml";
 default outfile=FLUX_DIR + version + catalogue + "Subjects.xml";
 default lobidHarvest = FLUX_DIR + version + catalogue + "Subjects.jsonl";
