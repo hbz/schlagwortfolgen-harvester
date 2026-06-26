@@ -10,7 +10,7 @@ unless exists("689??")
     reject()
 end
 
-
+# Move system id 001 to 035 and append system isil
 
 copy_field("001","@$[catalogue]Id")
 prepend("@$[catalogue]Id","($[systemIsil])")
@@ -22,13 +22,17 @@ else
     copy_field("@$[catalogue]Id","035  .$append.a")
 end
 
+# Assigne hbz almaMmsId with lookup map
+
 lookup("001","$[catalogue]Id2AlmaMmsId")
+
+# Delete all non GND Ids in $$0 which do not have Prefix (DE-588) and make the linkage uniq.
 
 do list(path:"689??","var":"$i")
     replace_all("$i.0.*","^(?!\\(DE-588\\)).*$","")
     uniq("$i.5")
 end
 
-# Only keep 001 and 689
+# Only keep 001, 035 and 689
 retain("001","689??","035??")
 vacuum()
