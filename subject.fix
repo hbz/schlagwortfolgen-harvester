@@ -29,7 +29,11 @@ lookup("001","$[catalogue]Id2AlmaMmsId")
 # Delete all non GND Ids in $$0 which do not have Prefix (DE-588) and make the linkage uniq.
 
 do list(path:"689??","var":"$i")
-    replace_all("$i.0.*","^(?!\\(DE-588\\)).*$","")
+    if is_array("$i.0")
+        replace_all("$i.0.*","^(?!\\(DE-588\\)).*$","")
+    else
+        replace_all("$i.0","^(?!\\(DE-588\\)).*$","")
+    end
     uniq("$i.5")
 end
 
