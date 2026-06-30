@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+	<marc:record>
+		<marc:controlfield tag="001">990363991750206441</marc:controlfield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627)405010990</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)GBV405010990</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(OCoLC)249128145</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-602)gbv_405010990</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4067960-3</marc:subfield>
+			<marc:subfield code="a">Zoologie</marc:subfield>
+			<marc:subfield code="2">gnd</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">(DE-627)</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+	<marc:record>
+		<marc:controlfield tag="001">990226697540206441</marc:controlfield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="A">s</marc:subfield>
+			<marc:subfield code="a">Arbeit, Arbeitsrecht</marc:subfield>
+			<marc:subfield code="5">DE-101</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="1" ind2="0">
+			<marc:subfield code="A">s</marc:subfield>
+			<marc:subfield code="a">Arbeitsvermittlung, Arbeitsbeschaffung, Arbeitslosigkeit</marc:subfield>
+			<marc:subfield code="5">DE-101</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="2" ind2="0">
+			<marc:subfield code="A">s</marc:subfield>
+			<marc:subfield code="a">Grünanlagen, Grünordnung, Grünplanung, Parkanlagen</marc:subfield>
+			<marc:subfield code="5">DE-101</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="3" ind2="0">
+			<marc:subfield code="A">s</marc:subfield>
+			<marc:subfield code="a">Landschaftsplanung, Landschaftspflege Deutschland</marc:subfield>
+			<marc:subfield code="5">DE-101</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="4" ind2="0">
+			<marc:subfield code="A">s</marc:subfield>
+			<marc:subfield code="a">Raumordnung, Landesplanung, Stadtplanung, Umweltschutz</marc:subfield>
+			<marc:subfield code="5">DE-101</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)KBVZLB33304154</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-602)kobvindex_ZLB33304154</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+</marc:collection>

@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<harvest>
+<?xml-stylesheet type="text/xsl" href="/etc/metaproxy/sru.xsl"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>02462cam a2200409   4500</leader>
+  <controlfield tag="001">kobvindex_SLB878352</controlfield>
+  <controlfield tag="003">DE-602</controlfield>
+  <controlfield tag="005">20200221</controlfield>
+  <controlfield tag="007">t|</controlfield>
+  <controlfield tag="008">200205p20192019de |||||||||||||||||ger|||</controlfield>
+  <datafield tag="016" ind1=" " ind2=" ">
+    <subfield code="a">5005142</subfield>
+  </datafield>
+  <datafield tag="016" ind1=" " ind2=" ">
+    <subfield code="2">DE-101</subfield>
+    <subfield code="a">1119822181</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9783895663673</subfield>
+    <subfield code="c">fest geb. : EUR 19.90</subfield>
+  </datafield>
+  <datafield tag="024" ind1="8" ind2=" ">
+    <subfield code="a">1729ekz ID Wochen-Nr.</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="c">ekz</subfield>
+    <subfield code="a">DE-602</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">DE</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)KBVSLB878352</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">DE-186;878352</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">W 220</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">Lan 685</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">Xbo 32</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="2">sfb</subfield>
+    <subfield code="2">asb</subfield>
+    <subfield code="2">kab</subfield>
+    <subfield code="a">KABN</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">DE-186;878352</subfield>
+  </datafield>
+  <datafield tag="092" ind1=" " ind2=" ">
+    <subfield code="a">kobvindex_SLB878352</subfield>
+  </datafield>
+  <datafield tag="099" ind1="1" ind2=" ">
+    <subfield code="a">20170706</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kleinod, Brigitte</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Sch&#xF6;n wild!</subfield>
+    <subfield code="b">attraktive Beete mit heimischen Wildstauden im Garten : 22 Gestaltungsideen f&#xFC;r jeden Standort</subfield>
+    <subfield code="c">Brigitte Kleinod und Friedhelm Strickler ; illustriert von Heidi Janicek</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">3. Auflage</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Darmstadt</subfield>
+    <subfield code="b">pala Verlag</subfield>
+    <subfield code="c">2019</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">156 Seiten</subfield>
+    <subfield code="b">Illustrationen</subfield>
+    <subfield code="b">farbig</subfield>
+    <subfield code="c">23 cm</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Anne Heimansberg-Schmidt</subfield>
+  </datafield>
+  <datafield tag="520" ind1="1" ind2=" ">
+    <subfield code="a">Naturnahe Gartengestaltung und regionale Ausrichtung bei der Bepflanzung werden bei Gartenbesitzern erfreulicherweise immer beliebter. Die produktive Biologin und der erfahrene G&#xE4;rtnermeister f&#xFC;hren diesen Trend konsequent noch einen Schritt weiter und werben f&#xFC;r die bewusste Beetgestaltung mit Wildstauden. Nach einer kurzen theoretischen Einleitung folgen zun&#xE4;chst Praxistipps zu Bodenvorbereitung und Pflanzvorgang. Die 2. H&#xE4;lfte des Buchs enth&#xE4;lt dann 22 detaillierte Beetvorschl&#xE4;ge, jeweils mit einer Planungsskizze und einer Pflanztabelle. Verlags&#xFC;blich ist der Band, auch das Cover, mit feinen Farbzeichnungen sparsam illustriert. Auf Pflanzenportr&#xE4;ts und bestimmende Abbildungen wird weitgehend verzichtet. Der letzte Titel, welcher sich ausschlie&#xDF;lich mit Wildstauden besch&#xE4;ftigte, war K. Kaiser: "Wildstauden" (BA 8/89). Deshalb kann dieser Band als Bestandsauffrischung dienen, auch wenn er neben den &#xFC;blichen prachtvoll fotografisch in Szene gesetzten Gartenb&#xFC;chern wahrscheinlich eher ein Schattendasein fristet. Neben anderen Titeln mit naturnaher Ausrichtung m&#xF6;glich.</subfield>
+  </datafield>
+  <datafield tag="520" ind1="8" ind2=" ">
+    <subfield code="a">Auch mit Wildstauden lassen sich attraktive Beete im naturnahen Garten gestalten. F&#xFC;r fast jede Bodenbeschaffenheit gibt es hier den passenden Pflanzvorschlag.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Janicek, Heidi &#x98;[Ill.]&#x9C;</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Strickler, Friedhelm</subfield>
+  </datafield>
+  <datafield tag="924" ind1=" " ind2=" ">
+    <subfield code="a">878352</subfield>
+    <subfield code="b">DE-186</subfield>
+    <subfield code="c">KOBV</subfield>
+    <subfield code="d">c</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>rec.id=kobvindex_SLB878352</zs:query><zs:startRecord>1</zs:startRecord><zs:maximumRecords>10</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<?xml-stylesheet type="text/xsl" href="/etc/metaproxy/sru.xsl"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>0</zs:numberOfRecords><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>rec.id=b3kat_BV008778112</zs:query><zs:startRecord>1</zs:startRecord><zs:maximumRecords>10</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<?xml-stylesheet type="text/xsl" href="/etc/metaproxy/sru.xsl"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>0</zs:numberOfRecords><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>rec.id=b3kat_BV026495690</zs:query><zs:startRecord>1</zs:startRecord><zs:maximumRecords>10</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<?xml-stylesheet type="text/xsl" href="/etc/metaproxy/sru.xsl"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00717cam a22002651i 4500</leader>
+  <controlfield tag="001">kobvindex_VBRD-i3829012861</controlfield>
+  <controlfield tag="003">DE-602</controlfield>
+  <controlfield tag="007">ta</controlfield>
+  <controlfield tag="008">991231s1998    nyuuun              ger</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">3829012861</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="e">rak</subfield>
+    <subfield code="a">DE-602</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)KBVVBRD-i3829012861</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-602</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">DE-2725;D-i3829012861</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">W 262</subfield>
+    <subfield code="2">kab</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">DE-2725;D-i3829012861</subfield>
+  </datafield>
+  <datafield tag="092" ind1=" " ind2=" ">
+    <subfield code="a">kobvindex_VBRD-i3829012861</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Mattock, John</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Rosen :</subfield>
+    <subfield code="b">Das kompakte Bestimmungsbuch</subfield>
+    <subfield code="c">John Mattock</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">K&#xF6;ln</subfield>
+    <subfield code="b">K&#xF6;nemann</subfield>
+    <subfield code="c">1998</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">79 S. : Abb.</subfield>
+  </datafield>
+  <datafield tag="653" ind1=" " ind2=" ">
+    <subfield code="a">Rosen</subfield>
+  </datafield>
+  <datafield tag="653" ind1=" " ind2=" ">
+    <subfield code="a">Garten</subfield>
+  </datafield>
+  <datafield tag="924" ind1=" " ind2=" ">
+    <subfield code="a">D-i3829012861</subfield>
+    <subfield code="b">DE-2725</subfield>
+    <subfield code="c">KOBV</subfield>
+    <subfield code="d">d</subfield>
+  </datafield>
+  <datafield tag="969" ind1="#" ind2="#">
+    <subfield code="a">DE-V0801</subfield>
+    <subfield code="6">D-08010024348</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>rec.id=kobvindex_VBRD-i3829012861</zs:query><zs:startRecord>1</zs:startRecord><zs:maximumRecords>10</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<?xml-stylesheet type="text/xsl" href="/etc/metaproxy/sru.xsl"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>0</zs:numberOfRecords><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>rec.id=b3kat_BV023759756</zs:query><zs:startRecord>1</zs:startRecord><zs:maximumRecords>10</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<?xml-stylesheet type="text/xsl" href="/etc/metaproxy/sru.xsl"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00803nam a2200253uu 4500</leader>
+  <controlfield tag="001">kobvindex_ZLB12245138</controlfield>
+  <controlfield tag="003">DE-602</controlfield>
+  <controlfield tag="005">20250531093837.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">930806s1976    ||||||||||||||||||||ger||</controlfield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)KBVZLB12245138</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-602</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">DE-609;12245138</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">DE-609;12245138</subfield>
+  </datafield>
+  <datafield tag="092" ind1=" " ind2=" ">
+    <subfield code="a">kobvindex_ZLB12245138</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Aquarium, Terrarium, Insektarium im Zoologischen Garten Berlin</subfield>
+    <subfield code="c">von Werner Schr&#xF6;der</subfield>
+  </datafield>
+  <datafield tag="246" ind1="1" ind2="3">
+    <subfield code="a">Nebent.: Aquarium im Berliner Zoo</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1</subfield>
+  </datafield>
+  <datafield tag="260" ind1="3" ind2=" ">
+    <subfield code="a">Berlin</subfield>
+    <subfield code="b">Selbstverl.</subfield>
+    <subfield code="c">1976</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">48  Seiten</subfield>
+    <subfield code="b">zahlr. Ill.</subfield>
+  </datafield>
+  <datafield tag="583" ind1=" " ind2=" ">
+    <subfield code="a">Archivierung/Langzeitarchivierung gew&#xE4;hrleistet; $fPEBE; $5DE-109; $2pdager</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="0">(DE-609)00045902</subfield>
+    <subfield code="a">Schr&#xF6;der, Werner</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="924" ind1=" " ind2=" ">
+    <subfield code="a">12245138</subfield>
+    <subfield code="b">DE-609</subfield>
+    <subfield code="c">KOBV</subfield>
+    <subfield code="d">d</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>rec.id=kobvindex_ZLB12245138</zs:query><zs:startRecord>1</zs:startRecord><zs:maximumRecords>10</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<?xml-stylesheet type="text/xsl" href="/etc/metaproxy/sru.xsl"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01151cam a22003612c 4500</leader>
+  <controlfield tag="001">gbv_405010990</controlfield>
+  <controlfield tag="003">DE-602</controlfield>
+  <controlfield tag="005">20220618105424.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">990101s1926    xx |||||      00| ||und c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)405010990</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV405010990</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)249128145</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">DE-1;405010990</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">42.68</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">DE-1;405010990</subfield>
+  </datafield>
+  <datafield tag="092" ind1=" " ind2=" ">
+    <subfield code="a">gbv_405010990</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">25 Jahre Zoologischer Garten, Halle a.d. Saale</subfield>
+    <subfield code="b">(Schriftl.: Dr. F. Hauchecorne)</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="0">
+    <subfield code="a">fuenfundzwanzig</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">(Halle</subfield>
+    <subfield code="b">Karras &amp; Koennecke)</subfield>
+    <subfield code="c">(1926)</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">31 S. 4"</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">(Mitteilungen d. Zool. Gartens. Jub.-Nr.)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">[Umschlagt.]</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4067960-3</subfield>
+    <subfield code="0">(DE-627)104325321</subfield>
+    <subfield code="0">(DE-576)209172215</subfield>
+    <subfield code="a">Zoologie</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">(DE-627)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Hauchecorne, F.</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="924" ind1=" " ind2=" ">
+    <subfield code="a">405010990</subfield>
+    <subfield code="b">DE-1</subfield>
+    <subfield code="c">KOBV</subfield>
+    <subfield code="d">d</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">42.68</subfield>
+    <subfield code="j">Tierg&#xE4;rten</subfield>
+    <subfield code="j">Aquarien</subfield>
+    <subfield code="j">Terrarien</subfield>
+    <subfield code="q">ARK</subfield>
+    <subfield code="0">(DE-627)10640878X</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>rec.id=gbv_405010990</zs:query><zs:startRecord>1</zs:startRecord><zs:maximumRecords>10</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<?xml-stylesheet type="text/xsl" href="/etc/metaproxy/sru.xsl"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01374cam a2200457   4500</leader>
+  <controlfield tag="001">kobvindex_SLB936253</controlfield>
+  <controlfield tag="003">DE-602</controlfield>
+  <controlfield tag="005">20201112</controlfield>
+  <controlfield tag="007">t|</controlfield>
+  <controlfield tag="008">201008p20202020||||||||||||||||||||ger|||</controlfield>
+  <datafield tag="016" ind1=" " ind2=" ">
+    <subfield code="a">2654435</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9783895662744</subfield>
+    <subfield code="c">fest geb. : EUR 14.00</subfield>
+  </datafield>
+  <datafield tag="024" ind1=" " ind2=" ">
+    <subfield code="a">9783895662744</subfield>
+  </datafield>
+  <datafield tag="024" ind1="8" ind2=" ">
+    <subfield code="a">201109ekz ID Wochen-Nr.</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-602</subfield>
+    <subfield code="c">DE-Rt5</subfield>
+    <subfield code="d">1520</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)KBVSLB936253</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">DE-186;936253</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">DE-609;34837624</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" ">
+    <subfield code="a">W 229</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="2">sfb</subfield>
+    <subfield code="2">asb</subfield>
+    <subfield code="2">kab</subfield>
+    <subfield code="a">KABN</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">Lan 692</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">Xbo 329</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">DE-186;936253</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">DE-609;34837624</subfield>
+  </datafield>
+  <datafield tag="092" ind1=" " ind2=" ">
+    <subfield code="a">kobvindex_SLB936253</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Aufderheide, Ulrike</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Rasen und Wiesen im naturnahen Garten</subfield>
+    <subfield code="b">Neuanlage, Pflege, Gestaltungsidee</subfield>
+    <subfield code="c">Ulrike Aufderheide. Ill. von Margret Schneevoigt</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">3. Auflage</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Darmstadt</subfield>
+    <subfield code="b">Pala Verlag</subfield>
+    <subfield code="c">2020</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">176 Seiten</subfield>
+    <subfield code="b">Illustrationen</subfield>
+    <subfield code="c">22 cm</subfield>
+  </datafield>
+  <datafield tag="520" ind1="8" ind2=" ">
+    <subfield code="a">Ratgeber zur Planung, Anlage und Pflege von &#xF6;kologisch wertvollen Gr&#xFC;nflachen.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Rasen</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Blumenwiese</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" ">
+    <subfield code="a">Biologischer Garten</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2=" ">
+    <subfield code="a">Ratgeber</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Schneevoigt, Margret</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Ratgeber</subfield>
+    <subfield code="0">(DE-609)00002928</subfield>
+    <subfield code="2">local</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Ratgeber</subfield>
+  </datafield>
+  <datafield tag="924" ind1=" " ind2=" ">
+    <subfield code="a">936253</subfield>
+    <subfield code="b">DE-186</subfield>
+    <subfield code="c">KOBV</subfield>
+    <subfield code="d">c</subfield>
+  </datafield>
+  <datafield tag="924" ind1=" " ind2=" ">
+    <subfield code="a">34837624</subfield>
+    <subfield code="b">DE-609</subfield>
+    <subfield code="c">KOBV</subfield>
+    <subfield code="d">d</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>rec.id=kobvindex_SLB936253</zs:query><zs:startRecord>1</zs:startRecord><zs:maximumRecords>10</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<?xml-stylesheet type="text/xsl" href="/etc/metaproxy/sru.xsl"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00885cam a22002892c 4500</leader>
+  <controlfield tag="001">gbv_433360119</controlfield>
+  <controlfield tag="003">DE-602</controlfield>
+  <controlfield tag="005">20220620134615.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">990101s1984    xx |||||      00| ||und c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)433360119</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)GBV433360119</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)251736935</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">DE-1;433360119</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">DE-1;433360119</subfield>
+  </datafield>
+  <datafield tag="092" ind1=" " ind2=" ">
+    <subfield code="a">gbv_433360119</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Hannelore K&#xF6;hler</subfield>
+    <subfield code="b">Skulpturen im Innenhof und Garten des Stadtmuseums. Text : Inge Zacher. Oktober 1983 bis Fr&#xFC;hjahr 1984</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">D&#xFC;sseldorf</subfield>
+    <subfield code="b">Stadtmuseum</subfield>
+    <subfield code="c">1984</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">31 S. 8"</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">K&#xF6;hler, Hannelore</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Zacher, Inge</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="924" ind1=" " ind2=" ">
+    <subfield code="a">433360119</subfield>
+    <subfield code="b">DE-1</subfield>
+    <subfield code="c">KOBV</subfield>
+    <subfield code="d">d</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>rec.id=gbv_433360119</zs:query><zs:startRecord>1</zs:startRecord><zs:maximumRecords>10</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<?xml-stylesheet type="text/xsl" href="/etc/metaproxy/sru.xsl"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01727cam a2200361uu 4500</leader>
+  <controlfield tag="001">kobvindex_ZLB33304154</controlfield>
+  <controlfield tag="003">DE-602</controlfield>
+  <controlfield tag="005">20250601091144.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">110513s1996    ||||||||||||||||||||ger||</controlfield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)KBVZLB33304154</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-602</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">DE-609;33304154</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">DE-609;33304154</subfield>
+  </datafield>
+  <datafield tag="092" ind1=" " ind2=" ">
+    <subfield code="a">kobvindex_ZLB33304154</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Arbeitsschaffende Ma&#xDF;nahmen in der Diskussion</subfield>
+    <subfield code="b">Auswirkungen des Zweiten Arbeitsmarktes auf den Garten- und Landschaftsbau ; eine Dokumentation des Bundesverbandes Garten-, Landschafts- und Sportplatzbau (BGL)</subfield>
+    <subfield code="c">[Red.: Stefan Weise ...]</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Stand: April 1996</subfield>
+  </datafield>
+  <datafield tag="260" ind1="3" ind2=" ">
+    <subfield code="a">Bad Honnef</subfield>
+    <subfield code="c">1996</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">104  Seiten</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Arbeit, Arbeitsrecht</subfield>
+    <subfield code="0">(DE-609)00984367</subfield>
+    <subfield code="2">local</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Arbeitsvermittlung, Arbeitsbeschaffung, Arbeitslosigkeit</subfield>
+    <subfield code="0">(DE-609)00984368</subfield>
+    <subfield code="2">local</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Gr&#xFC;nanlagen, Gr&#xFC;nordnung, Gr&#xFC;nplanung, Parkanlagen</subfield>
+    <subfield code="0">(DE-609)00984298</subfield>
+    <subfield code="2">local</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Landschaftsplanung, Landschaftspflege Deutschland</subfield>
+    <subfield code="0">(DE-609)00984425</subfield>
+    <subfield code="2">local</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Raumordnung, Landesplanung, Stadtplanung, Umweltschutz</subfield>
+    <subfield code="0">(DE-609)00984377</subfield>
+    <subfield code="2">local</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="A">s</subfield>
+    <subfield code="a">Arbeit, Arbeitsrecht</subfield>
+    <subfield code="5">DE-101</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2="0">
+    <subfield code="A">s</subfield>
+    <subfield code="a">Arbeitsvermittlung, Arbeitsbeschaffung, Arbeitslosigkeit</subfield>
+    <subfield code="5">DE-101</subfield>
+  </datafield>
+  <datafield tag="689" ind1="2" ind2="0">
+    <subfield code="A">s</subfield>
+    <subfield code="a">Gr&#xFC;nanlagen, Gr&#xFC;nordnung, Gr&#xFC;nplanung, Parkanlagen</subfield>
+    <subfield code="5">DE-101</subfield>
+  </datafield>
+  <datafield tag="689" ind1="3" ind2="0">
+    <subfield code="A">s</subfield>
+    <subfield code="a">Landschaftsplanung, Landschaftspflege Deutschland</subfield>
+    <subfield code="5">DE-101</subfield>
+  </datafield>
+  <datafield tag="689" ind1="4" ind2="0">
+    <subfield code="A">s</subfield>
+    <subfield code="a">Raumordnung, Landesplanung, Stadtplanung, Umweltschutz</subfield>
+    <subfield code="5">DE-101</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="0">(DE-609)12181610</subfield>
+    <subfield code="a">Weise, Stefan</subfield>
+    <subfield code="4">red</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="0">(DE-609)12533409</subfield>
+    <subfield code="0">(DE-588)131248-0</subfield>
+    <subfield code="a">Bundesverband Garten-, Landschafts- und Sportplatzbau</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="924" ind1=" " ind2=" ">
+    <subfield code="a">33304154</subfield>
+    <subfield code="b">DE-609</subfield>
+    <subfield code="c">KOBV</subfield>
+    <subfield code="d">d</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>rec.id=kobvindex_ZLB33304154</zs:query><zs:startRecord>1</zs:startRecord><zs:maximumRecords>10</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<?xml-stylesheet type="text/xsl" href="/etc/metaproxy/sru.xsl"?>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00772cam a22002291a 4500</leader>
+  <controlfield tag="001">kobvindex_STMb643161</controlfield>
+  <controlfield tag="003">DE-602</controlfield>
+  <controlfield tag="007">ta</controlfield>
+  <controlfield tag="008">980205s1932    nyuuun              ger</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)KBVSTMb643161</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-602</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">DE-B171;b643161</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">3 756</subfield>
+  </datafield>
+  <datafield tag="091" ind1=" " ind2=" ">
+    <subfield code="a">DE-B171;b643161</subfield>
+  </datafield>
+  <datafield tag="092" ind1=" " ind2=" ">
+    <subfield code="a">kobvindex_STMb643161</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Heinroth, O[skar]</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">F&#xFC;hrer durch das Aquarium nebst Terrarium und Insektarium im Zoologischen Garten zu Berlin</subfield>
+    <subfield code="c">O[skar] Heinroth</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Berlin</subfield>
+    <subfield code="b">Verl. des Aktien-Vereins des Zoologischen Gartens zu Berlin</subfield>
+    <subfield code="c">1932</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">47 S. : zahlr. Ill.</subfield>
+  </datafield>
+  <datafield tag="653" ind1=" " ind2=" ">
+    <subfield code="a">Zoologischer Garten</subfield>
+    <subfield code="a">Aquarium</subfield>
+    <subfield code="a">Terrarium</subfield>
+  </datafield>
+  <datafield tag="852" ind1=" " ind2=" ">
+    <subfield code="a">Bibliothek der Stiftung Stadtmuseum Berlin</subfield>
+  </datafield>
+  <datafield tag="924" ind1=" " ind2=" ">
+    <subfield code="a">b643161</subfield>
+    <subfield code="b">DE-B171</subfield>
+    <subfield code="c">KOBV</subfield>
+    <subfield code="d">d</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>rec.id=kobvindex_STMb643161</zs:query><zs:startRecord>1</zs:startRecord><zs:maximumRecords>10</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+</harvest>
