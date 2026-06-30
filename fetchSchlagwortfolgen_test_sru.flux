@@ -12,16 +12,16 @@ default testLobidQuery = "https://lobid.org/resources/search?q=_exists_%3AdnbId+
 
 // Outcommented to not harvest the data every time.
 
-"Start harvesting lobid for " + catalogue + " records without Schlagwortfolgen"
-| print;
-
-//// We download all reacords that have catalogue ids but no Schlagwortfolgen from lobid resources.
-
-testLobidQuery + "&format=jsonl"
-| open-http(header="User-Agent: hbz/" + catalogue + "-schlagwortfolgen-harvester" )
-| as-lines
-| write(lobidHarvest)
-;
+//"Start harvesting lobid for " + catalogue + " records without Schlagwortfolgen"
+//| print;
+//
+////// We download all reacords that have catalogue ids but no Schlagwortfolgen from lobid resources.
+//
+//testLobidQuery + "&format=jsonl"
+//| open-http(header="User-Agent: hbz/" + catalogue + "-schlagwortfolgen-harvester" )
+//| as-lines
+//| write(lobidHarvest)
+//;
 
 "Harvesting lobid finished. Start creating dnbId2" + catalogue + "Id map."
 | print;
