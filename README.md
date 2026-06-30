@@ -35,9 +35,15 @@ In order to upate or adjust the test data basis undo the outcomment in the test 
 
 #### gbv
 
+`path/to/metafacture/flux.sh  fetchSchlagwortfolgen_test_sru.flux  catalogue="gbv" systemIsil="DE-627" sruLinkPart1="https://sru.k10plus.de/opac-de-627?version=1.2&operation=searchRetrieve&query=pica.ppn=" sruLinkPart2="&maximumRecords=1&recordSchema=marcxml" sruQueryPattern="<zs:searchRetrieveResponse.*pica.ppn=(.+)" testLobidQuery="https://lobid.org/resources/search?q=_exists_%3AgbvId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+Gemüse"`
+
 #### k10Plus
 
+`path/to/metafacture/flux.sh fetchSchlagwortfolgen_test_sru.flux catalogue="k10Plus" systemIsil="DE-627" sruLinkPart1="https://sru.k10plus.de/opac-de-627?version=1.1&operation=searchRetrieve&query=pica.ppn=" sruLinkPart2="&maximumRecords=1&recordSchema=marcxml" sruQueryPattern=".*pica.ppn=(.+)" testLobidQuery="https://lobid.org/resources/search?q=_exists_%3Ak10PlusId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+Gem%C3%BCse"`
+
 #### kobv
+
+`path/to/metafacture/flux.sh fetchSchlagwortfolgen_test_sru.flux catalogue="kobv" systemIsil="DE-602" sruLinkPart1="https://sru.kobv.de/k2?version=1.1&operation=searchRetrieve&query=rec.id%3D" sruLinkPart2="&startRecord=1&maximumRecords=10&recordSchema=marcxml&recordSchema=marcxml" sruQueryPattern=".*rec.id=(.+)" testLobidQuery="https://lobid.org/resources/search?q=_exists_%3AkobvId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+Garten"`
 
 #### obv
 
@@ -68,9 +74,15 @@ TODO: Adjust query for all union catalogue.
 
 #### gbv
 
+`path/to/metafacture/flux.sh  fetchSchlagwortfolgen_prod_sru.flux  catalogue="gbv" systemIsil="DE-627" sruLinkPart1="https://sru.k10plus.de/opac-de-627?version=1.2&operation=searchRetrieve&query=pica.ppn=" sruLinkPart2="&maximumRecords=1&recordSchema=marcxml" sruQueryPattern="<zs:searchRetrieveResponse.*pica.ppn=(.+)"`
+
 #### k10Plus
 
+`path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux catalogue="k10Plus" systemIsil="DE-627" sruLinkPart1="hhttps://sru.k10plus.de/opac-de-627?version=1.1&operation=searchRetrieve&query=pica.ppn=" sruLinkPart2="&maximumRecords=1&recordSchema=marcxml" sruQueryPattern=".*pica.ppn=(.+)"`
+
 #### kobv
+
+`path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux catalogue="kobv" systemIsil="DE-602" sruLinkPart1="https://sru.kobv.de/k2?version=1.1&operation=searchRetrieve&query=rec.id%3D" sruLinkPart2="&startRecord=1&maximumRecords=10&recordSchema=marcxml&recordSchema=marcxml" sruQueryPattern=".*rec.id=(.+)"`
 
 #### obv
 
