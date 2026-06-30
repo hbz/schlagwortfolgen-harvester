@@ -82,15 +82,15 @@ sruHarvest
 
 // On the basis of the SRU harvest we create a list of broken catalogue ids in lobid resources.
 
-//sruHarvest
-//| open-file
-//| as-lines
-//| filter-strings("<records/>",passmatches="true")
-//// TODO: Adjust for all workflows
-//| match(pattern= sruQueryPattern +"</query>.+$",replacement="$1")
-//| decode-csv(separator="\t")
-//| fix(FLUX_DIR + "failed.fix",*)
-//| batch-log("Total broken ids: ${totalRecords}",batchSize="100")
-//| encode-csv(separator="\t",includeheader="true",noQuotes="true")
-//| write(FLUX_DIR + version + catalogue + "failed.tsv")
-//;
+sruHarvest
+| open-file
+| as-lines
+| filter-strings(sruQueryPattern +"</(zs:|)query>.+$",passmatches="true")
+// TODO: Adjust for all workflows
+| match(pattern= sruQueryPattern +"</(zs:|)query>.+$",replacement="$1")
+| decode-csv(separator="\t")
+| fix(FLUX_DIR + "failed.fix",*)
+| batch-log("Total broken ids: ${totalRecords}",batchSize="100")
+| encode-csv(separator="\t",includeheader="true",noQuotes="true")
+| write(FLUX_DIR + version + catalogue + "failed.tsv")
+;

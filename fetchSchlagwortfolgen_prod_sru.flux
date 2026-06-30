@@ -85,9 +85,10 @@ sruHarvest
 sruHarvest
 | open-file
 | as-lines
-| filter-strings("<records/>",passmatches="true")
+// TODO: Filter pattern was "<records/>" this seems not to be always true.
+| filter-strings(sruQueryPattern +"</(zs:|)query>.+$",passmatches="true")
 // TODO: Adjust for all workflows
-| match(pattern= sruQueryPattern +"</query>.+$",replacement="$1")
+| match(pattern= sruQueryPattern +"</(zs:|)query>.+$",replacement="$1")
 | decode-csv(separator="\t")
 | fix(FLUX_DIR + "failed.fix",*)
 | batch-log("Total broken ids: ${totalRecords}",batchSize="100")
