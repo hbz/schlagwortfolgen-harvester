@@ -3,7 +3,7 @@ default catalogue="dnb";
 default systemIsil="DE-101";
 default sruHarvest=FLUX_DIR + version + catalogue + "_sru_records.xml.gz";
 default outfile=FLUX_DIR + version + catalogue + "Subjects.xml.gz";
-default lobidHarvest = FLUX_DIR + version + catalogue + "Subjects.jsonl.gz";
+default lobidHarvest = FLUX_DIR + version + catalogue + "LobidWithoutSchlagwortfolge.jsonl.gz";
 default lookupFile = FLUX_DIR + version + "almaMmsId2" + catalogue + "Id.tsv";
 default sruLinkPart1 = "https://services.dnb.de/sru/dnb?version=1.1&operation=searchRetrieve&query=dnb.idn=";
 default sruLinkPart2 = "&recordSchema=MARC21-xml";
@@ -72,8 +72,8 @@ sruHarvest
 | handle-marcxml
 | batch-log("Total SRU proper records: ${totalRecords}", batchSize="100")
 | fix(FLUX_DIR + "subject.fix",*)
+| batch-log("Harvested Records with Schlagwortfolgen: ${totalRecords}", batchSize="100")
 | encode-marcxml
-| object-batch-log("Harvested Records with Schlagwortfolgen: ${totalRecords}", batchSize="100")
 | write(outfile, compression="gzip") // compression is better for big file
 ;
 

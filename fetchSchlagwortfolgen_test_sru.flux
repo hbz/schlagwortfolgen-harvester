@@ -12,16 +12,16 @@ default testLobidQuery = "https://lobid.org/resources/search?q=_exists_%3AdnbId+
 
 // Outcommented to not harvest the data every time.
 
-// "Start harvesting lobid for " + catalogue + " records without Schlagwortfolgen"
-// | print;
+"Start harvesting lobid for " + catalogue + " records without Schlagwortfolgen"
+| print;
 
 //// We download all reacords that have catalogue ids but no Schlagwortfolgen from lobid resources.
 
-// testLobidQuery
-// | open-http(header="User-Agent: hbz/" + catalogue + "-schlagwortfolgen-harvester\\nAccept-Encoding: gzip" )
-// | as-lines
-// | write(lobidHarvest)
-// ;
+testLobidQuery + "&format=jsonl"
+| open-http(header="User-Agent: hbz/" + catalogue + "-schlagwortfolgen-harvester" )
+| as-lines
+| write(lobidHarvest)
+;
 
 "Harvesting lobid finished. Start creating dnbId2" + catalogue + "Id map."
 | print;
@@ -72,8 +72,8 @@ sruHarvest
 | handle-marcxml
 | batch-log("Total SRU proper records: ${totalRecords}", batchSize="10")
 | fix(FLUX_DIR + "subject.fix",*)
+| batch-log("Harvested Records with Schlagwortfolgen: ${totalRecords}", batchSize="100")
 | encode-marcxml
-| object-batch-log("Harvested Records with Schlagwortfolgen: ${totalRecords}", batchSize="100")
 | write(outfile)
 ;
 
