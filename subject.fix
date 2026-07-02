@@ -1,7 +1,7 @@
 # Prepare maps
 
 do once("maps")
-  put_filemap("$[lookupFile]", "$[catalogue]Id2AlmaMmsId", sep_char:"\t", key_column:"1", value_column:"0", expected_columns:"-1")
+  put_filemap("$[LOOKUP_FILE]", "$[CATALOGUE]Id2AlmaMmsId", sep_char:"\t", key_column:"1", value_column:"0", expected_columns:"-1")
 end
 
 # Skip records without 689
@@ -12,19 +12,19 @@ end
 
 # Move system id 001 to 035 and append system isil
 
-copy_field("001","@$[catalogue]Id")
-prepend("@$[catalogue]Id","($[systemIsil])")
+copy_field("001","@$[CATALOGUE]Id")
+prepend("@$[CATALOGUE]Id","($[SYSTEM_ISIL])")
 if is_array("035  ")
-    copy_field("@$[catalogue]Id","035  .$append.a")
+    copy_field("@$[CATALOGUE]Id","035  .$append.a")
 else
     move_field("035  ","@035  ")
     copy_field("@035  ","035  .$append")
-    copy_field("@$[catalogue]Id","035  .$append.a")
+    copy_field("@$[CATALOGUE]Id","035  .$append.a")
 end
 
 # Assigne hbz almaMmsId with lookup map
 
-lookup("001","$[catalogue]Id2AlmaMmsId")
+lookup("001","$[CATALOGUE]Id2AlmaMmsId")
 
 # Delete all non GND Ids in $$0 which do not have Prefix (DE-588) and make the linkage uniq.
 
