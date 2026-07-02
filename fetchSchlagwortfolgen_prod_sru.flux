@@ -88,10 +88,9 @@ SRU_HARVEST
 SRU_HARVEST
 | open-file
 | as-lines
-// TODO: Filter pattern was "<records/>" this seems not to be always true.
-| filter-strings(SRU_QUERY_PATTERN +"</(zs:|)query>.+$",passmatches="true")
-// TODO: Adjust for all workflows
-| match(pattern= SRU_QUERY_PATTERN +"</(zs:|)query>.+$",replacement="$1")
+// Should work for all SRU with echoedSearchRetrieveRequest in their response.
+| filter-strings("<(?:zs:|)searchRetrieveResponse" + SRU_QUERY_PATTERN +"</(?:zs:|)query>.+$",passmatches="true")
+| match(pattern="<(?:zs:|)searchRetrieveResponse" + SRU_QUERY_PATTERN +"</(?:zs:|)query>.+$",replacement="$1")
 | decode-csv(separator="\t")
 | fix(FLUX_DIR + "failed.fix",*)
 | batch-log("Total broken ids: ${totalRecords}",batchSize="100")
