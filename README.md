@@ -47,7 +47,7 @@ In order to upate or adjust the test data basis undo the outcomment in the test 
 
 #### obv
 
-
+`path/to/metafacture/flux.sh fetchSchlagwortfolgen_test_sru.flux CATALOGUE="obv" SYSTEM_ISIL="AT-OBV" SRU_LINK_PART_1="https://services.obvsg.at/sru/OBV-PARTNER?operation=searchRetrieve&query=alma.other_system_number_035_a_exact=" SRU_LINK_PART_2="&maximumRecords=10" SRU_QUERY_PATTERN=".*alma.other_system_number_035_a_exact=(.+)" TEST_LOBID_QUERY="https://lobid.org/resources/search?q=_exists_%3AobvId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+philosophy"` for harvesting needs auth credential with the variable `AUTH= "[BASE64 of User:Password]"`
 
 TODO: Adjust query for all union catalogue.
 
@@ -85,5 +85,7 @@ TODO: Adjust query for all union catalogue.
 `path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux CATALOGUE="kobv" SYSTEM_ISIL="DE-602" SRU_LINK_PART_1="https://sru.kobv.de/k2?version=1.1&operation=searchRetrieve&query=rec.id%3D" SRU_LINK_PART_2="&startRecord=1&maximumRecords=10&recordSchema=marcxml&recordSchema=marcxml" SRU_QUERY_PATTERN=".*rec.id=(.+)"`
 
 #### obv
+
+`path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux CATALOGUE="obv" SYSTEM_ISIL="AT-OBV" SRU_LINK_PART_1="https://services.obvsg.at/sru/OBV-PARTNER?operation=searchRetrieve&query=alma.other_system_number_035_a_exact=" SRU_LINK_PART_2="&maximumRecords=10" SRU_QUERY_PATTERN=".*alma.other_system_number_035_a_exact=(.+)" AUTH= "[BASE64 of User:Password]` for harvesting needs auth credential with the variable `AUTH= "[BASE64 of User:Password]"
 
 TODO: Adjust query for all union catalogue.
