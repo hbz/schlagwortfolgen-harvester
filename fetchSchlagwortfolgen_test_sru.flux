@@ -1,6 +1,7 @@
 default VERSION="test/";
 default CATALOGUE="dnb";
 default SYSTEM_ISIL="DE-101";
+default AUTH ="";
 default SRU_HARVEST=FLUX_DIR + VERSION + CATALOGUE + "_sru_records.xml";
 default OUTFILE=FLUX_DIR + VERSION + CATALOGUE + "Subjects.xml";
 default LOBID_HARVEST = FLUX_DIR + VERSION + CATALOGUE + "Subjects.jsonl";
@@ -51,7 +52,7 @@ LOBID_HARVEST
 //| literal-to-object
 //| template(SRU_LINK_PART_1 + "${o}" + SRU_LINK_PART_2)
 //| catch-object-exception
-//| open-http(header="User-Agent: hbz/" + CATALOGUE + "-schlagwortfolgen-harvester", accept="application/xml")
+//| open-http(header="User-Agent: hbz/" + CATALOGUE + "-schlagwortfolgen-harvester\nAuthorization: Basic " + AUTH, accept="application/xml")
 //| as-records
 //// The following two steps create a single xml file from the multiple incoming sru requests, saved into a harvest tag
 //| match(pattern="<\\?xml version=.*?>", replacement="")
