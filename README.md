@@ -15,77 +15,116 @@ Metafacture 8.0.1 or higher
 
 ### DNB
 
-`path/to/metafacture/flux.sh fetchSchlagwortfolgen_test_sru.flux` (Is the default setting of the workflow.)
+```bash
+path/to/metafacture/flux.sh fetchSchlagwortfolgen_test_sru.flux
+```
+
+(Is the default setting of the workflow.)
 
 In order to upate or adjust the test data basis undo the outcomment in the test workflow.
 
 ### Other Verbundkatalog
 
-`path/to/metafacture/flux.sh fetchSchlagwortfolgen_test_sru.flux CATALOGUE="..." SYSTEM_ISIL="..." SRU_LINK_PART_1="..." SRU_LINK_PART_2="..." SRU_QUERY_PATTERN="..." TEST_LOBID_QUERY="..."`
+```bash
+path/to/metafacture/flux.sh fetchSchlagwortfolgen_test_sru.flux CATALOGUE="..." SYSTEM_ISIL="..." SRU_LINK_PART_1="..." SRU_LINK_PART_2="..." SRU_QUERY_PATTERN="..." TEST_LOBID_QUERY="..."
+```
 
 #### hebis
 
-`path/to/metafacture/flux.sh fetchSchlagwortfolgen_test_sru.flux CATALOGUE="hebis" SYSTEM_ISIL="DE-603" SRU_LINK_PART_1="http://sru.hebis.de/sru/DB=2.1?query=pica.ppn+%3D+%22" SRU_LINK_PART_2="%22&version=1.1&operation=searchRetrieve&stylesheet=http%3A%2F%2Fsru.hebis.de%2Fsru%2F%3Fxsl%3DsearchRetrieveResponse&recordSchema=marc21&maximumRecords=10&startRecord=1&recordPacking=xml&sortKeys=LST_Y%2Cpica%2C0%2C%2C" SRU_QUERY_PATTERN=".*pica.ppn=(.+)" TEST_LOBID_QUERY="https://lobid.org/resources/search?q=_exists_%3AhebisId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+Gem%C3%BCse"`
+```bash
+path/to/metafacture/flux.sh fetchSchlagwortfolgen_test_sru.flux CATALOGUE="hebis" SYSTEM_ISIL="DE-603" SRU_LINK_PART_1="http://sru.hebis.de/sru/DB=2.1?query=pica.ppn+%3D+%22" SRU_LINK_PART_2="%22&version=1.1&operation=searchRetrieve&stylesheet=http%3A%2F%2Fsru.hebis.de%2Fsru%2F%3Fxsl%3DsearchRetrieveResponse&recordSchema=marc21&maximumRecords=10&startRecord=1&recordPacking=xml&sortKeys=LST_Y%2Cpica%2C0%2C%2C" SRU_QUERY_PATTERN=".*pica.ppn=(.+)" TEST_LOBID_QUERY="https://lobid.org/resources/search?q=_exists_%3AhebisId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+Gem%C3%BCse"
+```
 
 #### bvb
 
-`path/to/metafacture/flux.sh fetchSchlagwortfolgen_test_sru.flux CATALOGUE="bvb" SYSTEM_ISIL="DE-604" SRU_LINK_PART_1="http://bvbr.bib-bvb.de:5661/bvb01sru?version=1.1&recordSchema=marcxml&operation=searchRetrieve&query=marcxml.idn=" SRU_LINK_PART_2="&maximumRecords=1" SRU_QUERY_PATTERN=".*marcxml.idn=(.+)"  TEST_LOBID_QUERY="https://lobid.org/resources/search?q=_exists_%3AbvbId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+Gemüse"`
+```bash
+path/to/metafacture/flux.sh fetchSchlagwortfolgen_test_sru.flux CATALOGUE="bvb" SYSTEM_ISIL="DE-604" SRU_LINK_PART_1="http://bvbr.bib-bvb.de:5661/bvb01sru?version=1.1&recordSchema=marcxml&operation=searchRetrieve&query=marcxml.idn=" SRU_LINK_PART_2="&maximumRecords=1" SRU_QUERY_PATTERN=".*marcxml.idn=(.+)"  TEST_LOBID_QUERY="https://lobid.org/resources/search?q=_exists_%3AbvbId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+Gemüse"
+```
 
 #### bzs
 
 #### gbv
 
-`path/to/metafacture/flux.sh  fetchSchlagwortfolgen_test_sru.flux  CATALOGUE="gbv" SYSTEM_ISIL="DE-627" SRU_LINK_PART_1="https://sru.k10plus.de/opac-de-627?version=1.2&operation=searchRetrieve&query=pica.ppn=" SRU_LINK_PART_2="&maximumRecords=1&recordSchema=marcxml" SRU_QUERY_PATTERN="<zs:searchRetrieveResponse.*pica.ppn=(.+)" TEST_LOBID_QUERY="https://lobid.org/resources/search?q=_exists_%3AgbvId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+Gemüse"`
+```bash
+path/to/metafacture/flux.sh  fetchSchlagwortfolgen_test_sru.flux  CATALOGUE="gbv" SYSTEM_ISIL="DE-627" SRU_LINK_PART_1="https://sru.k10plus.de/opac-de-627?version=1.2&operation=searchRetrieve&query=pica.ppn=" SRU_LINK_PART_2="&maximumRecords=1&recordSchema=marcxml" SRU_QUERY_PATTERN="<zs:searchRetrieveResponse.*pica.ppn=(.+)" TEST_LOBID_QUERY="https://lobid.org/resources/search?q=_exists_%3AgbvId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+Gemüse"
+```
 
 #### k10Plus
 
-`path/to/metafacture/flux.sh fetchSchlagwortfolgen_test_sru.flux CATALOGUE="k10Plus" SYSTEM_ISIL="DE-627" SRU_LINK_PART_1="https://sru.k10plus.de/opac-de-627?version=1.1&operation=searchRetrieve&query=pica.ppn=" SRU_LINK_PART_2="&maximumRecords=1&recordSchema=marcxml" SRU_QUERY_PATTERN=".*pica.ppn=(.+)" TEST_LOBID_QUERY="https://lobid.org/resources/search?q=_exists_%3Ak10PlusId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+Gem%C3%BCse"`
+```bash
+path/to/metafacture/flux.sh fetchSchlagwortfolgen_test_sru.flux CATALOGUE="k10Plus" SYSTEM_ISIL="DE-627" SRU_LINK_PART_1="https://sru.k10plus.de/opac-de-627?version=1.1&operation=searchRetrieve&query=pica.ppn=" SRU_LINK_PART_2="&maximumRecords=1&recordSchema=marcxml" SRU_QUERY_PATTERN=".*pica.ppn=(.+)" TEST_LOBID_QUERY="https://lobid.org/resources/search?q=_exists_%3Ak10PlusId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+Gem%C3%BCse"
+```
 
 #### kobv
 
-`path/to/metafacture/flux.sh fetchSchlagwortfolgen_test_sru.flux CATALOGUE="kobv" SYSTEM_ISIL="DE-602" SRU_LINK_PART_1="https://sru.kobv.de/k2?version=1.1&operation=searchRetrieve&query=rec.id%3D" SRU_LINK_PART_2="&startRecord=1&maximumRecords=10&recordSchema=marcxml&recordSchema=marcxml" SRU_QUERY_PATTERN=".*rec.id=(.+)" TEST_LOBID_QUERY="https://lobid.org/resources/search?q=_exists_%3AkobvId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+Garten"`
+```bash
+path/to/metafacture/flux.sh fetchSchlagwortfolgen_test_sru.flux CATALOGUE="kobv" SYSTEM_ISIL="DE-602" SRU_LINK_PART_1="https://sru.kobv.de/k2?version=1.1&operation=searchRetrieve&query=rec.id%3D" SRU_LINK_PART_2="&startRecord=1&maximumRecords=10&recordSchema=marcxml&recordSchema=marcxml" SRU_QUERY_PATTERN=".*rec.id=(.+)" TEST_LOBID_QUERY="https://lobid.org/resources/search?q=_exists_%3AkobvId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+Garten"
+```
 
 #### obv
 
-`path/to/metafacture/flux.sh fetchSchlagwortfolgen_test_sru.flux CATALOGUE="obv" SYSTEM_ISIL="AT-OBV" SRU_LINK_PART_1="https://services.obvsg.at/sru/OBV-PARTNER?operation=searchRetrieve&query=alma.other_system_number_035_a_exact=" SRU_LINK_PART_2="&maximumRecords=10" SRU_QUERY_PATTERN=".*alma.other_system_number_035_a_exact=(.+)" TEST_LOBID_QUERY="https://lobid.org/resources/search?q=_exists_%3AobvId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+philosophy"` for harvesting needs auth credential with the variable `AUTH= "[BASE64 of User:Password]"`
+```bash
+path/to/metafacture/flux.sh fetchSchlagwortfolgen_test_sru.flux CATALOGUE="obv" SYSTEM_ISIL="AT-OBV" SRU_LINK_PART_1="https://services.obvsg.at/sru/OBV-PARTNER?operation=searchRetrieve&query=alma.other_system_number_035_a_exact=" SRU_LINK_PART_2="&maximumRecords=10" SRU_QUERY_PATTERN=".*alma.other_system_number_035_a_exact=(.+)" TEST_LOBID_QUERY="https://lobid.org/resources/search?q=_exists_%3AobvId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+philosophy"
+```
 
-TODO: Adjust query for all union catalogue.
+ for harvesting needs auth credential with the variable `AUTH= "[BASE64 of User:Password]"
+
 
 ## Create prod dump
 
 ### DNB
 
-`path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux`  (Is the default setting of the workflow.)
+```bash
+path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux
+```
+
+(Is the default setting of the workflow.)
 
 ### Other Verbundkatalog
 
-`path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux CATALOGUE="..." SYSTEM_ISIL="..." SRU_LINK_PART_1="..." SRU_LINK_PART_2="..." SRU_QUERY_PATTERN="..."`
+```bash
+path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux CATALOGUE="..." SYSTEM_ISIL="..." SRU_LINK_PART_1="..." SRU_LINK_PART_2="..." SRU_QUERY_PATTERN="..."
+```
 
 #### hebis
 
-`path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux CATALOGUE="hebis" SYSTEM_ISIL="DE-603" SRU_LINK_PART_1="http://sru.hebis.de/sru/DB=2.1?query=pica.ppn+%3D+%22" SRU_LINK_PART_2="%22&version=1.1&operation=searchRetrieve&stylesheet=http%3A%2F%2Fsru.hebis.de%2Fsru%2F%3Fxsl%3DsearchRetrieveResponse&recordSchema=marc21&maximumRecords=10&startRecord=1&recordPacking=xml&sortKeys=LST_Y%2Cpica%2C0%2C%2C" SRU_QUERY_PATTERN=".*pica.ppn=(.+)"`
-`
+```bash
+path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux CATALOGUE="hebis" SYSTEM_ISIL="DE-603" SRU_LINK_PART_1="http://sru.hebis.de/sru/DB=2.1?query=pica.ppn+%3D+%22" SRU_LINK_PART_2="%22&version=1.1&operation=searchRetrieve&stylesheet=http%3A%2F%2Fsru.hebis.de%2Fsru%2F%3Fxsl%3DsearchRetrieveResponse&recordSchema=marc21&maximumRecords=10&startRecord=1&recordPacking=xml&sortKeys=LST_Y%2Cpica%2C0%2C%2C" SRU_QUERY_PATTERN=".*pica.ppn=(.+)"
+```
 
 #### bvb
 
-`path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux CATALOGUE="bvb" SYSTEM_ISIL="DE-604" SRU_LINK_PART_1="http://bvbr.bib-bvb.de:5661/bvb01sru?version=1.1&recordSchema=marcxml&operation=searchRetrieve&query=marcxml.idn=" SRU_LINK_PART_2="&maximumRecords=1" SRU_QUERY_PATTERN=".*marcxml.idn=(.+)"`
+```bash
+path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux CATALOGUE="bvb" SYSTEM_ISIL="DE-604" SRU_LINK_PART_1="http://bvbr.bib-bvb.de:5661/bvb01sru?version=1.1&recordSchema=marcxml&operation=searchRetrieve&query=marcxml.idn=" SRU_LINK_PART_2="&maximumRecords=1" SRU_QUERY_PATTERN=".*marcxml.idn=(.+)"
+```
 
 #### bzs
 
+TODO: bsz workflow
+
 #### gbv
 
-`path/to/metafacture/flux.sh  fetchSchlagwortfolgen_prod_sru.flux  CATALOGUE="gbv" SYSTEM_ISIL="DE-627" SRU_LINK_PART_1="https://sru.k10plus.de/opac-de-627?version=1.2&operation=searchRetrieve&query=pica.ppn=" SRU_LINK_PART_2="&maximumRecords=1&recordSchema=marcxml" SRU_QUERY_PATTERN=".*pica.ppn=(.+)"`
+```bash
+path/to/metafacture/flux.sh  fetchSchlagwortfolgen_prod_sru.flux  CATALOGUE="gbv" SYSTEM_ISIL="DE-627" SRU_LINK_PART_1="https://sru.k10plus.de/opac-de-627?version=1.2&operation=searchRetrieve&query=pica.ppn=" SRU_LINK_PART_2="&maximumRecords=1&recordSchema=marcxml" SRU_QUERY_PATTERN=".*pica.ppn=(.+)"
+```
 
 #### k10Plus
 
-`path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux CATALOGUE="k10Plus" SYSTEM_ISIL="DE-627" SRU_LINK_PART_1="hhttps://sru.k10plus.de/opac-de-627?version=1.1&operation=searchRetrieve&query=pica.ppn=" SRU_LINK_PART_2="&maximumRecords=1&recordSchema=marcxml" SRU_QUERY_PATTERN=".*pica.ppn=(.+)"`
+```bash
+path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux CATALOGUE="k10Plus" SYSTEM_ISIL="DE-627" SRU_LINK_PART_1="hhttps://sru.k10plus.de/opac-de-627?version=1.1&operation=searchRetrieve&query=pica.ppn=" SRU_LINK_PART_2="&maximumRecords=1&recordSchema=marcxml" SRU_QUERY_PATTERN=".*pica.ppn=(.+)"
+```
 
 #### kobv
 
-`path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux CATALOGUE="kobv" SYSTEM_ISIL="DE-602" SRU_LINK_PART_1="https://sru.kobv.de/k2?version=1.1&operation=searchRetrieve&query=rec.id%3D" SRU_LINK_PART_2="&startRecord=1&maximumRecords=10&recordSchema=marcxml&recordSchema=marcxml" SRU_QUERY_PATTERN=".*rec.id=(.+)"`
+```bash
+path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux CATALOGUE="kobv" SYSTEM_ISIL="DE-602" SRU_LINK_PART_1="https://sru.kobv.de/k2?version=1.1&operation=searchRetrieve&query=rec.id%3D" SRU_LINK_PART_2="&startRecord=1&maximumRecords=10&recordSchema=marcxml&recordSchema=marcxml" SRU_QUERY_PATTERN=".*rec.id=(.+)"
+```
 
 #### obv
 
-`path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux CATALOGUE="obv" SYSTEM_ISIL="AT-OBV" SRU_LINK_PART_1="https://services.obvsg.at/sru/OBV-PARTNER?operation=searchRetrieve&query=alma.other_system_number_035_a_exact=" SRU_LINK_PART_2="&maximumRecords=10" SRU_QUERY_PATTERN=".*alma.other_system_number_035_a_exact=(.+)" AUTH= "[BASE64 of User:Password]` for harvesting needs auth credential with the variable `AUTH= "[BASE64 of User:Password]"
+```bash
+path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux CATALOGUE="obv" SYSTEM_ISIL="AT-OBV" SRU_LINK_PART_1="https://services.obvsg.at/sru/OBV-PARTNER?operation=searchRetrieve&query=alma.other_system_number_035_a_exact=" SRU_LINK_PART_2="&maximumRecords=10" SRU_QUERY_PATTERN=".*alma.other_system_number_035_a_exact=(.+)" AUTH= "[BASE64 of User:Password]
+```
 
-TODO: Adjust query for all union catalogue.
+ for harvesting needs auth credential with the variable `AUTH= "[BASE64 of User:Password]"
+
