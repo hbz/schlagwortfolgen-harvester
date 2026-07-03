@@ -35,6 +35,7 @@ do list(path:"689??","var":"$i")
         replace_all("$i.0","^(?!\\(DE-588\\)).*$","")
     end
     uniq("$i.5")
+    remove_field("$i.2")
 end
 
 # Only keep 001, 035 and 689

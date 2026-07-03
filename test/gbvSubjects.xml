@@ -21,37 +21,31 @@
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4033576-8</marc:subfield>
 			<marc:subfield code="a">Kulturpflanzen</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4042838-2</marc:subfield>
 			<marc:subfield code="a">Nutzpflanzen</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4502749-3</marc:subfield>
 			<marc:subfield code="a">Alte Sorte</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4153520-0</marc:subfield>
 			<marc:subfield code="a">Fächerübergreifender Unterricht</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="4">
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4022349-8</marc:subfield>
 			<marc:subfield code="a">Grundschule</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="5">
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4115645-6</marc:subfield>
 			<marc:subfield code="a">Projekt</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">(DE-627)</marc:subfield>
@@ -76,7 +70,6 @@
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4041421-8</marc:subfield>
 			<marc:subfield code="a">Naturwissenschaften</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">(DE-627)</marc:subfield>
@@ -101,7 +94,6 @@
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4041421-8</marc:subfield>
 			<marc:subfield code="a">Naturwissenschaften</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">(DE-627)</marc:subfield>
@@ -126,7 +118,6 @@
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4048737-4</marc:subfield>
 			<marc:subfield code="a">Recht</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">(DE-627)</marc:subfield>
@@ -151,13 +142,11 @@
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4020816-3</marc:subfield>
 			<marc:subfield code="a">Gewächshaus</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4019294-5</marc:subfield>
 			<marc:subfield code="a">Gartenbau</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">(DE-627)</marc:subfield>

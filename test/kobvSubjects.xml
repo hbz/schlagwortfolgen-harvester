@@ -18,7 +18,6 @@
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4067960-3</marc:subfield>
 			<marc:subfield code="a">Zoologie</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">(DE-627)</marc:subfield>
