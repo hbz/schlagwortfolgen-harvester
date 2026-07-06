@@ -12,14 +12,14 @@ end
 
 # Move system id 001 to 035 and append system isil
 add_field("@catalogue", "$[CATALOGUE]")
-if any_equal("@catalogue","bsz")
+if any_equal("@catalogue","bsz") # specific handling for bsz due to not matching 001 to bszId in k10Plus
     do list(path:"035  ","var":"$i")
         if any_contain("$i.a","(DE-576)")
             copy_field("$i.a","001")
             replace_all("001","\\(DE-576\\)","")
         end
     end
-elsif any_equal("@catalogue","obv")
+elsif any_equal("@catalogue","obv")  # specific handling for obv due to not matching 001 to obvId
     do list(path:"035  ","var":"$i")
         if any_contain("$i.a","(AT-OBV)")
             copy_field("$i.a","001")
@@ -38,6 +38,8 @@ else
     copy_field("@035  ","035  .$append")
     copy_field("@$[CATALOGUE]Id","035  .$append.a")
 end
+
+uniq("035  ")
 
 # Assigne hbz almaMmsId with lookup map
 

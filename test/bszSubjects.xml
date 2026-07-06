@@ -17,9 +17,6 @@
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(OCoLC)1033918959</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(DE-576)470880406</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4019286-6</marc:subfield>
@@ -85,9 +82,6 @@
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(OCoLC)843459815</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(DE-576)381140741</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4068817-3</marc:subfield>
@@ -119,9 +113,6 @@
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(DE-604)8123993032</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(DE-576)047235403</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4020072-3</marc:subfield>
@@ -148,9 +139,6 @@
 		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(OCoLC)311626660</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(DE-576)023181478</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="D">s</marc:subfield>

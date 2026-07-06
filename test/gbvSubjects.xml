@@ -14,9 +14,6 @@
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(OCoLC)907227399</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(DE-627)162137162X</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4033576-8</marc:subfield>
@@ -63,9 +60,6 @@
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(OCoLC)52649463</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(DE-627)251488578</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4041421-8</marc:subfield>
@@ -86,9 +80,6 @@
 		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(OCoLC)71964538</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(DE-627)313056331</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="D">s</marc:subfield>
@@ -111,9 +102,6 @@
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(OCoLC)41199145</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(DE-627)234401028</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4048737-4</marc:subfield>
@@ -134,9 +122,6 @@
 		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(OCoLC)46222359</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(DE-627)134032578</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="D">s</marc:subfield>
