@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
 	<marc:record>
-		<marc:controlfield tag="001">990085516440203331</marc:controlfield>
+		<marc:controlfield tag="001">990204069210206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)AC08518441</marc:subfield>
 		</marc:datafield>
@@ -15,7 +15,7 @@
 			<marc:subfield code="a">(DE-599)OBVAC08518441</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(AT-OBV)990085516440203331</marc:subfield>
+			<marc:subfield code="a">(AT-OBV)AC08518441</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Musik</marc:subfield>
@@ -48,7 +48,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">990084497680203331</marc:controlfield>
+		<marc:controlfield tag="001">990213281830206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)AC08433879</marc:subfield>
 		</marc:datafield>
@@ -62,7 +62,7 @@
 			<marc:subfield code="a">(DE-599)OBVAC08433879</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(AT-OBV)990084497680203331</marc:subfield>
+			<marc:subfield code="a">(AT-OBV)AC08433879</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Wissenschaftstheorie</marc:subfield>
@@ -85,7 +85,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">990144139650203331</marc:controlfield>
+		<marc:controlfield tag="001">990223689040206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)AC14510197</marc:subfield>
 		</marc:datafield>
@@ -93,7 +93,7 @@
 			<marc:subfield code="a">(DE-599)OBVAC14510197</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(AT-OBV)990144139650203331</marc:subfield>
+			<marc:subfield code="a">(AT-OBV)AC14510197</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Wiener Kreis</marc:subfield>
@@ -112,7 +112,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">990109024050203331</marc:controlfield>
+		<marc:controlfield tag="001">99375181152406441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)AC10916253</marc:subfield>
 		</marc:datafield>
@@ -126,7 +126,7 @@
 			<marc:subfield code="a">(DE-599)OBVAC10916253</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(AT-OBV)990109024050203331</marc:subfield>
+			<marc:subfield code="a">(AT-OBV)AC10916253</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Menschenrecht</marc:subfield>
@@ -199,7 +199,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">99144707971103331</marc:controlfield>
+		<marc:controlfield tag="001">990225181730206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)AC15053337</marc:subfield>
 		</marc:datafield>
@@ -207,7 +207,7 @@
 			<marc:subfield code="a">(DE-599)OBVAC15053337</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(AT-OBV)99144707971103331</marc:subfield>
+			<marc:subfield code="a">(AT-OBV)AC15053337</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Software</marc:subfield>
@@ -226,7 +226,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">99149822231203331</marc:controlfield>
+		<marc:controlfield tag="001">99376540723206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)AC17754987</marc:subfield>
 		</marc:datafield>
@@ -234,7 +234,7 @@
 			<marc:subfield code="a">(DE-599)OBVAC17754987</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(AT-OBV)99149822231203331</marc:subfield>
+			<marc:subfield code="a">(AT-OBV)AC17754987</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Wittgenstein, Ludwig</marc:subfield>
@@ -255,7 +255,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">990135343660203331</marc:controlfield>
+		<marc:controlfield tag="001">990218971720206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)AC13716764</marc:subfield>
 		</marc:datafield>
@@ -269,7 +269,7 @@
 			<marc:subfield code="a">(DE-599)OBVAC13716764</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(AT-OBV)990135343660203331</marc:subfield>
+			<marc:subfield code="a">(AT-OBV)AC13716764</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Glaube</marc:subfield>
@@ -298,7 +298,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">99149483428703331</marc:controlfield>
+		<marc:controlfield tag="001">99376193193406441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)AC17672555</marc:subfield>
 		</marc:datafield>
@@ -306,7 +306,7 @@
 			<marc:subfield code="a">(DE-599)OBVAC17672555</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(AT-OBV)99149483428703331</marc:subfield>
+			<marc:subfield code="a">(AT-OBV)AC17672555</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Europa</marc:subfield>
@@ -335,7 +335,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">990113243950203331</marc:controlfield>
+		<marc:controlfield tag="001">990202692540206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)AC11308480</marc:subfield>
 		</marc:datafield>
@@ -343,7 +343,7 @@
 			<marc:subfield code="a">(DE-599)OBVAC11308480</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(AT-OBV)990113243950203331</marc:subfield>
+			<marc:subfield code="a">(AT-OBV)AC11308480</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Mathematik</marc:subfield>
@@ -381,7 +381,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">990086847360203331</marc:controlfield>
+		<marc:controlfield tag="001">990207174790206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)AC08712715</marc:subfield>
 		</marc:datafield>
@@ -395,7 +395,7 @@
 			<marc:subfield code="a">(DE-599)OBVAC08712715</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(AT-OBV)990086847360203331</marc:subfield>
+			<marc:subfield code="a">(AT-OBV)AC08712715</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Buddhistische Philosophie</marc:subfield>
@@ -451,7 +451,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">990120582540203331</marc:controlfield>
+		<marc:controlfield tag="001">990219643290206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)AC12174453</marc:subfield>
 		</marc:datafield>
@@ -465,7 +465,7 @@
 			<marc:subfield code="a">(DE-599)OBVAC12174453</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(AT-OBV)990120582540203331</marc:subfield>
+			<marc:subfield code="a">(AT-OBV)AC12174453</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Philosophie</marc:subfield>
@@ -488,7 +488,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">99149444572703331</marc:controlfield>
+		<marc:controlfield tag="001">99376327780506441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)AC17639697</marc:subfield>
 		</marc:datafield>
@@ -505,7 +505,7 @@
 			<marc:subfield code="a">oai:dnb.de/dnb/1374980986</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(AT-OBV)99149444572703331</marc:subfield>
+			<marc:subfield code="a">(AT-OBV)AC17639697</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Klimaschutz</marc:subfield>
@@ -539,7 +539,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">99149133985803331</marc:controlfield>
+		<marc:controlfield tag="001">99375937768906441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)AC17528707</marc:subfield>
 		</marc:datafield>
@@ -556,7 +556,7 @@
 			<marc:subfield code="a">oai:dnb.de/dnb/1361710268</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(AT-OBV)99149133985803331</marc:subfield>
+			<marc:subfield code="a">(AT-OBV)AC17528707</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Verschwörungstheorie</marc:subfield>
@@ -575,7 +575,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">990073179360203331</marc:controlfield>
+		<marc:controlfield tag="001">990175647150206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)AC07541561</marc:subfield>
 		</marc:datafield>
@@ -589,7 +589,7 @@
 			<marc:subfield code="a">(DE-599)OBVAC07541561</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(AT-OBV)990073179360203331</marc:subfield>
+			<marc:subfield code="a">(AT-OBV)AC07541561</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Globalisierung</marc:subfield>
@@ -618,7 +618,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">99146784516503331</marc:controlfield>
+		<marc:controlfield tag="001">99371493843506441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)AC16530359</marc:subfield>
 		</marc:datafield>
@@ -626,7 +626,7 @@
 			<marc:subfield code="a">(DE-599)OBVAC16530359</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(AT-OBV)99146784516503331</marc:subfield>
+			<marc:subfield code="a">(AT-OBV)AC16530359</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Eigentum</marc:subfield>
@@ -693,7 +693,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">990144209390203331</marc:controlfield>
+		<marc:controlfield tag="001">990226957300206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)AC14513974</marc:subfield>
 		</marc:datafield>
@@ -707,7 +707,7 @@
 			<marc:subfield code="a">(DE-599)OBVAC14513974</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(AT-OBV)990144209390203331</marc:subfield>
+			<marc:subfield code="a">(AT-OBV)AC14513974</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Jainismus</marc:subfield>
@@ -755,7 +755,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">990074167440203331</marc:controlfield>
+		<marc:controlfield tag="001">990177437730206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)AC07622938</marc:subfield>
 		</marc:datafield>
@@ -769,7 +769,7 @@
 			<marc:subfield code="a">(DE-599)OBVAC07622938</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(AT-OBV)990074167440203331</marc:subfield>
+			<marc:subfield code="a">(AT-OBV)AC07622938</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Leib-Seele-Problem</marc:subfield>
@@ -831,7 +831,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">990067760900203331</marc:controlfield>
+		<marc:controlfield tag="001">990178574650206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)AC06815676</marc:subfield>
 		</marc:datafield>
@@ -845,7 +845,7 @@
 			<marc:subfield code="a">(DE-599)OBVAC06815676</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(AT-OBV)990067760900203331</marc:subfield>
+			<marc:subfield code="a">(AT-OBV)AC06815676</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Kunstbetrieb</marc:subfield>

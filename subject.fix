@@ -19,6 +19,13 @@ if any_equal("@catalogue","bsz")
             replace_all("001","\\(DE-576\\)","")
         end
     end
+elsif any_equal("@catalogue","obv")
+    do list(path:"035  ","var":"$i")
+        if any_contain("$i.a","(AT-OBV)")
+            copy_field("$i.a","001")
+            replace_all("001","\\(AT-OBV\\)","")
+        end
+    end
 end
 
 
