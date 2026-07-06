@@ -11,6 +11,16 @@ unless exists("689??")
 end
 
 # Move system id 001 to 035 and append system isil
+add_field("@catalogue", "$[CATALOGUE]")
+if any_equal("@catalogue","bsz")
+    do list(path:"035  ","var":"$i")
+        if any_contain("$i.a","(DE-576)")
+            copy_field("$i.a","001")
+            replace_all("001","\\(DE-576\\)","")
+        end
+    end
+end
+
 
 copy_field("001","@$[CATALOGUE]Id")
 prepend("@$[CATALOGUE]Id","($[SYSTEM_ISIL])")

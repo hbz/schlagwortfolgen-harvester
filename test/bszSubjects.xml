@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
 	<marc:record>
-		<marc:controlfield tag="001">861438051</marc:controlfield>
+		<marc:controlfield tag="001">990213668520206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(DE-627)861438051</marc:subfield>
 		</marc:datafield>
@@ -18,7 +18,7 @@
 			<marc:subfield code="a">(OCoLC)1033918959</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(DE-576)861438051</marc:subfield>
+			<marc:subfield code="a">(DE-576)470880406</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="D">s</marc:subfield>
@@ -69,7 +69,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">1602633231</marc:controlfield>
+		<marc:controlfield tag="001">990196937520206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(DE-627)1602633231</marc:subfield>
 		</marc:datafield>
@@ -86,7 +86,7 @@
 			<marc:subfield code="a">(OCoLC)843459815</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(DE-576)1602633231</marc:subfield>
+			<marc:subfield code="a">(DE-576)381140741</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="D">s</marc:subfield>
@@ -103,7 +103,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">1117235408</marc:controlfield>
+		<marc:controlfield tag="001">990223229430206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(DE-627)1117235408</marc:subfield>
 		</marc:datafield>
@@ -120,7 +120,7 @@
 			<marc:subfield code="a">(DE-604)8123993032</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(DE-576)1117235408</marc:subfield>
+			<marc:subfield code="a">(DE-576)047235403</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="D">s</marc:subfield>
@@ -133,7 +133,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">1093181478</marc:controlfield>
+		<marc:controlfield tag="001">990188164550206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(DE-627)1093181478</marc:subfield>
 		</marc:datafield>
@@ -150,7 +150,7 @@
 			<marc:subfield code="a">(OCoLC)311626660</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
-			<marc:subfield code="a">(DE-576)1093181478</marc:subfield>
+			<marc:subfield code="a">(DE-576)023181478</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="D">s</marc:subfield>
