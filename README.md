@@ -43,7 +43,15 @@ path/to/metafacture/flux.sh fetchSchlagwortfolgen_test_sru.flux CATALOGUE="bvb" 
 
 #### bzs
 
+via k10Plus
+
+```bash
+path/to/metafacture/flux.sh fetchSchlagwortfolgen_test_sru.flux CATALOGUE="bsz" SYSTEM_ISIL="DE-576" SRU_LINK_PART_1="https://sru.k10plus.de/opac-de-627?version=1.1&operation=searchRetrieve&query=pica.swn=" SRU_LINK_PART_2="&maximumRecords=1&recordSchema=marcxml" SRU_QUERY_PATTERN=".*pica.swn=(.+)" TEST_LOBID_QUERY="https://lobid.org/resources/search?q=_exists_%3AbszId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+Gartenbau"
+```
+
 #### gbv
+
+via k10Plus
 
 ```bash
 path/to/metafacture/flux.sh  fetchSchlagwortfolgen_test_sru.flux  CATALOGUE="gbv" SYSTEM_ISIL="DE-627" SRU_LINK_PART_1="https://sru.k10plus.de/opac-de-627?version=1.2&operation=searchRetrieve&query=pica.ppn=" SRU_LINK_PART_2="&maximumRecords=1&recordSchema=marcxml" SRU_QUERY_PATTERN="<zs:searchRetrieveResponse.*pica.ppn=(.+)" TEST_LOBID_QUERY="https://lobid.org/resources/search?q=_exists_%3AgbvId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+Gemüse"
@@ -100,9 +108,15 @@ path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux CATALOGUE="bvb" 
 
 #### bzs
 
-TODO: bsz workflow
+via k10Plus
+
+```bash
+path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux CATALOGUE="bsz" SYSTEM_ISIL="DE-576" SRU_LINK_PART_1="https://sru.k10plus.de/opac-de-627?version=1.1&operation=searchRetrieve&query=pica.swn=" SRU_LINK_PART_2="&maximumRecords=1&recordSchema=marcxml" SRU_QUERY_PATTERN=".*pica.swn=(.+)"
+```
 
 #### gbv
+
+via k10Plus
 
 ```bash
 path/to/metafacture/flux.sh  fetchSchlagwortfolgen_prod_sru.flux  CATALOGUE="gbv" SYSTEM_ISIL="DE-627" SRU_LINK_PART_1="https://sru.k10plus.de/opac-de-627?version=1.2&operation=searchRetrieve&query=pica.ppn=" SRU_LINK_PART_2="&maximumRecords=1&recordSchema=marcxml" SRU_QUERY_PATTERN=".*pica.ppn=(.+)"
