@@ -13,6 +13,15 @@ Metafacture 8.0.1 or higher
 
 ## Run tests
 
+> [!IMPORTANT]
+> The harvesting processes are outcommented in the test, if you want to update a certain workflow, you have to undo the outcommenting and run a single workflow.
+
+To run all test workflows at once:
+
+```bash
+bash schlagwortfolgen_harvesting_test.sh 'path/to/metafacture/flux.sh'
+```
+
 ### DNB
 
 ```bash
@@ -26,7 +35,7 @@ In order to upate or adjust the test data basis undo the outcomment in the test 
 ### Other Verbundkatalog
 
 ```bash
-path/to/metafacture/flux.sh fetchSchlagwortfolgen_test_sru.flux CATALOGUE="..." SYSTEM_ISIL="..." SRU_LINK_PART_1="..." SRU_LINK_PART_2="..." SRU_QUERY_PATTERN="..." TEST_LOBID_QUERY="..."
+path/to/metafacture/flux.sh fetchSchlagwortfolgen_test_sru.flux CATALOGUE="..." SYSTEM_ISIL="..." SRU_LINK_PART_1="..." SRU_LINK_PART_2="..." SRU_QUERY_PATTERN="..." TEST_LOBID_QUERY="..." SLEEP_TIME="..."
 ```
 
 #### hebis
@@ -75,10 +84,17 @@ path/to/metafacture/flux.sh fetchSchlagwortfolgen_test_sru.flux CATALOGUE="kobv"
 path/to/metafacture/flux.sh fetchSchlagwortfolgen_test_sru.flux CATALOGUE="obv" SYSTEM_ISIL="AT-OBV" SRU_LINK_PART_1="https://services.obvsg.at/sru/OBV-PARTNER?operation=searchRetrieve&query=alma.other_system_number_035_a_exact=" SRU_LINK_PART_2="&maximumRecords=10" SRU_QUERY_PATTERN=".*alma.other_system_number_035_a_exact=(.+)" TEST_LOBID_QUERY="https://lobid.org/resources/search?q=_exists_%3AobvId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+philosophy"
 ```
 
- for harvesting needs auth credential with the variable `AUTH= "[BASE64 of User:Password]"
+for harvesting needs auth credential with the variable `AUTH= "[BASE64 of User:Password]"`
 
 
-## Create prod dump
+## Create prod dumps
+
+To run all test workflows at once:
+
+```bash
+bash schlagwortfolgen_harvesting_prod.sh 'path/to/metafacture/flux.sh'
+```
+
 
 ### DNB
 
@@ -91,7 +107,7 @@ path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux
 ### Other Verbundkatalog
 
 ```bash
-path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux CATALOGUE="..." SYSTEM_ISIL="..." SRU_LINK_PART_1="..." SRU_LINK_PART_2="..." SRU_QUERY_PATTERN="..."
+path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux CATALOGUE="..." SYSTEM_ISIL="..." SRU_LINK_PART_1="..." SRU_LINK_PART_2="..." SRU_QUERY_PATTERN="..." SLEEP_TIME="..."
 ```
 
 #### hebis
@@ -140,5 +156,5 @@ path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux CATALOGUE="kobv"
 path/to/metafacture/flux.sh fetchSchlagwortfolgen_prod_sru.flux CATALOGUE="obv" SYSTEM_ISIL="AT-OBV" SRU_LINK_PART_1="https://services.obvsg.at/sru/OBV-PARTNER?operation=searchRetrieve&query=alma.other_system_number_035_a_exact=" SRU_LINK_PART_2="&maximumRecords=10" SRU_QUERY_PATTERN=".*alma.other_system_number_035_a_exact=(.+)" AUTH= "[BASE64 of User:Password]
 ```
 
- for harvesting needs auth credential with the variable `AUTH= "[BASE64 of User:Password]"
+for harvesting needs auth credential with the variable `AUTH= "[BASE64 of User:Password]"`
 
