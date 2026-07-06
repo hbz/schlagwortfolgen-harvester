@@ -55,6 +55,7 @@ do list(path:"689??","var":"$i")
     end
     uniq("$i.5")
     remove_field("$i.2")
+    remove_field("$i.8")
 end
 
 # Only keep 001, 035 and 689
