@@ -51,12 +51,12 @@ LOBID_HARVEST
 //| fix("retain('$[CATALOGUE]Id')",*)
 //| literal-to-object
 //| template(SRU_LINK_PART_1 + "${o}" + SRU_LINK_PART_2)
-//| catch-object-exception
+//| catch-object-exception(logprefix=CATALOGUE, logstacktrace="true")
 //| open-http(header="User-Agent: hbz/" + CATALOGUE + "-schlagwortfolgen-harvester\nAuthorization: Basic " + AUTH, accept="application/xml")
 //| as-records
 //// The following two steps create a single xml file from the multiple incoming sru requests, saved into a harvest tag
 //| match(pattern="<\\?xml version=.*?>", replacement="")
-//| object-batch-log("SRU Queries: ${totalRecords}", batchSize="10")
+//| object-batch-log(CATALOGUE + ": SRU Queries: ${totalRecords}", batchSize="10")
 //| write(SRU_HARVEST, header="<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<harvest>", footer="</harvest>")
 //;
 
@@ -72,9 +72,9 @@ SRU_HARVEST
 | read-string
 | decode-xml
 | handle-marcxml
-| batch-log("Total SRU proper records: ${totalRecords}", batchSize="10")
+| batch-log(CATALOGUE + ": Total SRU proper records: ${totalRecords}", batchSize="10")
 | fix(FLUX_DIR + "subject.fix",*)
-| batch-log("Harvested Records with Schlagwortfolgen: ${totalRecords}", batchSize="100")
+| batch-log(CATALOGUE + ": Harvested Records with Schlagwortfolgen: ${totalRecords}", batchSize="100")
 | encode-marcxml
 | write(OUTFILE)
 ;
@@ -92,7 +92,7 @@ SRU_HARVEST
 | match(pattern="<(?:zs:|)searchRetrieveResponse" + SRU_QUERY_PATTERN +"</(?:zs:|)query>.+$",replacement="$1")
 | decode-csv(separator="\t")
 | fix(FLUX_DIR + "failed.fix",*)
-| batch-log("Total broken ids: ${totalRecords}",batchSize="100")
+| batch-log(CATALOGUE + ": Total broken ids: ${totalRecords}",batchSize="100")
 | encode-csv(separator="\t",includeheader="true",noQuotes="true")
 | write(FAILS_FILE)
 ;
