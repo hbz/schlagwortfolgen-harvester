@@ -3,7 +3,7 @@ default CATALOGUE="dnb";
 default SYSTEM_ISIL="DE-101";
 default AUTH ="";
 default SRU_HARVEST=FLUX_DIR + VERSION + "/harvest/" + CATALOGUE + "-sru-records.xml.gz";
-default OUTFILE=FLUX_DIR + VERSION + "swk-" + CATALOGUE + ".xml";
+default OUTFILE=FLUX_DIR + VERSION + "swk-" + CATALOGUE + ".xml.gz";
 default LOBID_HARVEST = FLUX_DIR + VERSION +"/harvest/"  + CATALOGUE + "-lobid-records-no-swk.jsonl.gz";
 default LOOKUP_FILE = FLUX_DIR + VERSION + "/maps/" + "almaMmsId2" + CATALOGUE + "Id.tsv";
 default SRU_LINK_PART_1 = "https://services.dnb.de/sru/dnb?version=1.1&operation=searchRetrieve&query=dnb.idn=";
@@ -17,12 +17,17 @@ default FAILS_FILE = FLUX_DIR + VERSION + CATALOGUE + "failed.tsv";
 | print;
 
 // On the basis of the SRU harvest we extract the Schlagwortfolgen and create new minimal MARC XML records for importing them into ALMA.
+// Use a faster intermediate saved cleaned file.
 
 SRU_HARVEST
 | open-file
-| as-records
-| match(pattern="ERROR: (?:.|\n)*?</body></html>",replacement="")
-| read-string
+| as-lines
+| filter-strings("ERROR:",passmatches="false")
+| write(SRU_HARVEST + "_cleaned" )
+;
+
+SRU_HARVEST + "_cleaned"
+| open-file
 | decode-xml
 | handle-marcxml
 | batch-log(CATALOGUE + ": Total SRU proper records: ${totalRecords}", batchSize="1000")
