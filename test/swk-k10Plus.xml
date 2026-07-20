@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+	<marc:record>
+		<marc:controlfield tag="001">99375069059806441</marc:controlfield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627)1889976164</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)DNB1329872967</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(OCoLC)1434761395</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="D">p</marc:subfield>
+			<marc:subfield code="0">(DE-588)123473535</marc:subfield>
+			<marc:subfield code="a">Sørensen, Carl Th.</marc:subfield>
+			<marc:subfield code="d">1893-1979</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="1">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4019311-1</marc:subfield>
+			<marc:subfield code="a">Gartengestaltung</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">(DE-627)</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+	<marc:record>
+		<marc:controlfield tag="001">99373191256906441</marc:controlfield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627)1636878083</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-576)485225204</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)BSZ485225204</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4011510-0</marc:subfield>
+			<marc:subfield code="a">Design</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="1">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4701948-7</marc:subfield>
+			<marc:subfield code="a">Schachbrett</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="2">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4157139-3</marc:subfield>
+			<marc:subfield code="a">Gestaltung</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">(DE-627)</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+	<marc:record>
+		<marc:controlfield tag="001">99377112719506441</marc:controlfield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627)567352196</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)BVBVD0017206</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(OCoLC)1244452513</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(VD16)VD0017206</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(ST16)i015213</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(ST16)SBB16</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4020202-1</marc:subfield>
+			<marc:subfield code="a">Geodäsie</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="1">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4020236-7</marc:subfield>
+			<marc:subfield code="a">Geometrie</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="2">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4037944-9</marc:subfield>
+			<marc:subfield code="a">Mathematik</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">(DE-627)</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+	<marc:record>
+		<marc:controlfield tag="001">99373065062206441</marc:controlfield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627)1842111906</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)DNB1285431049</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(OCoLC)1398315917</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4029002-5</marc:subfield>
+			<marc:subfield code="a">Junge</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="1">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4022219-6</marc:subfield>
+			<marc:subfield code="a">Großmutter</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="2">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4019286-6</marc:subfield>
+			<marc:subfield code="a">Garten</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">(DE-627)</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+	<marc:record>
+		<marc:controlfield tag="001">99376558251206441</marc:controlfield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627)1924288745</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)DNB1359578323</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(OCoLC)1509694630</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4019286-6</marc:subfield>
+			<marc:subfield code="a">Garten</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="1">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4135893-4</marc:subfield>
+			<marc:subfield code="a">Wildtiere</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="2">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4048476-2</marc:subfield>
+			<marc:subfield code="a">Ratgeber</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">DE-101</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+	<marc:record>
+		<marc:controlfield tag="001">99371681085306441</marc:controlfield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627)1796442887</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)DNB1253737835</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(OCoLC)1347215578</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(OCoLC)1305022589</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="0">(DE-588)4011889-7</marc:subfield>
+			<marc:subfield code="a">Deutschland</marc:subfield>
+			<marc:subfield code="g">Bundesrepublik</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="1">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4034402-2</marc:subfield>
+			<marc:subfield code="a">Landwirtschaft</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="2">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4129884-6</marc:subfield>
+			<marc:subfield code="a">Fleischwirtschaft</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="3">
+			<marc:subfield code="A">z</marc:subfield>
+			<marc:subfield code="a">Geschichte 1950-1990</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">(DE-627)</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+	<marc:record>
+		<marc:controlfield tag="001">99376237966406441</marc:controlfield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627)1930966857</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)DNB1371257876</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(OCoLC)1528031505</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4000771-6</marc:subfield>
+			<marc:subfield code="a">Agrarpolitik</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="1">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4073988-0</marc:subfield>
+			<marc:subfield code="a">Agrarsoziologie</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="2">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4034402-2</marc:subfield>
+			<marc:subfield code="a">Landwirtschaft</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="3">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4326464-5</marc:subfield>
+			<marc:subfield code="a">Nachhaltigkeit</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="4">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4068097-6</marc:subfield>
+			<marc:subfield code="a">Zukunft</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="5">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4068473-8</marc:subfield>
+			<marc:subfield code="a">Agrarwissenschaft</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">DE-101</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+	<marc:record>
+		<marc:controlfield tag="001">99372482877006441</marc:controlfield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627)1820546594</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)DNB1271265699</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(OCoLC)1349707033</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="0">(DE-588)4009937-4</marc:subfield>
+			<marc:subfield code="a">China</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="1">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4125179-9</marc:subfield>
+			<marc:subfield code="a">Gartenkunst</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="2">
+			<marc:subfield code="A">z</marc:subfield>
+			<marc:subfield code="a">Geschichte</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">(DE-627)</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+	<marc:record>
+		<marc:controlfield tag="001">99374959124006441</marc:controlfield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627)1906230838</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)KEP108955796</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(NOMOS)9783689001339</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627-1)108955796</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(INLIBRA)9783689001339</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="0">(DE-588)1267304693</marc:subfield>
+			<marc:subfield code="a">Buddhistisches Haus</marc:subfield>
+			<marc:subfield code="g">Berlin</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="1">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4008690-2</marc:subfield>
+			<marc:subfield code="a">Buddhismus</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="2">
+			<marc:subfield code="A">z</marc:subfield>
+			<marc:subfield code="a">Geschichte 1924-2024</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">DE-101</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+	<marc:record>
+		<marc:controlfield tag="001">990370526910206441</marc:controlfield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627)1744622787</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)DNB1224758935</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(OCoLC)1230473764</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="0">(DE-588)4011882-4</marc:subfield>
+			<marc:subfield code="a">Deutschland</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="1">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4312847-6</marc:subfield>
+			<marc:subfield code="a">Mandel</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="2">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4168771-1</marc:subfield>
+			<marc:subfield code="a">Mandelbaum</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="3">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4523501-6</marc:subfield>
+			<marc:subfield code="a">Mandelanbau</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">(DE-627)</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+	<marc:record>
+		<marc:controlfield tag="001">99376558554906441</marc:controlfield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627)357707133</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)GBV357707133</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(OCoLC)249457840</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4063885-6</marc:subfield>
+			<marc:subfield code="a">Volkswirtschaft</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">(DE-627)</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+	<marc:record>
+		<marc:controlfield tag="001">99374562861806441</marc:controlfield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627)416142818</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)GBV416142818</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(OCoLC)250544414</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4202192-3</marc:subfield>
+			<marc:subfield code="a">Satirische Prosa</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="1">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4035964-5</marc:subfield>
+			<marc:subfield code="a">Literatur</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="2">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4113292-0</marc:subfield>
+			<marc:subfield code="a">Deutsch</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">(DE-627)</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+	<marc:record>
+		<marc:controlfield tag="001">99375198609906441</marc:controlfield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627)1668930153</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)KXP1668930153</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(OCoLC)1135491588</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="0">(DE-588)4011882-4</marc:subfield>
+			<marc:subfield code="a">Deutschland</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="1">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4530752-0</marc:subfield>
+			<marc:subfield code="a">Historischer Garten</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="2">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4250664-5</marc:subfield>
+			<marc:subfield code="a">Erhaltung</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="3">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4264180-9</marc:subfield>
+			<marc:subfield code="a">Gartendenkmalpflege</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">(DE-627)</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+	<marc:record>
+		<marc:controlfield tag="001">99371720845106441</marc:controlfield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627)1817912143</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)KEP082025142</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(NARR)9783739880921</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627-1)082025142</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4018406-7</marc:subfield>
+			<marc:subfield code="a">Tourismus</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="1">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4402277-3</marc:subfield>
+			<marc:subfield code="a">Weltkulturerbe</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">DE-101</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="1" ind2="0">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4018406-7</marc:subfield>
+			<marc:subfield code="a">Tourismus</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="1" ind2="1">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4402278-5</marc:subfield>
+			<marc:subfield code="a">Weltnaturerbe</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="1" ind2=" ">
+			<marc:subfield code="5">(DE-627)</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="2" ind2="0">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4115348-0</marc:subfield>
+			<marc:subfield code="a">Naturschutz</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="2" ind2="1">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4018406-7</marc:subfield>
+			<marc:subfield code="a">Tourismus</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="2" ind2=" ">
+			<marc:subfield code="5">(DE-627)</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+	<marc:record>
+		<marc:controlfield tag="001">99373016575206441</marc:controlfield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627)1833870816</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)DNB1279981350</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(OCoLC)1407088760</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4019286-6</marc:subfield>
+			<marc:subfield code="a">Garten</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">DE-101</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+	<marc:record>
+		<marc:controlfield tag="001">99371192028006441</marc:controlfield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627)683167731</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)GBV683167731</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(OCoLC)838793186</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4036774-5</marc:subfield>
+			<marc:subfield code="a">Lyrik</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="1">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4035964-5</marc:subfield>
+			<marc:subfield code="a">Literatur</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="2">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4113292-0</marc:subfield>
+			<marc:subfield code="a">Deutsch</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">(DE-627)</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+	<marc:record>
+		<marc:controlfield tag="001">99373068964406441</marc:controlfield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627)1852053690</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)KXP1852053690</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(OCoLC)1407088055</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="0">(DE-588)4420022-5</marc:subfield>
+			<marc:subfield code="a">Wittumspalais Weimar</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="1">
+			<marc:subfield code="D">b</marc:subfield>
+			<marc:subfield code="0">(DE-588)2111640-4</marc:subfield>
+			<marc:subfield code="a">Schillermuseum Weimar</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="2">
+			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="0">(DE-588)1163330892</marc:subfield>
+			<marc:subfield code="a">Schillerhaus</marc:subfield>
+			<marc:subfield code="g">Weimar</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="3">
+			<marc:subfield code="D">b</marc:subfield>
+			<marc:subfield code="0">(DE-588)2049358-7</marc:subfield>
+			<marc:subfield code="a">Goethe-Nationalmuseum</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="4">
+			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="0">(DE-588)4306871-6</marc:subfield>
+			<marc:subfield code="a">Goethehaus Weimar</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="5">
+			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="0">(DE-588)4039647-2</marc:subfield>
+			<marc:subfield code="a">Kirms-Krackow-Haus Weimar</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="6">
+			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="0">(DE-588)4431538-7</marc:subfield>
+			<marc:subfield code="a">Schloss</marc:subfield>
+			<marc:subfield code="g">Tiefurt</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="7">
+			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="0">(DE-588)4511631-3</marc:subfield>
+			<marc:subfield code="a">Schloss Belvedere Weimar</marc:subfield>
+			<marc:subfield code="g">Weimar</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="8">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4161787-3</marc:subfield>
+			<marc:subfield code="a">Innenraum</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="9">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4162156-6</marc:subfield>
+			<marc:subfield code="a">Intervention</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="9">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4377380-1</marc:subfield>
+			<marc:subfield code="a">Alltagsgegenstand</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="9">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4039827-4</marc:subfield>
+			<marc:subfield code="a">Moderne</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">(DE-627)</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+	<marc:record>
+		<marc:controlfield tag="001">99372917925806441</marc:controlfield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627)275776425</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-576)9275776423</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)GBV275776425</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(OCoLC)246869083</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4073157-1</marc:subfield>
+			<marc:subfield code="a">Kaktusgewächse</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="1">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4158977-4</marc:subfield>
+			<marc:subfield code="a">Handbuch</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">(DE-627)</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+	<marc:record>
+		<marc:controlfield tag="001">99370720886806441</marc:controlfield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627)840846681</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-576)984084668X</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)DNB1078912033</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(OCoLC)930637790</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4028532-7</marc:subfield>
+			<marc:subfield code="a">Jazz</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">DE-101</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="1" ind2="0">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4028532-7</marc:subfield>
+			<marc:subfield code="a">Jazz</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="1" ind2="1">
+			<marc:subfield code="A">z</marc:subfield>
+			<marc:subfield code="a">Geschichte 1900-2016</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="1" ind2=" ">
+			<marc:subfield code="5">(DE-627)</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+	<marc:record>
+		<marc:controlfield tag="001">99371520666606441</marc:controlfield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627)1800942931</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)DNB1256448559</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(OCoLC)1352492430</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(OCoLC)1313913955</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4019286-6</marc:subfield>
+			<marc:subfield code="a">Garten</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">(DE-627)</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="1" ind2="0">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4019286-6</marc:subfield>
+			<marc:subfield code="a">Garten</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="1" ind2="1">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4033597-5</marc:subfield>
+			<marc:subfield code="a">Kulturwissenschaften</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="1" ind2="2">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4133431-0</marc:subfield>
+			<marc:subfield code="a">Kultursoziologie</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="1" ind2=" ">
+			<marc:subfield code="5">(DE-627)</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+	<marc:record>
+		<marc:controlfield tag="001">99372000302406441</marc:controlfield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627)1838104356</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)KXP1838104356</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(OCoLC)1373325789</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="0">(DE-588)4015701-5</marc:subfield>
+			<marc:subfield code="a">Europa</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="1">
+			<marc:subfield code="A">z</marc:subfield>
+			<marc:subfield code="a">Geschichte 1945-2022</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">(DE-627)</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="1" ind2="0">
+			<marc:subfield code="D">p</marc:subfield>
+			<marc:subfield code="0">(DE-588)119520206</marc:subfield>
+			<marc:subfield code="a">Garton Ash, Timothy</marc:subfield>
+			<marc:subfield code="d">1955-</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="1" ind2=" ">
+			<marc:subfield code="5">(DE-627)</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+	<marc:record>
+		<marc:controlfield tag="001">99372918492206441</marc:controlfield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627)405944268</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)GBV405944268</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(OCoLC)250049591</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4034870-2</marc:subfield>
+			<marc:subfield code="a">Lebensmittel</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="1">
+			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="0">(DE-588)4063317-2</marc:subfield>
+			<marc:subfield code="a">Verwaltung</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">(DE-627)</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+	<marc:record>
+		<marc:controlfield tag="001">99376634769306441</marc:controlfield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-627)1936612488</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(DE-599)DNB1375818457</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="035" ind1=" " ind2=" ">
+			<marc:subfield code="a">(OCoLC)1535741512</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2="0">
+			<marc:subfield code="D">p</marc:subfield>
+			<marc:subfield code="0">(DE-588)11879406X</marc:subfield>
+			<marc:subfield code="a">Saint Phalle, Niki de</marc:subfield>
+			<marc:subfield code="d">1930-2002</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="0" ind2=" ">
+			<marc:subfield code="5">(DE-627)</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="1" ind2="0">
+			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="0">(DE-588)1397678097</marc:subfield>
+			<marc:subfield code="a">Herrenhäuser Gärten</marc:subfield>
+			<marc:subfield code="g">Hannover</marc:subfield>
+			<marc:subfield code="g">Grotte</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="1" ind2=" ">
+			<marc:subfield code="5">(DE-627)</marc:subfield>
+		</marc:datafield>
+	</marc:record>
+
+</marc:collection>

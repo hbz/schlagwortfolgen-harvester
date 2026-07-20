@@ -1,0 +1,3169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<harvest>
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">861438051</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20251224202120.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">160621s2016    au |||||      00| ||ger c</controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">16,A34</subfield>
+    <subfield code="2">dnb</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="a">1103037668</subfield>
+    <subfield code="2">DE-101</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9783950331929</subfield>
+    <subfield code="q"> : Broschur : EUR 16.00 (DE), EUR 16.00 (AT)</subfield>
+    <subfield code="9">978-3-9503319-2-9</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">3950331921</subfield>
+    <subfield code="q"> : Broschur : EUR 16.00 (DE), EUR 16.00 (AT)</subfield>
+    <subfield code="9">3-9503319-2-1</subfield>
+  </datafield>
+  <datafield tag="024" ind1="3" ind2=" ">
+    <subfield code="a">9783950331929</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)861438051</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)470880406</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)DNB1103037668</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)951828083</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1033918959</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-AT</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">630</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+    <subfield code="a">635.04996</subfield>
+    <subfield code="q">DE-101</subfield>
+    <subfield code="2">22/ger</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2="4">
+    <subfield code="a">630</subfield>
+    <subfield code="q">DE-101</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">ZC 28210</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/154805:</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">ZC 65300</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/155062:</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Kvech, Alexander</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="0">(DE-588)1106877004</subfield>
+    <subfield code="0">(DE-627)86322671X</subfield>
+    <subfield code="0">(DE-576)474941418</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Pflanzenschutz im Garten</subfield>
+    <subfield code="b">Zierpflanzen und Rasen : Vorbeugen, Erkennen, Behandeln ohne Gift, mit Maßnahmenkalender</subfield>
+    <subfield code="c">Eigentümer und Herausgeber: Österreichische Gartenbau-Gesellschaft, Wien ; Alexander Kvech, Michael Münch, Dominik Linhard, Alexander Lorber [und 5 andere]</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">1. Auflage</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Wien</subfield>
+    <subfield code="b">Österreichische Gartenbau-Gesellschaft</subfield>
+    <subfield code="c">2016</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">89 Seiten</subfield>
+    <subfield code="b">Illustrationen</subfield>
+    <subfield code="c">27 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Die Schriftenreihe der Österreichischen Gartenbau-Gesellschaft</subfield>
+    <subfield code="v">3</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4019286-6</subfield>
+    <subfield code="0">(DE-627)10458971X</subfield>
+    <subfield code="0">(DE-576)20892888X</subfield>
+    <subfield code="a">Garten</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="1">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4045586-5</subfield>
+    <subfield code="0">(DE-627)106201034</subfield>
+    <subfield code="0">(DE-576)209066059</subfield>
+    <subfield code="a">Pflanzenschutz</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="2">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4042756-0</subfield>
+    <subfield code="0">(DE-627)106212753</subfield>
+    <subfield code="0">(DE-576)209052406</subfield>
+    <subfield code="a">Nützling</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="3">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4051949-1</subfield>
+    <subfield code="0">(DE-627)106174479</subfield>
+    <subfield code="0">(DE-576)209095970</subfield>
+    <subfield code="a">Schädling</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">DE-101</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2="0">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4127303-5</subfield>
+    <subfield code="0">(DE-627)105725714</subfield>
+    <subfield code="0">(DE-576)209592524</subfield>
+    <subfield code="a">Ziergarten</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2="1">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4048425-7</subfield>
+    <subfield code="0">(DE-627)106190784</subfield>
+    <subfield code="0">(DE-576)209077778</subfield>
+    <subfield code="a">Rasen</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2="2">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4132093-1</subfield>
+    <subfield code="0">(DE-627)105690260</subfield>
+    <subfield code="0">(DE-576)209632690</subfield>
+    <subfield code="a">Pflanzenschädling</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2="3">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4006862-6</subfield>
+    <subfield code="0">(DE-627)106375873</subfield>
+    <subfield code="0">(DE-576)208867546</subfield>
+    <subfield code="a">Biologische Schädlingsbekämpfung</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2=" ">
+    <subfield code="5">DE-101</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Münch, Michael</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Linhard, Dominik</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Lorber, Alexander</subfield>
+    <subfield code="e">VerfasserIn</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Österreichische Gartenbaugesellschaft</subfield>
+    <subfield code="e">Herausgebendes Organ</subfield>
+    <subfield code="0">(DE-588)1040514-8</subfield>
+    <subfield code="0">(DE-627)103905375</subfield>
+    <subfield code="0">(DE-576)191376442</subfield>
+    <subfield code="4">isb</subfield>
+  </datafield>
+  <datafield tag="810" ind1="2" ind2=" ">
+    <subfield code="a">Österreichische Gartenbaugesellschaft</subfield>
+    <subfield code="t">Die Schriftenreihe der Österreichischen Gartenbau-Gesellschaft</subfield>
+    <subfield code="v">3</subfield>
+    <subfield code="9">3</subfield>
+    <subfield code="w">(DE-627)720169860</subfield>
+    <subfield code="w">(DE-576)475093240</subfield>
+    <subfield code="w">(DE-600)2674158-1</subfield>
+    <subfield code="7">am</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="u">http://d-nb.info/1103037668/04</subfield>
+    <subfield code="m">B:DE-101</subfield>
+    <subfield code="q">application/pdf</subfield>
+    <subfield code="3">Inhaltsverzeichnis</subfield>
+    <subfield code="7">1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">3231643899</subfield>
+    <subfield code="b">DE-14</subfield>
+    <subfield code="9">14</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">3231643953</subfield>
+    <subfield code="b">DE-520</subfield>
+    <subfield code="9">520</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">ZC 65300-18 2071</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="i">Blocktest</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">ZC 28210</subfield>
+    <subfield code="b">Gesamtdarstellungen, Lehrbücher, Nachschlagewerke</subfield>
+    <subfield code="k">Agrar- und Forstwissenschaft, Gartenbau, Ernährungs- und Haushaltswissenschaft</subfield>
+    <subfield code="k">Allgemeiner Pflanzenbau</subfield>
+    <subfield code="k">Pflanzenschutz</subfield>
+    <subfield code="k">Gesamtdarstellungen, Lehrbücher, Nachschlagewerke</subfield>
+    <subfield code="0">(DE-627)127185984X</subfield>
+    <subfield code="0">(DE-625)rvk/154805:</subfield>
+    <subfield code="0">(DE-576)20185984X</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">ZC 65300</subfield>
+    <subfield code="b">Krankheiten, Schädlinge</subfield>
+    <subfield code="k">Agrar- und Forstwissenschaft, Gartenbau, Ernährungs- und Haushaltswissenschaft</subfield>
+    <subfield code="k">Garten-, Obst- und Weinbau</subfield>
+    <subfield code="k">Zierpflanzenbau</subfield>
+    <subfield code="k">Krankheiten, Schädlinge</subfield>
+    <subfield code="0">(DE-627)1271753898</subfield>
+    <subfield code="0">(DE-625)rvk/155062:</subfield>
+    <subfield code="0">(DE-576)201753898</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.swn=470880406</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1385335947</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20241116100036.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">100114s1886    xx |||||      00| ||ger c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1385335947</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)315335947</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ315335947</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)252928335</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1083988951</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="8">1\p</subfield>
+    <subfield code="a">Brandis, Dietrich</subfield>
+    <subfield code="d">1824-1907</subfield>
+    <subfield code="0">(DE-588)118514342</subfield>
+    <subfield code="0">(DE-627)141900954</subfield>
+    <subfield code="0">(DE-576)208873503</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">Die Nadelhölzer Indiens</subfield>
+    <subfield code="b">ein Vortrag gehalten am 15. März 1886 auf Veranlassung des Gartenbau-Vereins; mit 3 Abbildungen</subfield>
+    <subfield code="c">von Dr. Brandis</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Bonn</subfield>
+    <subfield code="b">Strauß</subfield>
+    <subfield code="c">1886</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">30 S.</subfield>
+    <subfield code="b">Ill.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung prüfen</subfield>
+    <subfield code="c">20200919</subfield>
+    <subfield code="f">DE-640</subfield>
+    <subfield code="z">1</subfield>
+    <subfield code="2">pdager</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung/Langzeitarchivierung gewährleistet</subfield>
+    <subfield code="f">SLG</subfield>
+    <subfield code="x">XA-DE-BW</subfield>
+    <subfield code="z">Schlossbibliothek Baden-Baden</subfield>
+    <subfield code="2">pdager</subfield>
+    <subfield code="5">DE-31</subfield>
+  </datafield>
+  <datafield tag="776" ind1="0" ind2="8">
+    <subfield code="i">Erscheint auch als</subfield>
+    <subfield code="n">Online-Ausgabe</subfield>
+    <subfield code="a">Brandis, Dietrich, 1824 - 1907</subfield>
+    <subfield code="t">Die Nadelhölzer Indiens</subfield>
+    <subfield code="d">Bonn : Strauß, 1886</subfield>
+    <subfield code="h">30 S.</subfield>
+    <subfield code="w">(DE-627)1659063973</subfield>
+    <subfield code="w">(DE-576)497751496</subfield>
+  </datafield>
+  <datafield tag="883" ind1=" " ind2=" ">
+    <subfield code="8">1\p</subfield>
+    <subfield code="a">cgwrk</subfield>
+    <subfield code="d">20241001</subfield>
+    <subfield code="q">DE-101</subfield>
+    <subfield code="u">https://d-nb.info/provenance/plan#cgwrk</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2663316024</subfield>
+    <subfield code="b">DE-14</subfield>
+    <subfield code="9">14</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2620012341</subfield>
+    <subfield code="b">DE-15</subfield>
+    <subfield code="9">15</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">3048934987</subfield>
+    <subfield code="b">DE-31</subfield>
+    <subfield code="9">31</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">3048935002</subfield>
+    <subfield code="b">DE-31</subfield>
+    <subfield code="9">31</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">98 B 84079</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2714189253</subfield>
+    <subfield code="b">DE-185</subfield>
+    <subfield code="9">185</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">1972 T 0185</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.swn=315335947</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1100182268</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20250306131709.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">921007s1806    xx |||||      00| ||ger c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1100182268</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)030182263</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ030182263</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)248341442</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Zeyher, Johann Michael</subfield>
+    <subfield code="d">1770-1843</subfield>
+    <subfield code="0">(DE-588)11877266X</subfield>
+    <subfield code="0">(DE-627)07955198X</subfield>
+    <subfield code="0">(DE-576)209437308</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Verzeichniss sämmtlicher Bäume und Sträucher in den Grossherzoglich-Badischen Gärten zu Carlsruhe, Schwezingen und Mannheim</subfield>
+    <subfield code="c">rsg. vom Gartenbau-Director Zeyher</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="0">
+    <subfield code="a">Verzeichnis sämtlicher Karlsruhe Schwetzingen</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Mannheim</subfield>
+    <subfield code="b">Burgerspital</subfield>
+    <subfield code="c">1806</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">48 S.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Mannheim, gedruckt mit Burgerspitals-Schriften 1806</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung/Langzeitarchivierung gewährleistet</subfield>
+    <subfield code="f">SLG</subfield>
+    <subfield code="x">XA-DE-BW</subfield>
+    <subfield code="z">Oberrhein</subfield>
+    <subfield code="2">pdager</subfield>
+    <subfield code="5">DE-31</subfield>
+  </datafield>
+  <datafield tag="751" ind1=" " ind2=" ">
+    <subfield code="a">Mannheim</subfield>
+    <subfield code="0">(DE-588)4037372-1</subfield>
+    <subfield code="0">(DE-627)106237896</subfield>
+    <subfield code="0">(DE-576)209023783</subfield>
+    <subfield code="4">pup</subfield>
+  </datafield>
+  <datafield tag="776" ind1="0" ind2="8">
+    <subfield code="i">Erscheint auch als</subfield>
+    <subfield code="n">Online-Ausgabe</subfield>
+    <subfield code="a">Zeyher, Johann Michael, 1770 - 1843</subfield>
+    <subfield code="t">Verzeichniss sämmtlicher Bäume und Sträucher in den Grossherzoglich-Badischen Gärten zu Carlsruhe, Schwezingen und Mannheim</subfield>
+    <subfield code="d">Mannheim : Burgerspital, 1806</subfield>
+    <subfield code="h">1 Online-Ressource (48 S.)</subfield>
+    <subfield code="w">(DE-627)1917468040</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2193427771</subfield>
+    <subfield code="b">DE-21</subfield>
+    <subfield code="9">21</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">Bi 65</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2539010067</subfield>
+    <subfield code="b">DE-31</subfield>
+    <subfield code="9">31</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">O59 A 53</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2593920068</subfield>
+    <subfield code="b">DE-Mh28</subfield>
+    <subfield code="9">Mh 28</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="g">Mh 609</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.swn=030182263</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1652966552</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20180729033918.0</controlfield>
+  <controlfield tag="007">cr uuu---uuuuu</controlfield>
+  <controlfield tag="008">130815s2011    xx |||||o     00| ||ger c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1652966552</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)392293935</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ392293935</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Produkt- und Prozessinnovationen im Gartenbau</subfield>
+    <subfield code="b">47. Gartenbauwissenschaftliche Jahrestagung; Kurzfassung der Vorträge und Poster; Hannover, 23. - 26. Februar 2011</subfield>
+    <subfield code="c">Hrsg.: Bundesverband der Hochschulabsolventen/Ingenieure Gartenbau und Landschaftsarchitektur e.V., BHGL ... Zusstellung: Holger Hoffmann ...</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Berlin</subfield>
+    <subfield code="b">BHGL</subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource (XXIII, 201 S.)</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">BHGL-Schriftenreihe / Bundesverband der Hochschulabsolventen/Ingenieure Gartenbau und Landschaftsarchitektur</subfield>
+    <subfield code="v">28</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Gesehen am 15.08.2013</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Konferenzschrift</subfield>
+    <subfield code="0">(DE-588)1071861417</subfield>
+    <subfield code="0">(DE-627)826484824</subfield>
+    <subfield code="0">(DE-576)433375485</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Hoffmann, Holger</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Bundesverband Hochschulabsolventen, Ingenieure Gartenbau und Landschaftsarchitektur</subfield>
+    <subfield code="0">(DE-588)10165795-X</subfield>
+    <subfield code="0">(DE-627)527103241</subfield>
+    <subfield code="0">(DE-576)26358738X</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="711" ind1="2" ind2=" ">
+    <subfield code="a">Gartenbauwissenschaftliche Tagung</subfield>
+    <subfield code="n">47</subfield>
+    <subfield code="d">2011</subfield>
+    <subfield code="c">Hannover</subfield>
+    <subfield code="0">(DE-588)1038309395</subfield>
+    <subfield code="0">(DE-627)757106501</subfield>
+    <subfield code="0">(DE-576)392292793</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="810" ind1="2" ind2=" ">
+    <subfield code="a">Bundesverband Hochschulabsolventen, Ingenieure Gartenbau und Landschaftsarchitektur</subfield>
+    <subfield code="t">BHGL-Schriftenreihe</subfield>
+    <subfield code="v">28</subfield>
+    <subfield code="9">28,onl</subfield>
+    <subfield code="w">(DE-627)526643668</subfield>
+    <subfield code="w">(DE-576)313443009</subfield>
+    <subfield code="w">(DE-600)2277473-7</subfield>
+    <subfield code="x">1613-088X</subfield>
+    <subfield code="7">am</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.dgg-online.org/tagungsbaende/Tagungsband_47_2011.pdf</subfield>
+    <subfield code="q">application/pdf</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="z">kostenfrei</subfield>
+    <subfield code="3">Volltext</subfield>
+    <subfield code="7">0</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">336178929X</subfield>
+    <subfield code="b">DE-100X</subfield>
+    <subfield code="9">100X</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">d</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.swn=392293935</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1614126127</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20240509201442.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">150331s1993    gw ||||| c    00| ||ger c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="q">geh.</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1614126127</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)428431380</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ428431380</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)985971711</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-DE-BW</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">863</subfield>
+    <subfield code="2">bwlb</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Bestattungsformen der Hochreligionen</subfield>
+    <subfield code="b">Grenzbereich zwischen Diesseits und Jenseits; eine Ausstellung der IGA Stuttgart EXPO 93</subfield>
+    <subfield code="c">[Hrsg.: IGA Stuttgart 1993 GmbH. Ausstellung und Katalog: Hans-Kurt Boehlke]</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Stuttgart</subfield>
+    <subfield code="b">IGA</subfield>
+    <subfield code="c">1993</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">30 S.</subfield>
+    <subfield code="b">zahlr. Ill.</subfield>
+    <subfield code="c">21 x 30 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">unbewegtes Bild</subfield>
+    <subfield code="b">sti</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung prüfen</subfield>
+    <subfield code="c">20200919</subfield>
+    <subfield code="f">DE-640</subfield>
+    <subfield code="z">2</subfield>
+    <subfield code="2">pdager</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung/Langzeitarchivierung gewährleistet</subfield>
+    <subfield code="f">PEBW</subfield>
+    <subfield code="x">XA-DE-BW</subfield>
+    <subfield code="2">pdager</subfield>
+    <subfield code="5">DE-24</subfield>
+  </datafield>
+  <datafield tag="611" ind1="2" ind2="7">
+    <subfield code="0">(DE-588)4321911-1</subfield>
+    <subfield code="0">(DE-627)127713514</subfield>
+    <subfield code="0">(DE-576)21123169X</subfield>
+    <subfield code="a">IGA</subfield>
+    <subfield code="d">1993</subfield>
+    <subfield code="c">Stuttgart</subfield>
+    <subfield code="2">gnd</subfield>
+    <subfield code="7">(dpeaa)DE-631</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="0">(DE-588)4065455-2</subfield>
+    <subfield code="0">(DE-627)106118870</subfield>
+    <subfield code="0">(DE-576)209158751</subfield>
+    <subfield code="a">Weltreligion</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="7">
+    <subfield code="0">(DE-588)4204578-2</subfield>
+    <subfield code="0">(DE-627)105142301</subfield>
+    <subfield code="0">(DE-576)210163100</subfield>
+    <subfield code="a">Bestattungsritus</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="7">
+    <subfield code="0">(DE-588)4058282-6</subfield>
+    <subfield code="0">(DE-627)106147811</subfield>
+    <subfield code="0">(DE-576)209125608</subfield>
+    <subfield code="a">Stuttgart</subfield>
+    <subfield code="2">gnd</subfield>
+    <subfield code="7">(dpeaa)DE-631</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Ausstellungskatalog</subfield>
+    <subfield code="y">1993</subfield>
+    <subfield code="z">Stuttgart</subfield>
+    <subfield code="0">(DE-588)4135467-9</subfield>
+    <subfield code="0">(DE-627)10566491X</subfield>
+    <subfield code="0">(DE-576)209660988</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Boehlke, Hans-Kurt</subfield>
+    <subfield code="d">1925-2010</subfield>
+    <subfield code="0">(DE-588)105308188</subfield>
+    <subfield code="0">(DE-627)548749353</subfield>
+    <subfield code="0">(DE-576)160341485</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="711" ind1="2" ind2=" ">
+    <subfield code="a">Internationale Gartenbau-Ausstellung</subfield>
+    <subfield code="d">1993</subfield>
+    <subfield code="c">Stuttgart</subfield>
+    <subfield code="0">(DE-588)16287872-2</subfield>
+    <subfield code="0">(DE-627)710359217</subfield>
+    <subfield code="0">(DE-576)355892820</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">3181075213</subfield>
+    <subfield code="b">DE-24</subfield>
+    <subfield code="9">24</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">66Ca/80403</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">3181075280</subfield>
+    <subfield code="b">DE-Stg277</subfield>
+    <subfield code="9">Stg 277</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">d</subfield>
+    <subfield code="g">Ka 2491</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">3181075299</subfield>
+    <subfield code="b">DE-Stg277</subfield>
+    <subfield code="9">Stg 277</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">d</subfield>
+    <subfield code="g">Ka 2491a</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="a">BWLB</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.swn=428431380</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1602633231</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20250331190353.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">140113s2012    lu |||||      00| ||ger c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789279226724</subfield>
+    <subfield code="9">978-92-79-22672-4</subfield>
+  </datafield>
+  <datafield tag="028" ind1="5" ind2="2">
+    <subfield code="a">KE-31-11-450-DE-C</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1602633231</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)381140741</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ381140741</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)935216049</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)843459815</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-LU</subfield>
+    <subfield code="c">XP</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">44.12</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">89.73</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">50.17</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">48.04</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">85.52</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">85.06</subfield>
+    <subfield code="2">bkl</subfield>
+  </datafield>
+  <datafield tag="088" ind1=" " ind2=" ">
+    <subfield code="a">KE-31-11-450-DE-C</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Nicht verbindlicher Leitfaden für vorbildliche Verfahren im Hinblick auf eine bessere Anwendung der Richtlinien zum Schutz von Gesundheit und Sicherheit der in der Landwirtschaft, in der Nutztierhaltung, im Gartenbau und in der Forstwirtschaft beschäftigten Arbeitskräfte</subfield>
+    <subfield code="c">Europäische Kommission, Generaldirektion Beschäftigung, Soziales und Integration, Referat B.3</subfield>
+  </datafield>
+  <datafield tag="246" ind1="1" ind2=" ">
+    <subfield code="i">Umschlagtitel</subfield>
+    <subfield code="a">Schutz von Gesundheit und Sicherheit der in der Landwirtschaft, in der Nutztierhaltung, im Gartenbau und in der Forstwirtschaft beschäftigten Arbeitskräfte</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="3">
+    <subfield code="a">Schutz von Gesundheit und Sicherheit der in der Landwirtschaft, in der Nutztierhaltung, im Gartenbau und in der Forstwirtschaft beschäftigten Arbeitskräfte</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Manuskript abgeschlossen im Dezember 2011</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Luxemburg</subfield>
+    <subfield code="b">Amt für Veröffentlichungen der Europäischen Union</subfield>
+    <subfield code="c">2012</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">169 Seiten</subfield>
+    <subfield code="b">Illustrationen, Diagramme</subfield>
+    <subfield code="e">1 CD-ROM</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Soziales Europa</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">CD-ROM u.d.T.: Risk assessment</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung prüfen</subfield>
+    <subfield code="c">20240324</subfield>
+    <subfield code="f">DE-4165</subfield>
+    <subfield code="z">1</subfield>
+    <subfield code="2">pdager</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung/Langzeitarchivierung gewährleistet</subfield>
+    <subfield code="c">20240722</subfield>
+    <subfield code="f">NI-LastCopies</subfield>
+    <subfield code="x">XA-DE-NI</subfield>
+    <subfield code="z">Potenzieller Alleinbesitz Niedersachsen</subfield>
+    <subfield code="2">pdager</subfield>
+    <subfield code="5">DE-89</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.1\x</subfield>
+    <subfield code="a">Arbeitsschutz</subfield>
+    <subfield code="0">(DE-627)091347785</subfield>
+    <subfield code="0">(DE-2867)12609-5</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">1.2\x</subfield>
+    <subfield code="a">EU-Staaten</subfield>
+    <subfield code="0">(DE-627)091358639</subfield>
+    <subfield code="0">(DE-2867)17983-5</subfield>
+    <subfield code="2">stw</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="4">
+    <subfield code="0">(DE-206)13</subfield>
+    <subfield code="a">Amtsdruckschrift</subfield>
+    <subfield code="5">DE-206</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4068817-3</subfield>
+    <subfield code="0">(DE-627)106104888</subfield>
+    <subfield code="0">(DE-576)209174781</subfield>
+    <subfield code="a">Arbeitssicherheit</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="1">
+    <subfield code="D">s</subfield>
+    <subfield code="0">stw/11276-4</subfield>
+    <subfield code="0">(DE-627)091374324</subfield>
+    <subfield code="a">Agrarberufe</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">(DE-627)</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Europäische Kommission</subfield>
+    <subfield code="b">Referat Gesundheit, Sicherheit und Hygiene am Arbeitsplatz</subfield>
+    <subfield code="e">Herausgebendes Organ</subfield>
+    <subfield code="0">(DE-588)1044096942</subfield>
+    <subfield code="0">(DE-627)771540035</subfield>
+    <subfield code="0">(DE-576)396711901</subfield>
+    <subfield code="4">isb</subfield>
+  </datafield>
+  <datafield tag="775" ind1="0" ind2="8">
+    <subfield code="i">Parallele Sprachausgabe</subfield>
+    <subfield code="n">englisch</subfield>
+    <subfield code="t">A non-binding guide to best practice with a view to improving the application of related directives on protecting health and safety of workers in agriculture, livestock farming, horticulture and forestry</subfield>
+    <subfield code="b">Ms compl. in December 2011</subfield>
+    <subfield code="d">Luxembourg : Publ. Off. of the Europ. Union, 2012</subfield>
+    <subfield code="h">169 S.</subfield>
+    <subfield code="w">(DE-627)730602346</subfield>
+    <subfield code="z">9789279226731</subfield>
+  </datafield>
+  <datafield tag="776" ind1="1" ind2=" ">
+    <subfield code="o">10.2767/53767</subfield>
+  </datafield>
+  <datafield tag="776" ind1="0" ind2="8">
+    <subfield code="i">Engl. Ausg. u.d.T.</subfield>
+    <subfield code="t">A non-binding guide to best practice with a view to improving the application of related directives on protecting health and safety of workers in agriculture, livestock farming, horticulture and forestry</subfield>
+    <subfield code="d">Luxembourg : Publications Office of the European Union, 2012</subfield>
+    <subfield code="h">169 S.</subfield>
+    <subfield code="w">(DE-627)1619617307</subfield>
+    <subfield code="w">(DE-576)373462344</subfield>
+    <subfield code="z">9789279226731</subfield>
+  </datafield>
+  <datafield tag="889" ind1=" " ind2=" ">
+    <subfield code="w">(DE-627)776070126</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1452494258</subfield>
+    <subfield code="b">DE-27</subfield>
+    <subfield code="9">27</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">EDZ 0440 173</subfield>
+    <subfield code="h">J 151</subfield>
+    <subfield code="k">http://dx.doi.org/10.2767/53767</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">1696771218</subfield>
+    <subfield code="b">DE-89</subfield>
+    <subfield code="9">89</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">oek 5668/005</subfield>
+    <subfield code="g">oek 5668/005</subfield>
+    <subfield code="h">FBW</subfield>
+    <subfield code="h">FBW EU</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">3086570296</subfield>
+    <subfield code="b">DE-291-503</subfield>
+    <subfield code="9">291/503</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="g">EJ 1-5-159(de)</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">3086570431</subfield>
+    <subfield code="b">DE-180</subfield>
+    <subfield code="9">180</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">d</subfield>
+    <subfield code="g">0440.293.de</subfield>
+    <subfield code="h">410</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="i">mdedup</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">44.12</subfield>
+    <subfield code="j">Arbeitsmedizin</subfield>
+    <subfield code="j">betriebliches Gesundheitswesen</subfield>
+    <subfield code="0">(DE-627)106415964</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">89.73</subfield>
+    <subfield code="j">Europapolitik</subfield>
+    <subfield code="j">Europäische Union</subfield>
+    <subfield code="0">(DE-627)181570599</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">50.17</subfield>
+    <subfield code="j">Sicherheitstechnik</subfield>
+    <subfield code="0">(DE-627)106419390</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">48.04</subfield>
+    <subfield code="j">Ausbildung</subfield>
+    <subfield code="j">Beruf</subfield>
+    <subfield code="j">Organisationen</subfield>
+    <subfield code="x">Land- und Forstwirtschaft</subfield>
+    <subfield code="0">(DE-627)106408941</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">85.52</subfield>
+    <subfield code="j">Arbeitswissenschaft</subfield>
+    <subfield code="0">(DE-627)10641478X</subfield>
+  </datafield>
+  <datafield tag="936" ind1="b" ind2="k">
+    <subfield code="a">85.06</subfield>
+    <subfield code="j">Unternehmensführung</subfield>
+    <subfield code="0">(DE-627)106408682</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.swn=381140741</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22     2c 4500</leader>
+  <controlfield tag="001">1400924839</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20111020113416.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">101005s1875    xx |||||      00| ||ger c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1400924839</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)330924834</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ330924834</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)475930402</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lydtin, August</subfield>
+    <subfield code="d">1834-1917</subfield>
+    <subfield code="0">(DE-588)117667846</subfield>
+    <subfield code="0">(DE-627)079086772</subfield>
+    <subfield code="0">(DE-576)164179089</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">Die Bekämpfung der ansteckenden Thierkrankheiten durch ein Reichsgesetz</subfield>
+    <subfield code="c">A. Lydtin</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="0">
+    <subfield code="a">Tierkrankheiten</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Berlin</subfield>
+    <subfield code="c">1875</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">67 S.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2649898399</subfield>
+    <subfield code="b">DE-15</subfield>
+    <subfield code="9">15</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.swn=330924834</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1623793750</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20250407130313.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">091123s2009    gw |||||      00| ||ger c</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9783000271274</subfield>
+    <subfield code="9">978-3-00-027127-4</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1623793750</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)313544158</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ313544158</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)699111567</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-DE</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Poesie, beiläufig</subfield>
+    <subfield code="b">das Poesieheft für die Poesiesteine in Gebäude und Gartenanlage der Berufsschule für Gartenbau und Floristik, Am Kapuzinerhölzl, München, 2009</subfield>
+    <subfield code="c">Dorothee von Windheim</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Köln</subfield>
+    <subfield code="b">Atelierhaus Stammstraße</subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">29 S.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">unbewegtes Bild</subfield>
+    <subfield code="b">sti</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung prüfen</subfield>
+    <subfield code="c">20200919</subfield>
+    <subfield code="f">DE-640</subfield>
+    <subfield code="z">1</subfield>
+    <subfield code="2">pdager</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Windheim, Dorothee von</subfield>
+    <subfield code="d">1945-</subfield>
+    <subfield code="e">Hrsg.</subfield>
+    <subfield code="0">(DE-588)118826522</subfield>
+    <subfield code="0">(DE-627)079600964</subfield>
+    <subfield code="0">(DE-576)167296396</subfield>
+    <subfield code="4">edt</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">3252885298</subfield>
+    <subfield code="b">DE-Mar1</subfield>
+    <subfield code="9">Mar 1</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="g">D1</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">4670026674</subfield>
+    <subfield code="b">DE-Ks17</subfield>
+    <subfield code="9">Ks 17</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">4571331185</subfield>
+    <subfield code="b">DE-N39</subfield>
+    <subfield code="9">N 39</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="g">50 Win / 09</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.swn=313544158</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      cb4500</leader>
+  <controlfield tag="001">1117235408</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20240801125439.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">950816s1860    xx |||||      00| ||ger c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1117235408</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)047235403</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ047235403</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1073821434</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-604)8123993032</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-DXDE</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lucas, Eduard</subfield>
+    <subfield code="d">1816-1882</subfield>
+    <subfield code="0">(DE-588)117259802</subfield>
+    <subfield code="0">(DE-627)078700965</subfield>
+    <subfield code="0">(DE-576)165013400</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">Der Gemüsebau</subfield>
+    <subfield code="b">Anleitung zur Cultur der Gemüse in Garten und Feld für Landwirthe, Gärtner und Gartenfreunde</subfield>
+    <subfield code="c">von Eduard Lucas</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">2., stark verm. Aufl.</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Stuttgart</subfield>
+    <subfield code="b">Metzler</subfield>
+    <subfield code="c">1860</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">302 S.</subfield>
+    <subfield code="b">Ill.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Bibliothek für Landwirthschaft und Gartenbau</subfield>
+    <subfield code="v">1</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung/Langzeitarchivierung gewährleistet</subfield>
+    <subfield code="f">PEBW</subfield>
+    <subfield code="x">XA-DE-BW</subfield>
+    <subfield code="2">pdager</subfield>
+    <subfield code="5">DE-24</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4020072-3</subfield>
+    <subfield code="0">(DE-627)104383887</subfield>
+    <subfield code="0">(DE-576)208931783</subfield>
+    <subfield code="a">Gemüsebau</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">(DE-627)</subfield>
+  </datafield>
+  <datafield tag="800" ind1="1" ind2=" ">
+    <subfield code="a">Lucas, Eduard</subfield>
+    <subfield code="t">Bibliothek für Landwirthschaft und Gartenbau.</subfield>
+    <subfield code="v">1</subfield>
+    <subfield code="9">1,2</subfield>
+    <subfield code="w">(DE-627)111723519X</subfield>
+    <subfield code="w">(DE-576)047235195</subfield>
+    <subfield code="7">am</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">3615702514</subfield>
+    <subfield code="b">DE-7</subfield>
+    <subfield code="9">7</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="g">THAER E 1.77</subfield>
+    <subfield code="g">THAER E 1</subfield>
+    <subfield code="h">HG-MAG</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">456163777X</subfield>
+    <subfield code="b">DE-9</subfield>
+    <subfield code="9">9</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">726/Ke 673(1)</subfield>
+    <subfield code="h">UB 726</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">286293769X</subfield>
+    <subfield code="b">DE-21</subfield>
+    <subfield code="9">21</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">Eh 105 a</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2692551079</subfield>
+    <subfield code="b">DE-24</subfield>
+    <subfield code="9">24</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">Gew.oct.3818</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">226322484X</subfield>
+    <subfield code="b">DE-100-650</subfield>
+    <subfield code="9">100/650</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">d</subfield>
+    <subfield code="g">PK 3</subfield>
+    <subfield code="h">650</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">292811713X</subfield>
+    <subfield code="b">DE-1983</subfield>
+    <subfield code="9">1983</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="g">DB 4335</subfield>
+    <subfield code="h">Magazin</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">MV</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.swn=047235403</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">766308030</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20250213203136.0</controlfield>
+  <controlfield tag="007">cr uuu---uuuuu</controlfield>
+  <controlfield tag="008">130815s2013    xx |||||o     00| ||ger c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)766308030</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)392303876</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ392303876</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Biodiversität</subfield>
+    <subfield code="b">aktive Nutzung und nachhaltige Förderung durch den Gartenbau; 48. Gartenbauwissenschaftliche Jahrestagung; Kurzfassung der Vorträge und Poster; Bonn, 27. Februar - 2. März 2013</subfield>
+    <subfield code="c">Hrsg.: Bundesverband der Hochschulabsolventen/Ingenieure Gartenbau und Landschaftsarchitektur e.V., BHGL ... Zusstellung: Holger Hoffmann ...</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Berlin</subfield>
+    <subfield code="b">BHGL</subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource (XXIII, 193 S.)</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">Computermedien</subfield>
+    <subfield code="b">c</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Online-Ressource</subfield>
+    <subfield code="b">cr</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">BHGL-Schriftenreihe / Bundesverband der Hochschulabsolventen/Ingenieure Gartenbau und Landschaftsarchitektur</subfield>
+    <subfield code="v">29</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Gesehen am 15.8.2013</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Konferenzschrift</subfield>
+    <subfield code="0">(DE-588)1071861417</subfield>
+    <subfield code="0">(DE-627)826484824</subfield>
+    <subfield code="0">(DE-576)433375485</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Hoffmann, Holger</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Bundesverband Hochschulabsolventen, Ingenieure Gartenbau und Landschaftsarchitektur</subfield>
+    <subfield code="0">(DE-588)10165795-X</subfield>
+    <subfield code="0">(DE-627)527103241</subfield>
+    <subfield code="0">(DE-576)26358738X</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="711" ind1="2" ind2=" ">
+    <subfield code="a">Gartenbauwissenschaftliche Tagung</subfield>
+    <subfield code="n">48</subfield>
+    <subfield code="d">2013</subfield>
+    <subfield code="c">Bonn</subfield>
+    <subfield code="0">(DE-588)1038321123</subfield>
+    <subfield code="0">(DE-627)757122299</subfield>
+    <subfield code="0">(DE-576)392303655</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="810" ind1="2" ind2=" ">
+    <subfield code="a">Bundesverband Hochschulabsolventen, Ingenieure Gartenbau und Landschaftsarchitektur</subfield>
+    <subfield code="t">BHGL-Schriftenreihe</subfield>
+    <subfield code="v">29</subfield>
+    <subfield code="9">29,onl</subfield>
+    <subfield code="w">(DE-627)526643668</subfield>
+    <subfield code="w">(DE-576)313443009</subfield>
+    <subfield code="w">(DE-600)2277473-7</subfield>
+    <subfield code="x">1613-088X</subfield>
+    <subfield code="7">am</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://www.dgg-online.org/tagungsbaende/Tagungsband_48_2013.pdf</subfield>
+    <subfield code="q">application/pdf</subfield>
+    <subfield code="x">Verlag</subfield>
+    <subfield code="z">kostenfrei</subfield>
+    <subfield code="3">Volltext</subfield>
+    <subfield code="7">0</subfield>
+  </datafield>
+  <datafield tag="924" ind1="1" ind2=" ">
+    <subfield code="a">3361790034</subfield>
+    <subfield code="b">DE-100X</subfield>
+    <subfield code="9">100X</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">d</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="i">Blocktest</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.swn=392303876</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1093181478</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20260420163426.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">910206s1907    xx ||||| c    00| ||ger c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1093181478</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)023181478</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ023181478</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1532084653</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)311626660</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" ">
+    <subfield code="a">Internationale Kunst- und Große Gartenbau-Ausstellung</subfield>
+    <subfield code="d">1907</subfield>
+    <subfield code="c">Mannheim</subfield>
+    <subfield code="0">(DE-588)2090519-1</subfield>
+    <subfield code="0">(DE-627)100412653</subfield>
+    <subfield code="0">(DE-576)192660519</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Führer durch die internationale Kunst- und große Gartenbau-Ausstellung</subfield>
+    <subfield code="b">Jubiläums-Ausstellung Mannheim 1907</subfield>
+    <subfield code="c">hrsg. von der Ausstellungs-Leitung</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Mannheim</subfield>
+    <subfield code="b">Mannheimer Aktiendruckerei</subfield>
+    <subfield code="c">1907</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">77 S., VIII, 64 S. mit Werbung</subfield>
+    <subfield code="b">Ill., Kt.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">unbewegtes Bild</subfield>
+    <subfield code="b">sti</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung/Langzeitarchivierung gewährleistet</subfield>
+    <subfield code="f">PEBW</subfield>
+    <subfield code="h">DE-31</subfield>
+    <subfield code="x">XA-DE-BW</subfield>
+    <subfield code="2">pdager</subfield>
+    <subfield code="5">DE-16</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Ausstellungskatalog</subfield>
+    <subfield code="0">(DE-588)4135467-9</subfield>
+    <subfield code="0">(DE-627)10566491X</subfield>
+    <subfield code="0">(DE-576)209660988</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Führer</subfield>
+    <subfield code="0">(DE-588)4155569-7</subfield>
+    <subfield code="0">(DE-627)10551487X</subfield>
+    <subfield code="0">(DE-576)20982008X</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="0">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4125179-9</subfield>
+    <subfield code="0">(DE-627)104642653</subfield>
+    <subfield code="0">(DE-576)209574410</subfield>
+    <subfield code="a">Gartenkunst</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="1">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4019294-5</subfield>
+    <subfield code="0">(DE-627)104388870</subfield>
+    <subfield code="0">(DE-576)20892891X</subfield>
+    <subfield code="a">Gartenbau</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2="2">
+    <subfield code="A">z</subfield>
+    <subfield code="2">gnd</subfield>
+    <subfield code="a">Geschichte</subfield>
+  </datafield>
+  <datafield tag="689" ind1="0" ind2=" ">
+    <subfield code="5">(DE-627)</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2="0">
+    <subfield code="D">g</subfield>
+    <subfield code="0">(DE-588)4037372-1</subfield>
+    <subfield code="0">(DE-627)106237896</subfield>
+    <subfield code="0">(DE-576)209023783</subfield>
+    <subfield code="a">Mannheim</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2="1">
+    <subfield code="D">s</subfield>
+    <subfield code="0">(DE-588)4125179-9</subfield>
+    <subfield code="0">(DE-627)104642653</subfield>
+    <subfield code="0">(DE-576)209574410</subfield>
+    <subfield code="a">Gartenkunst</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2="2">
+    <subfield code="A">z</subfield>
+    <subfield code="2">gnd</subfield>
+    <subfield code="a">Geschichte 1700-1907</subfield>
+  </datafield>
+  <datafield tag="689" ind1="1" ind2=" ">
+    <subfield code="5">(DE-627)</subfield>
+  </datafield>
+  <datafield tag="776" ind1="0" ind2="8">
+    <subfield code="i">Erscheint auch als</subfield>
+    <subfield code="n">Online-Ausgabe</subfield>
+    <subfield code="a">Internationale Kunst- und Große Gartenbau-Ausstellung (1907 : Mannheim)</subfield>
+    <subfield code="t">Führer durch die internationale Kunst- und große Gartenbau-Ausstellung</subfield>
+    <subfield code="d">Mannheim : Mannheimer Aktiendruckerei, 1907</subfield>
+    <subfield code="h">77 S., VIII, 64 S. mit Werbung</subfield>
+    <subfield code="w">(DE-627)1466009462</subfield>
+    <subfield code="w">(DE-576)396009468</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2159043834</subfield>
+    <subfield code="b">DE-25</subfield>
+    <subfield code="9">25</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">F 7183,ch</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2159043842</subfield>
+    <subfield code="b">DE-16-86</subfield>
+    <subfield code="9">16/86</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="g">Pf 6</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2532256370</subfield>
+    <subfield code="b">DE-Mh28</subfield>
+    <subfield code="9">Mh 28</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="g">M 2535</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">4291510438</subfield>
+    <subfield code="b">DE-Mh40</subfield>
+    <subfield code="9">Mh 40</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="g">A 32/14</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.swn=023181478</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1479596442</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20210722175108.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">140714s1875    xx |||||      00| ||ger c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1479596442</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)409596442</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ409596442</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)254582067</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-604)137122624</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Roloff, Friedrich Heinrich</subfield>
+    <subfield code="d">1830-1885</subfield>
+    <subfield code="0">(DE-588)117593583</subfield>
+    <subfield code="0">(DE-627)079019870</subfield>
+    <subfield code="0">(DE-576)291516513</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">Die Schwindsucht, fettige Degeneration, Scrophulose und Tuberkulose bei Schweinen</subfield>
+    <subfield code="c">von F. Roloff</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Berlin</subfield>
+    <subfield code="b">Wiegandt, Hempel &amp; Parey</subfield>
+    <subfield code="c">1875</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">48 S.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung prüfen</subfield>
+    <subfield code="c">20200919</subfield>
+    <subfield code="f">DE-640</subfield>
+    <subfield code="z">1</subfield>
+    <subfield code="2">pdager</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2895439664</subfield>
+    <subfield code="b">DE-24</subfield>
+    <subfield code="9">24</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">A4/1488</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2806772699</subfield>
+    <subfield code="b">DE-15</subfield>
+    <subfield code="9">15</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.swn=409596442</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1407262211</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20170420134705.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">110210s1904    xx |||||      00| ||ger c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1407262211</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)337262217</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ337262217</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)258067220</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Trenkner, Berthold</subfield>
+    <subfield code="0">(DE-627)1407262173</subfield>
+    <subfield code="0">(DE-576)337262179</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">Die Anwendung der künstlichen Düngemittel im Gartenbau</subfield>
+    <subfield code="b">"unter besonderer Berücksichtigung des Chilisalpeters"; aus der Praxis für die Praxis</subfield>
+    <subfield code="c">von Bertold Trenkner</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Leipzig</subfield>
+    <subfield code="b">Voigt</subfield>
+    <subfield code="c">1904</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">79 S.</subfield>
+    <subfield code="b">Ill.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">In Fraktur</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2663450529</subfield>
+    <subfield code="b">DE-15</subfield>
+    <subfield code="9">15</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.swn=337262217</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      ca4500</leader>
+  <controlfield tag="001">111723519X</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20240801125224.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">950816m18609999xx |||||      00| ||ger c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)111723519X</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)047235195</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ047235195</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-DXDE</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lucas, Eduard</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Bibliothek für Landwirthschaft und Gartenbau</subfield>
+    <subfield code="c">von Eduard Lucas</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="0">
+    <subfield code="a">Landwirtschaft</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Stuttgart</subfield>
+    <subfield code="b">Metzler</subfield>
+    <subfield code="c">1860-1893</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="546" ind1=" " ind2=" ">
+    <subfield code="a">In Fraktur</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">361570259X</subfield>
+    <subfield code="b">DE-7</subfield>
+    <subfield code="9">7</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">d</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">4561636439</subfield>
+    <subfield code="b">DE-9</subfield>
+    <subfield code="9">9</subfield>
+    <subfield code="c">GBV</subfield>
+    <subfield code="d">d</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2554439990</subfield>
+    <subfield code="b">DE-14</subfield>
+    <subfield code="9">14</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2690189747</subfield>
+    <subfield code="b">DE-24</subfield>
+    <subfield code="9">24</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">271316060X</subfield>
+    <subfield code="b">DE-180</subfield>
+    <subfield code="9">180</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">4118988666</subfield>
+    <subfield code="b">DE-180</subfield>
+    <subfield code="9">180</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2263224165</subfield>
+    <subfield code="b">DE-100-650</subfield>
+    <subfield code="9">100/650</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">b</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2928117024</subfield>
+    <subfield code="b">DE-1983</subfield>
+    <subfield code="9">1983</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">MC</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.swn=047235195</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22     2c 4500</leader>
+  <controlfield tag="001">119149666X</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20211104185055.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">051121s1981    xx |||||      00| ||ger c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)119149666X</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)12149666X</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ12149666X</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Schulte-Karring, Hubert</subfield>
+    <subfield code="0">(DE-627)1254884149</subfield>
+    <subfield code="0">(DE-576)184884144</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">Die einzelbetriebliche Durchführung</subfield>
+    <subfield code="c">H. Schulte-Karring</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Bad Neuenahr-Ahrweiler</subfield>
+    <subfield code="b">Lehr- und Versuchsanstalt für Landwirtschaft</subfield>
+    <subfield code="c">[1981]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[19 S.</subfield>
+    <subfield code="b">Ill.]</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Ahrweiler Meliorationsverfahren: Merkblatt</subfield>
+    <subfield code="v">A</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung prüfen</subfield>
+    <subfield code="c">20200919</subfield>
+    <subfield code="f">DE-640</subfield>
+    <subfield code="z">1</subfield>
+    <subfield code="2">pdager</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Landeslehr- und -versuchsanstalt für Landwirtschaft, Weinbau und Gartenbau</subfield>
+    <subfield code="g">Bad Neuenahr- Ahrweiler</subfield>
+    <subfield code="0">(DE-588)509422-7</subfield>
+    <subfield code="0">(DE-627)10137058X</subfield>
+    <subfield code="0">(DE-576)191104965</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="800" ind1="1" ind2=" ">
+    <subfield code="a">Schulte-Karring, Hubert</subfield>
+    <subfield code="t">Ahrweiler Meliorationsverfahren: Merkblatt.</subfield>
+    <subfield code="v">A</subfield>
+    <subfield code="9">A</subfield>
+    <subfield code="w">(DE-627)1191495418</subfield>
+    <subfield code="w">(DE-576)121495418</subfield>
+    <subfield code="7">am</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2461068879</subfield>
+    <subfield code="b">DE-Frei68</subfield>
+    <subfield code="9">Frei 68</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="g">2477/A</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.swn=12149666X</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1347556141</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20211126140758.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">080222s2007    xx |||||      00| ||ger c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1347556141</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)277556147</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ277556147</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)1261695923</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="4">
+    <subfield code="a">Der Kiefernspanner</subfield>
+    <subfield code="b">(Bupalus piniara)</subfield>
+    <subfield code="c">Hrsg.: Ministerium für Ländliche Entwicklung, Umwelt und Verbraucherschutz...</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Eberswalde</subfield>
+    <subfield code="c">2007</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">Faltblatt</subfield>
+    <subfield code="b">Ill., graph. Darst.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Informationen für Waldbesitzer</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung prüfen</subfield>
+    <subfield code="c">20200919</subfield>
+    <subfield code="f">DE-640</subfield>
+    <subfield code="z">1</subfield>
+    <subfield code="2">pdager</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Brandenburg</subfield>
+    <subfield code="b">Ministerium für Ländliche Entwicklung, Umwelt und Verbraucherschutz</subfield>
+    <subfield code="0">(DE-588)10090954-1</subfield>
+    <subfield code="0">(DE-627)472272381</subfield>
+    <subfield code="0">(DE-576)200031708</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Landesforstanstalt Eberswalde</subfield>
+    <subfield code="0">(DE-588)2171223-2</subfield>
+    <subfield code="0">(DE-627)24627686X</subfield>
+    <subfield code="0">(DE-576)197013562</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2564193382</subfield>
+    <subfield code="b">DE-Frei68</subfield>
+    <subfield code="9">Frei 68</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="g">5050</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">3957740185</subfield>
+    <subfield code="b">DE-14</subfield>
+    <subfield code="9">14</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.swn=277556147</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1345915543</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20220215202416.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">080108s1883    xx |||||      00| ||ger c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1345915543</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)275915549</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ275915549</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)315652063</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">ZC 50300</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/154914:</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Herrmann, R.</subfield>
+    <subfield code="0">(DE-588)1147022968</subfield>
+    <subfield code="0">(DE-627)100841879X</subfield>
+    <subfield code="0">(DE-576)275915212</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">Der landwirthschaftliche Gartenbau</subfield>
+    <subfield code="c">von R. Herrmann</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="0">
+    <subfield code="a">landwirtschaftliche</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Bonn</subfield>
+    <subfield code="b">Strauß</subfield>
+    <subfield code="c">1883</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">VIII, 374 S.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Landwirthschaftliche Compendien</subfield>
+    <subfield code="v">6</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">In Fraktur</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung prüfen</subfield>
+    <subfield code="c">20200919</subfield>
+    <subfield code="f">DE-640</subfield>
+    <subfield code="z">1</subfield>
+    <subfield code="2">pdager</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung/Langzeitarchivierung gewährleistet</subfield>
+    <subfield code="f">SLG</subfield>
+    <subfield code="z">Schlossbibliothek Baden-Baden</subfield>
+    <subfield code="2">pdager</subfield>
+    <subfield code="5">DE-31</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Landwirthschaftliche Compendien</subfield>
+    <subfield code="v">6</subfield>
+    <subfield code="9">6</subfield>
+    <subfield code="w">(DE-627)670629286</subfield>
+    <subfield code="w">(DE-576)042411122</subfield>
+    <subfield code="w">(DE-600)2633247-4</subfield>
+    <subfield code="7">am</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2559897776</subfield>
+    <subfield code="b">DE-14</subfield>
+    <subfield code="9">14</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">3047748683</subfield>
+    <subfield code="b">DE-31</subfield>
+    <subfield code="9">31</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">3047748799</subfield>
+    <subfield code="b">DE-31</subfield>
+    <subfield code="9">31</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">98 B 84020</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">ZC 50300</subfield>
+    <subfield code="b">Gesamtdarstellungen, Lehrbücher, Nachschlagewerke</subfield>
+    <subfield code="k">Agrar- und Forstwissenschaft, Gartenbau, Ernährungs- und Haushaltswissenschaft</subfield>
+    <subfield code="k">Garten-, Obst- und Weinbau</subfield>
+    <subfield code="k">Gartenbau</subfield>
+    <subfield code="k">Gesamtdarstellungen, Lehrbücher, Nachschlagewerke</subfield>
+    <subfield code="0">(DE-627)1271653729</subfield>
+    <subfield code="0">(DE-625)rvk/154914:</subfield>
+    <subfield code="0">(DE-576)201653729</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.swn=275915549</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22     2c 4500</leader>
+  <controlfield tag="001">1154192598</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20211008122758.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">000329s1970    xx |||||      00| ||ger c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1154192598</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)084192593</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ084192593</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Meisterschule für Wein-, Obst- und Gartenbau</subfield>
+    <subfield code="g">Veitshöchheim</subfield>
+    <subfield code="0">(DE-588)5513463-4</subfield>
+    <subfield code="0">(DE-627)713673915</subfield>
+    <subfield code="0">(DE-576)197984606</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">Die Meisterschule für Wein-, Obst- und Gartenbau Veitshöchheim</subfield>
+    <subfield code="b">Abteilung der Bayerischen Landesanstalt für Wein-, Obst- und Gartenbau Würzburg</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="3">
+    <subfield code="a">Volkach</subfield>
+    <subfield code="b">Hartdr.</subfield>
+    <subfield code="c">1970</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">44 S.</subfield>
+    <subfield code="b">Ill., Kt.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung prüfen</subfield>
+    <subfield code="c">20200919</subfield>
+    <subfield code="f">DE-640</subfield>
+    <subfield code="z">1</subfield>
+    <subfield code="2">pdager</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2375668316</subfield>
+    <subfield code="b">DE-Frei100</subfield>
+    <subfield code="9">Frei 100</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="g">Frei 100: AL/6/057</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.swn=084192593</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22     2c 4500</leader>
+  <controlfield tag="001">1505511151</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20180729165843.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">150716s2013    xx |||||      00| ||ger c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1505511151</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)435511157</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ435511157</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Altmayer, Bernd</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Sachkunde im Pflanzenschutz Weinbau</subfield>
+    <subfield code="b">Lehrgangsbegleitheft</subfield>
+    <subfield code="c">Bernd Altmayer ; Josef Eichhorn ; Beate Fader ...</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">8. überarb. Aufl.</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Mainz</subfield>
+    <subfield code="c">2013</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">158 S.</subfield>
+    <subfield code="b">graph. Darst.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Eichhorn, Josef</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Fader, Beate</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Dienstleistungszentrum Ländlicher Raum Rheinpfalz</subfield>
+    <subfield code="0">(DE-588)10069758-6</subfield>
+    <subfield code="0">(DE-627)376559934</subfield>
+    <subfield code="0">(DE-576)199718342</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2849396605</subfield>
+    <subfield code="b">DE-Frei100</subfield>
+    <subfield code="9">Frei 100</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="g">Frei 100: BI/6/158</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.swn=435511157</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1392197090</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20240205205012.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">100423s2010    gw |||||      00| ||ger c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1392197090</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)322197090</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ322197090</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)699674545</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-DE-BY</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="4">
+    <subfield code="a">Ein Baum ist mehr als ein Baum</subfield>
+    <subfield code="b">Klima im Wandel: Konsequenzen für die Baumschulwirtschaft und Gehölzverwendung; Montag, 18. Januar 2010</subfield>
+    <subfield code="c">21. Veitshöchheimer Gartenbautage; Baumschultag. Bayerische Landesanstalt für Weinbau und Gartenbau,  [Abteilung] Gartenbau, [Sachgebiet Obstbau und Baumschulen]</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Veitshöchheim</subfield>
+    <subfield code="b">Bayerische Landesanst. für Weinbau und Gartenbau</subfield>
+    <subfield code="c">2010</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">84 S.</subfield>
+    <subfield code="b">Ill., graph. Darst., Kt.</subfield>
+    <subfield code="c">30 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Veitshöchheimer Berichte</subfield>
+    <subfield code="v">138</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung/Langzeitarchivierung gewährleistet</subfield>
+    <subfield code="c">2021</subfield>
+    <subfield code="f">SLG</subfield>
+    <subfield code="z">Forst</subfield>
+    <subfield code="2">pdager</subfield>
+    <subfield code="5">DE-955</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Konferenzschrift</subfield>
+    <subfield code="0">(DE-588)1071861417</subfield>
+    <subfield code="0">(DE-627)826484824</subfield>
+    <subfield code="0">(DE-576)433375485</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Bayerische Landesanstalt für Weinbau und Gartenbau</subfield>
+    <subfield code="b">Sachgebiet Obstbau und Baumschulen</subfield>
+    <subfield code="0">(DE-588)16006390-5</subfield>
+    <subfield code="0">(DE-627)598354794</subfield>
+    <subfield code="0">(DE-576)305847716</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="711" ind1="2" ind2=" ">
+    <subfield code="a">Veitshöchheimer Gartenbautage</subfield>
+    <subfield code="n">21</subfield>
+    <subfield code="d">2010</subfield>
+    <subfield code="c">Veitshöchheim</subfield>
+    <subfield code="0">(DE-588)16174405-9</subfield>
+    <subfield code="0">(DE-627)667526307</subfield>
+    <subfield code="0">(DE-576)349520666</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="711" ind1="2" ind2=" ">
+    <subfield code="a">Baumschultag</subfield>
+    <subfield code="d">2010</subfield>
+    <subfield code="c">Veitshöchheim</subfield>
+    <subfield code="0">(DE-588)16058377-9</subfield>
+    <subfield code="0">(DE-627)621125822</subfield>
+    <subfield code="0">(DE-576)320583236</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Veitshöchheimer Berichte</subfield>
+    <subfield code="v">138</subfield>
+    <subfield code="9">138</subfield>
+    <subfield code="w">(DE-627)182492443</subfield>
+    <subfield code="w">(DE-576)047253975</subfield>
+    <subfield code="w">(DE-600)1210329-9</subfield>
+    <subfield code="x">0944-8500</subfield>
+    <subfield code="7">am</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2633018157</subfield>
+    <subfield code="b">DE-955</subfield>
+    <subfield code="9">955</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="g">WS Ein</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.swn=322197090</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     nas a22     2c 4500</leader>
+  <controlfield tag="001">1191495418</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20051121000000.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">051121c19uuuuuuxx uu m|      0   |0ger c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1191495418</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)121495418</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ121495418</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Schulte-Karring, Hubert</subfield>
+    <subfield code="0">(DE-627)1254884149</subfield>
+    <subfield code="0">(DE-576)184884144</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Ahrweiler Meliorationsverfahren: Merkblatt</subfield>
+  </datafield>
+  <datafield tag="264" ind1="3" ind2="1">
+    <subfield code="a">Bad Neuenahr-Ahrweiler</subfield>
+    <subfield code="b">Lehr- und Versuchsanstalt für Landwirtschaft</subfield>
+    <subfield code="c">19XX-</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Monografische Reihe</subfield>
+    <subfield code="0">(DE-588)4179998-7</subfield>
+    <subfield code="0">(DE-627)104628669</subfield>
+    <subfield code="0">(DE-576)209995106</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Landeslehr- und -versuchsanstalt für Landwirtschaft, Weinbau und Gartenbau</subfield>
+    <subfield code="g">Bad Neuenahr- Ahrweiler</subfield>
+    <subfield code="0">(DE-588)509422-7</subfield>
+    <subfield code="0">(DE-627)10137058X</subfield>
+    <subfield code="0">(DE-576)191104965</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2461067198</subfield>
+    <subfield code="b">DE-Frei68</subfield>
+    <subfield code="9">Frei 68</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="g">2477...</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">ST</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.swn=121495418</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1113113251</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20211007182903.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">950119s1887    xx |||||      00| ||ger c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1113113251</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)043113257</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ043113257</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)17331401</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">XX 7000</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/153090:12905</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Franck, Ludwig</subfield>
+    <subfield code="d">1834-1884</subfield>
+    <subfield code="0">(DE-588)13750246X</subfield>
+    <subfield code="0">(DE-627)593187733</subfield>
+    <subfield code="0">(DE-576)30380162X</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Handbuch der tierärztlichen Geburtshilfe</subfield>
+    <subfield code="b">mit 114 in den Text gedruckten Holzschnitten</subfield>
+    <subfield code="c">von L. Franck</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">2. Aufl.</subfield>
+    <subfield code="b">neu bearb. u. hrsg. von Ph. Göring</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Berlin</subfield>
+    <subfield code="b">Parey</subfield>
+    <subfield code="c">1887</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">X S., [1] Bl., 556 S.</subfield>
+    <subfield code="b">Ill.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">In Fraktur</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung prüfen</subfield>
+    <subfield code="c">20200919</subfield>
+    <subfield code="f">DE-640</subfield>
+    <subfield code="z">1</subfield>
+    <subfield code="2">pdager</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Göring, Philipp</subfield>
+    <subfield code="d">1832-1903</subfield>
+    <subfield code="e">Hrsg.</subfield>
+    <subfield code="0">(DE-588)1055104410</subfield>
+    <subfield code="0">(DE-627)793205395</subfield>
+    <subfield code="0">(DE-576)411885413</subfield>
+    <subfield code="4">edt</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2509772562</subfield>
+    <subfield code="b">DE-15</subfield>
+    <subfield code="9">15</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2247024661</subfield>
+    <subfield code="b">DE-100</subfield>
+    <subfield code="9">100</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">d</subfield>
+    <subfield code="g">1/648</subfield>
+    <subfield code="h">13</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">XX 7000</subfield>
+    <subfield code="b">Allgemeines</subfield>
+    <subfield code="k">Medizin</subfield>
+    <subfield code="k">Tiermedizin</subfield>
+    <subfield code="k">Gynäkologie, Geburtshilfe</subfield>
+    <subfield code="k">Allgemeines</subfield>
+    <subfield code="0">(DE-627)1271767864</subfield>
+    <subfield code="0">(DE-625)rvk/153090:12905</subfield>
+    <subfield code="0">(DE-576)201767864</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.swn=043113257</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1422924165</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20220113180703.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">111110s2009    xx |||||      00| ||ger c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1422924165</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)352924160</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ352924160</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)643342119</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" ">
+    <subfield code="a">Bayerische Landesanstalt für Weinbau und Gartenbau</subfield>
+    <subfield code="0">(DE-588)16039500-8</subfield>
+    <subfield code="0">(DE-627)613398424</subfield>
+    <subfield code="0">(DE-576)313334331</subfield>
+    <subfield code="4">aut</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Architektur &amp; Wein</subfield>
+    <subfield code="b">beispielhafte Projekte</subfield>
+    <subfield code="c">Hrsg.: Bayerische Landesanstalt für Weinbau und Gartenbau Veitshöchheim</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Veitshöchheim</subfield>
+    <subfield code="c">2009</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">80 S.</subfield>
+    <subfield code="b">zahlr. farb. Abb.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="583" ind1="1" ind2=" ">
+    <subfield code="a">Archivierung prüfen</subfield>
+    <subfield code="c">20200919</subfield>
+    <subfield code="f">DE-640</subfield>
+    <subfield code="z">2</subfield>
+    <subfield code="2">pdager</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">278521529X</subfield>
+    <subfield code="b">DE-Frei100</subfield>
+    <subfield code="9">Frei 100</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">b</subfield>
+    <subfield code="g">Frei 100: WL/2/135</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2694715397</subfield>
+    <subfield code="b">DE-Wh1</subfield>
+    <subfield code="9">Wh 1</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+    <subfield code="g">Gc 156</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.swn=352924160</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+
+
+<zs:searchRetrieveResponse xmlns:zs="http://www.loc.gov/zing/srw/"><zs:version>1.1</zs:version><zs:numberOfRecords>1</zs:numberOfRecords><zs:records><zs:record><zs:recordSchema>marcxml</zs:recordSchema><zs:recordPacking>xml</zs:recordPacking><zs:recordData><record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>     cam a22      c 4500</leader>
+  <controlfield tag="001">1420235915</controlfield>
+  <controlfield tag="003">DE-627</controlfield>
+  <controlfield tag="005">20240205205012.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">110913s2011    gw |||||      00| ||ger c</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-627)1420235915</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-576)350235910</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)BSZ350235910</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)756287456</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">DE-627</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-627</subfield>
+    <subfield code="e">rakwb</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-DE-BY</subfield>
+  </datafield>
+  <datafield tag="084" ind1=" " ind2=" ">
+    <subfield code="a">ZH 9660</subfield>
+    <subfield code="2">rvk</subfield>
+    <subfield code="0">(DE-625)rvk/156329:</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0">
+    <subfield code="a">Stadtbaumarten im Klimawandel</subfield>
+    <subfield code="b">12. Symposium zur Pflanzenverwendung in der Stadt, Veitshöchheim, 30. und 31. Mai 2011</subfield>
+    <subfield code="c">hrsg. von: Bayerische Landesanstalt für Weinbau und Gartenbau,  Abteilung Landespflege</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Veitshöchheim</subfield>
+    <subfield code="b">Bayerische Landesanstalt für Weinbau und Gartenbau</subfield>
+    <subfield code="c">2011</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">132 S.</subfield>
+    <subfield code="b">Ill., graf. Darst., Kt.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Veitshöchheimer Berichte</subfield>
+    <subfield code="v">152</subfield>
+  </datafield>
+  <datafield tag="655" ind1=" " ind2="7">
+    <subfield code="a">Konferenzschrift</subfield>
+    <subfield code="0">(DE-588)1071861417</subfield>
+    <subfield code="0">(DE-627)826484824</subfield>
+    <subfield code="0">(DE-576)433375485</subfield>
+    <subfield code="2">gnd-content</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" ">
+    <subfield code="a">Bayerische Landesanstalt für Weinbau und Gartenbau</subfield>
+    <subfield code="b">Abteilung Landespflege</subfield>
+    <subfield code="0">(DE-588)6078565-2</subfield>
+    <subfield code="0">(DE-627)603908233</subfield>
+    <subfield code="0">(DE-576)30889118X</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="711" ind1="2" ind2=" ">
+    <subfield code="a">Symposium zur Pflanzenverwendung in der Stadt</subfield>
+    <subfield code="n">12</subfield>
+    <subfield code="d">2011</subfield>
+    <subfield code="c">Veitshöchheim</subfield>
+    <subfield code="0">(DE-588)16324541-1</subfield>
+    <subfield code="0">(DE-627)713093188</subfield>
+    <subfield code="0">(DE-576)350234930</subfield>
+    <subfield code="4">oth</subfield>
+  </datafield>
+  <datafield tag="830" ind1=" " ind2="0">
+    <subfield code="a">Veitshöchheimer Berichte</subfield>
+    <subfield code="v">152</subfield>
+    <subfield code="9">152</subfield>
+    <subfield code="w">(DE-627)182492443</subfield>
+    <subfield code="w">(DE-576)047253975</subfield>
+    <subfield code="w">(DE-600)1210329-9</subfield>
+    <subfield code="x">0944-8500</subfield>
+    <subfield code="7">am</subfield>
+  </datafield>
+  <datafield tag="924" ind1="0" ind2=" ">
+    <subfield code="a">2689683180</subfield>
+    <subfield code="b">DE-14</subfield>
+    <subfield code="9">14</subfield>
+    <subfield code="c">BSZ</subfield>
+    <subfield code="d">c</subfield>
+  </datafield>
+  <datafield tag="936" ind1="r" ind2="v">
+    <subfield code="a">ZH 9660</subfield>
+    <subfield code="b">Grünplanung</subfield>
+    <subfield code="k">Technik</subfield>
+    <subfield code="k">Architektur</subfield>
+    <subfield code="k">Landschaftsarchitektur/Landschaftsplanung</subfield>
+    <subfield code="k">Grünplanung</subfield>
+    <subfield code="0">(DE-627)1270643266</subfield>
+    <subfield code="0">(DE-625)rvk/156329:</subfield>
+    <subfield code="0">(DE-576)200643266</subfield>
+  </datafield>
+  <datafield tag="951" ind1=" " ind2=" ">
+    <subfield code="a">BO</subfield>
+  </datafield>
+</record></zs:recordData><zs:recordPosition>1</zs:recordPosition></zs:record></zs:records><zs:echoedSearchRetrieveRequest><zs:version>1.1</zs:version><zs:query>pica.swn=350235910</zs:query><zs:maximumRecords>1</zs:maximumRecords><zs:recordPacking>xml</zs:recordPacking><zs:recordSchema>marcxml</zs:recordSchema></zs:echoedSearchRetrieveRequest></zs:searchRetrieveResponse>
+</harvest>
