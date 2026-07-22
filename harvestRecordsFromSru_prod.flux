@@ -1,16 +1,12 @@
 default VERSION="prod/";
 default CATALOGUE="dnb";
-default SYSTEM_ISIL="DE-101";
 default AUTH ="";
 default SRU_HARVEST=FLUX_DIR + VERSION + "/harvest/" + CATALOGUE + "-sru-records.xml.gz";
-default OUTFILE=FLUX_DIR + VERSION + "swk-" + CATALOGUE + ".xml";
 default LOBID_HARVEST = FLUX_DIR + VERSION +"/harvest/"  + CATALOGUE + "-lobid-records-no-swk.jsonl.gz";
-default LOOKUP_FILE = FLUX_DIR + VERSION + "/maps/" + "almaMmsId2" + CATALOGUE + "Id.tsv";
 default SRU_LINK_PART_1 = "https://services.dnb.de/sru/dnb?version=1.1&operation=searchRetrieve&query=dnb.idn=";
 default SRU_LINK_PART_2 = "&recordSchema=MARC21-xml";
 default SRU_QUERY_PATTERN = ".*dnb.idn=(.+)";
 default SLEEP_TIME = "500";
-default FAILS_FILE = FLUX_DIR + VERSION + CATALOGUE + "failed.tsv";
 
 "Map finished. Start harvesting " + CATALOGUE + " sru."
 | print;
