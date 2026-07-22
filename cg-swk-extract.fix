@@ -1,0 +1,28 @@
+do list(path: "035??", "var":"$i")
+	if any_contain("$i.a","(DE-605)")
+		add_field("hbzRecord","true")
+		do list(path:"689??","var":"$x")
+			if in ("$i.8","$x.8")
+				add_field("hbzWithSWK","true")
+			end
+		end
+	end
+end
+
+unless exists("hbzRecord")
+	reject()
+end
+
+if exists("hbzWithSWK")
+	reject()
+end
+
+unless exists("689??")
+	reject()
+end
+
+remove_field("hbzRecord")
+
+# Only keep 001, 035 and 689
+retain("001","689??","035??")
+vacuum()
