@@ -148,6 +148,7 @@ elsif exists ("OBV??")
 end
 
 # Add Herkunftsangabe maschinell generierter Metadaten 883
+remove_field("883??")
 add_field("8830 .a","adoptedfromculturegraph")
 add_field("8830 .q","DE-605")
 add_field("timestampTest","$[TIMESTAMP]")
