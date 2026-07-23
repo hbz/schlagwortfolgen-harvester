@@ -1,8 +1,8 @@
 do once("macros")
-	do put_macro("schlagwortfolgeIndex")
+	do put_macro("schlagwortfolgenSorter") # sorts the 689 based on the source linkage to an helper element DNB??, BVB??, K10??, OBV??.
 		do list(path:"689$[Ind1]$[Ind2]","var":"$689")
 			do list(path:"$689.8","var":"$8")
-				if in("@dnbSWFelation","$8")
+				if in("@dnbSWFRelation","$8")
 					copy_field("$689", "DNB$[Ind1]$[Ind2]")
 				elsif in("@bvbSWFRelation","$8")
 					copy_field("$689", "BVB$[Ind1]$[Ind2]")
@@ -16,21 +16,21 @@ do once("macros")
 	end
 
 
-	do put_macro("schlagwortfolge")
-		call_macro("schlagwortfolgeIndex", Ind1: "$[Ind_1]", Ind2: " ")
-		call_macro("schlagwortfolgeIndex", Ind1: "$[Ind_1]", Ind2: "0")
-		call_macro("schlagwortfolgeIndex", Ind1: "$[Ind_1]", Ind2: "1")
-		call_macro("schlagwortfolgeIndex", Ind1: "$[Ind_1]", Ind2: "2")
-		call_macro("schlagwortfolgeIndex", Ind1: "$[Ind_1]", Ind2: "3")
-		call_macro("schlagwortfolgeIndex", Ind1: "$[Ind_1]", Ind2: "4")
-		call_macro("schlagwortfolgeIndex", Ind1: "$[Ind_1]", Ind2: "5")
-		call_macro("schlagwortfolgeIndex", Ind1: "$[Ind_1]", Ind2: "6")
-		call_macro("schlagwortfolgeIndex", Ind1: "$[Ind_1]", Ind2: "7")
-		call_macro("schlagwortfolgeIndex", Ind1: "$[Ind_1]", Ind2: "8")
-		call_macro("schlagwortfolgeIndex", Ind1: "$[Ind_1]", Ind2: "9")
+	do put_macro("schlagwortfolgen") # Iterates over each 689?? to correctly sort with schlagwortfolgenSorter
+		call_macro("schlagwortfolgenSorter", Ind1: "$[Ind1]", Ind2: " ")
+		call_macro("schlagwortfolgenSorter", Ind1: "$[Ind1]", Ind2: "0")
+		call_macro("schlagwortfolgenSorter", Ind1: "$[Ind1]", Ind2: "1")
+		call_macro("schlagwortfolgenSorter", Ind1: "$[Ind1]", Ind2: "2")
+		call_macro("schlagwortfolgenSorter", Ind1: "$[Ind1]", Ind2: "3")
+		call_macro("schlagwortfolgenSorter", Ind1: "$[Ind1]", Ind2: "4")
+		call_macro("schlagwortfolgenSorter", Ind1: "$[Ind1]", Ind2: "5")
+		call_macro("schlagwortfolgenSorter", Ind1: "$[Ind1]", Ind2: "6")
+		call_macro("schlagwortfolgenSorter", Ind1: "$[Ind1]", Ind2: "7")
+		call_macro("schlagwortfolgenSorter", Ind1: "$[Ind1]", Ind2: "8")
+		call_macro("schlagwortfolgenSorter", Ind1: "$[Ind1]", Ind2: "9")
 	end
 
-	do put_macro("schlagwortfolgenMove")
+	do put_macro("schlagwortfolgenMove") # copies the defiend catalogue SWF to the correct position with the correct indicators in the new 689 field
 		copy_field("$[field]$[Ind1] ", "689$[Ind1] ")
 		copy_field("$[field]$[Ind1]0", "689$[Ind1]0")
 		copy_field("$[field]$[Ind1]1", "689$[Ind1]1")
@@ -44,7 +44,7 @@ do once("macros")
 		copy_field("$[field]$[Ind1]9", "689$[Ind1]9")
 	end
 
-	do put_macro("schlagwortfolgenKeeper")
+	do put_macro("schlagwortfolgenKeeper") # Iterates over the defined catalouge SWF to correctly keep it with schlagwortfolgenMove
 		call_macro("schlagwortfolgenMove", field:"$[SWF]", Ind1: " ")
 		call_macro("schlagwortfolgenMove", field:"$[SWF]", Ind1: "0")
 		call_macro("schlagwortfolgenMove", field:"$[SWF]", Ind1: "1")
@@ -59,6 +59,8 @@ do once("macros")
 	end
 end
 
+# Check if aggregated record has hbz Alma MMS ID
+
 do list(path: "035??", "var":"$i")
 	if any_contain("$i.a","(DE-605)")
 		add_field("hbzRecord","true")
@@ -68,21 +70,25 @@ do list(path: "035??", "var":"$i")
 			end
 		end
 	end
+	# Check if aggregated record has dnb ID
 	unless exists("dnbRecordRelation") # only use the first match
 		if any_contain("$i.a","(DE-101)")
 			copy_field("$i.8","dnbRecordRelation")
 		end
 	end
+	# Check if aggregated record has bvb ID
 	unless exists("bvbRecordRelation") # only use the first match
 		if any_contain("$i.a","(DE-604)")
 			copy_field("$i.8","bvbRecordRelation")
 		end
 	end
+	# Check if aggregated record has k10Plus ID
 	unless exists("k10PlusRecordRelation") # only use the first match
 		if any_contain("$i.a","(DE-627)")
 			copy_field("$i.8","k10PlusRecordRelation")
 		end
 	end
+	# Check if aggregated record has OBV ID
 	unless exists("obvRecordRelation") # only use the first match
 		if any_contain("$i.a","(AT-OBV)")
 			copy_field("$i.8","obvRecordRelation")
@@ -90,12 +96,13 @@ do list(path: "035??", "var":"$i")
 	end
 end
 
-# This is currently in lexicallic order as shown in the aggregation data. Maybe we should 
+# Check if matching catalouge source links are provided 689 Ind1=0 Ind2=#
+# Only SWF with matching providence info are kept.
 do list(path:"6890 ","var":"$i")
 	do list(path:"$i.8","var":"$8")
 		if any_contain("$i.5","DE-101")
 			if in("$8","dnbRecordRelation")
-				copy_field("$8","@dnbSWFelation")
+				copy_field("$8","@dnbSWFRelation")
 			end
 		elsif any_contain("$i.5","DE-604")
 			if in("$8","bvbRecordRelation")
@@ -113,21 +120,23 @@ do list(path:"6890 ","var":"$i")
 	end
 end
 
-call_macro("schlagwortfolge", Ind_1: " ")
-call_macro("schlagwortfolge", Ind_1: "0")
-call_macro("schlagwortfolge", Ind_1: "1")
-call_macro("schlagwortfolge", Ind_1: "2")
-call_macro("schlagwortfolge", Ind_1: "3")
-call_macro("schlagwortfolge", Ind_1: "4")
-call_macro("schlagwortfolge", Ind_1: "5")
-call_macro("schlagwortfolge", Ind_1: "6")
-call_macro("schlagwortfolge", Ind_1: "7")
-call_macro("schlagwortfolge", Ind_1: "8")
-call_macro("schlagwortfolge", Ind_1: "9")
+# Interate over all aggregated 689 SWF and sort them to their source (currently only DNB, BVB, K10Plus and OBV are kept) 
+call_macro("schlagwortfolgen", Ind1: " ")
+call_macro("schlagwortfolgen", Ind1: "0")
+call_macro("schlagwortfolgen", Ind1: "1")
+call_macro("schlagwortfolgen", Ind1: "2")
+call_macro("schlagwortfolgen", Ind1: "3")
+call_macro("schlagwortfolgen", Ind1: "4")
+call_macro("schlagwortfolgen", Ind1: "5")
+call_macro("schlagwortfolgen", Ind1: "6")
+call_macro("schlagwortfolgen", Ind1: "7")
+call_macro("schlagwortfolgen", Ind1: "8")
+call_macro("schlagwortfolgen", Ind1: "9")
 
+# Delete existing 689 elements
 remove_field("689??")
 
-
+# Use catalogue specific SWF as new 689, DNB->BVB->K10Plus->OBV 
 if exists ("DNB??")
 	call_macro("schlagwortfolgenKeeper",SWF:"DNB")
 elsif exists ("BVB??")
@@ -138,6 +147,7 @@ elsif exists ("OBV??")
 	call_macro("schlagwortfolgenKeeper",SWF:"OBV")
 end
 
+# Add Herkunftsangabe maschinell generierter Metadaten 883
 add_field("8830 .a","adoptedfromculturegraph")
 add_field("8830 .q","DE-605")
 add_field("timestampTest","$[TIMESTAMP]")
@@ -147,10 +157,12 @@ else
 	timestamp("8830 .d", format:"yyyymmdd")
 end
 
+# Delete old linkage
 do list(path:"035??|689??","var":"$i")
 	remove_field("$i.8")
 end
 
+# Create new linage for 883
 add_array("indexCountHelper[]")
 do list(path:"689??","var":"$i")
     add_field("indexCountHelper[].$append","689")
@@ -164,6 +176,7 @@ do list(path:"689??","var":"$i")
 	copy_field("$i.8","8830 .8.$append")
 end
 
+# Set hbz almaMmsId as new 001
 do list(path:"035??","var":"$i")
 	if any_contain("$i.a","(DE-605)")
 		copy_field("$i.a","001")
@@ -172,14 +185,18 @@ end
 
 replace_all("001","\\(DE-605\\)","")
 
+
+# Remove all non hbz records
 unless exists("hbzRecord")
 	reject()
 end
 
+# Remove all hbz records with existing hbz SWF
 if exists("hbzWithSWK")
 	reject()
 end
 
+# Remove all records without new 689
 unless exists("689??")
 	reject()
 end
