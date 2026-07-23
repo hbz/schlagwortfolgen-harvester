@@ -144,6 +144,19 @@ do list(path:"035??|689??","var":"$i")
 	remove_field("$i.8")
 end
 
+add_array("indexCountHelper[]")
+do list(path:"689??","var":"$i")
+    add_field("indexCountHelper[].$append","689")
+    copy_field("indexCountHelper[]","$i.8")
+    if is_array("$i.8")
+        count("$i.8")
+    else
+        add_field("$i.8","1")
+    end
+	append("$i.8","\\p")
+	copy_field("$i.8","8830 .8.$append")
+end
+
 
 unless exists("hbzRecord")
 	reject()

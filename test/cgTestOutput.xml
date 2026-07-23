@@ -17,24 +17,32 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">Automatisch aus BVB_2012-06 2013-05-23</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Plasmaphysik</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4046259-6</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">Automatisch aus BVB_2012-06 2013-05-23</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Kongress</marc:subfield>
 			<marc:subfield code="A">f</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -60,16 +68,20 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Hochtemperatursupraleiter</marc:subfield>
 			<marc:subfield code="0">(DE-588)4220922-5</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -116,59 +128,83 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Ägypten</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="0">(DE-588)4000556-2</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Historische Geografie</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4025103-2</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Geschichte 500-1000</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Ägypten</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="0">(DE-588)4000556-2</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="1">
 			<marc:subfield code="a">Verwaltung</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4063317-2</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="2">
 			<marc:subfield code="a">Geschichte 500-1300</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="0">
 			<marc:subfield code="a">Ägypten</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="0">(DE-588)4000556-2</marc:subfield>
+			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="1">
 			<marc:subfield code="a">Historische Geografie</marc:subfield>
 			<marc:subfield code="0">(DE-588)4025103-2</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">11\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="2">
 			<marc:subfield code="a">Geschichte 500-1300</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
+			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
+			<marc:subfield code="8">9\p</marc:subfield>
+			<marc:subfield code="8">10\p</marc:subfield>
+			<marc:subfield code="8">11\p</marc:subfield>
+			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -209,19 +245,25 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Isidorus &lt;Kiew, Metropolit&gt;</marc:subfield>
 			<marc:subfield code="A">f</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Konzilsakten</marc:subfield>
 			<marc:subfield code="A">f</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -259,6 +301,7 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Friedrich</marc:subfield>
@@ -267,21 +310,28 @@
 			<marc:subfield code="d">1122-1190</marc:subfield>
 			<marc:subfield code="0">(DE-588)118535757</marc:subfield>
 			<marc:subfield code="D">p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Deutschland</marc:subfield>
 			<marc:subfield code="b">Reichskanzlei</marc:subfield>
 			<marc:subfield code="0">(DE-588)4049146-8</marc:subfield>
 			<marc:subfield code="D">b</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Geschichte 1167-1174</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -310,20 +360,26 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Handwerker</marc:subfield>
 			<marc:subfield code="0">(DE-588)4023302-9</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Geschichte</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -365,27 +421,35 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">ONB-PI</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Borchardt, Rudolf</marc:subfield>
 			<marc:subfield code="d">1877-1945</marc:subfield>
 			<marc:subfield code="D">p</marc:subfield>
 			<marc:subfield code="0">(DE-588)118513435</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">ONB-PI</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">George, Stefan</marc:subfield>
 			<marc:subfield code="d">1868-1933</marc:subfield>
 			<marc:subfield code="D">p</marc:subfield>
 			<marc:subfield code="0">(DE-588)11853856X</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -412,6 +476,7 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="0">(DE-588)118825038</marc:subfield>
@@ -420,15 +485,20 @@
 			<marc:subfield code="D">p</marc:subfield>
 			<marc:subfield code="a">Gould, Glenn</marc:subfield>
 			<marc:subfield code="d">1932-1982</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="A">f</marc:subfield>
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -481,16 +551,20 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Philosophie</marc:subfield>
 			<marc:subfield code="0">(DE-588)4045791-6</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -516,6 +590,7 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Paz, Octavio</marc:subfield>
@@ -523,11 +598,14 @@
 			<marc:subfield code="t">&lt;U+0152&gt;El&lt;U+0156&gt; mono gramático</marc:subfield>
 			<marc:subfield code="0">(DE-588)1153349612</marc:subfield>
 			<marc:subfield code="D">u</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -566,6 +644,7 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="C">b</marc:subfield>
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Beckett, Samuel</marc:subfield>
@@ -573,16 +652,21 @@
 			<marc:subfield code="t">En attendant Godot</marc:subfield>
 			<marc:subfield code="0">(DE-588)4201228-4</marc:subfield>
 			<marc:subfield code="D">u</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Faksimile</marc:subfield>
 			<marc:subfield code="0">(DE-588)4153591-1</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -626,6 +710,7 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">(DE-627)</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="D">s</marc:subfield>
@@ -634,11 +719,14 @@
 			<marc:subfield code="0">(DE-576)20985751X</marc:subfield>
 			<marc:subfield code="a">Hoffnungslosigkeit</marc:subfield>
 			<marc:subfield code="2">gnd</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -656,6 +744,7 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="0">(DE-588)4044660-8</marc:subfield>
@@ -663,6 +752,7 @@
 			<marc:subfield code="0">(DE-101)040446603</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="a">Paris</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="0">(DE-588)4006287-9</marc:subfield>
@@ -670,19 +760,27 @@
 			<marc:subfield code="0">(DE-101)040062872</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Bevölkerung</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="A">z</marc:subfield>
 			<marc:subfield code="a">Geschichte 1959</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="A">f</marc:subfield>
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -726,21 +824,27 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Menschenrecht</marc:subfield>
 			<marc:subfield code="0">(DE-588)4074725-6</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Demokratie</marc:subfield>
 			<marc:subfield code="0">(DE-588)4011413-2</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -779,29 +883,39 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">Automatisch aus BVB_2013-06 2013-02-28</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Berlin</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="0">(DE-588)4005728-8</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Familie</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4016397-0</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Geschichte 1844-1910</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
 			<marc:subfield code="A">f</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -842,36 +956,48 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Lavanttal</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="0">(DE-588)4034785-0</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Krankenhaus</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4032786-3</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Mädchen</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4036871-3</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="a">Unheilbarkeit</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4201691-5</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="4">
 			<marc:subfield code="a">Bewältigung</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4195461-0</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -900,16 +1026,20 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Kunstfälschung</marc:subfield>
 			<marc:subfield code="0">(DE-588)4166027-4</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -941,22 +1071,28 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Cage, John</marc:subfield>
 			<marc:subfield code="d">1912-1992</marc:subfield>
 			<marc:subfield code="0">(DE-588)118518291</marc:subfield>
 			<marc:subfield code="D">p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Experimentelle Literatur</marc:subfield>
 			<marc:subfield code="0">(DE-588)4236010-9</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -992,27 +1128,35 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">VBKSOM</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Juden</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4028808-0</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Literatur</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4035964-5</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Schmerz</marc:subfield>
 			<marc:subfield code="g">Motiv</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4388353-9</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -1048,6 +1192,7 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="0">(DE-588)4019124-2</marc:subfield>
@@ -1055,6 +1200,7 @@
 			<marc:subfield code="0">(DE-101)040191249</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="a">Galizien</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="0">(DE-588)4415860-9</marc:subfield>
@@ -1062,15 +1208,21 @@
 			<marc:subfield code="0">(DE-101)947986731</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Chassidim</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="A">f</marc:subfield>
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -1105,6 +1257,7 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Pérez Galdós, Benito</marc:subfield>
@@ -1112,21 +1265,28 @@
 			<marc:subfield code="t">Tristana</marc:subfield>
 			<marc:subfield code="0">(DE-588)4434274-3</marc:subfield>
 			<marc:subfield code="D">u</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Verfilmung</marc:subfield>
 			<marc:subfield code="0">(DE-588)4062809-7</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Tristana</marc:subfield>
 			<marc:subfield code="0">(DE-588)4413751-5</marc:subfield>
 			<marc:subfield code="D">u</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -1156,20 +1316,26 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">ONB</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Deserteur</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4137732-1</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
 			<marc:subfield code="A">f</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -1208,25 +1374,33 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">UBWS11 UBWR33</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Mexiko</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="0">(DE-588)4039058-5</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Revolutionär</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4177943-5</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
 			<marc:subfield code="A">f</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -1259,24 +1433,32 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">ONB-PI</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Paris</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="0">(DE-588)4044660-8</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Geschichte 1938-1940</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
 			<marc:subfield code="A">f</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -1317,63 +1499,89 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Berlin</marc:subfield>
 			<marc:subfield code="0">(DE-588)4005728-8</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Exil</marc:subfield>
 			<marc:subfield code="0">(DE-588)4015959-0</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Russen</marc:subfield>
 			<marc:subfield code="0">(DE-588)4051034-7</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="a">Geschichte 1917-1923</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Russland</marc:subfield>
 			<marc:subfield code="0">(DE-588)4076899-5</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="1">
 			<marc:subfield code="a">Geschichte 1917-1922</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="0">
 			<marc:subfield code="a">Russland</marc:subfield>
 			<marc:subfield code="0">(DE-588)4076899-5</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="1">
 			<marc:subfield code="a">Geschichte 1917</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
+			<marc:subfield code="8">11\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="3" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="3" ind2="0">
 			<marc:subfield code="a">Šklovskij, Viktor Borisovič</marc:subfield>
 			<marc:subfield code="d">1893-1984</marc:subfield>
 			<marc:subfield code="0">(DE-588)118765701</marc:subfield>
 			<marc:subfield code="D">p</marc:subfield>
+			<marc:subfield code="8">13\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
+			<marc:subfield code="8">9\p</marc:subfield>
+			<marc:subfield code="8">10\p</marc:subfield>
+			<marc:subfield code="8">11\p</marc:subfield>
+			<marc:subfield code="8">12\p</marc:subfield>
+			<marc:subfield code="8">13\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -1408,6 +1616,7 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">(DE-627)</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="D">p</marc:subfield>
@@ -1417,11 +1626,14 @@
 			<marc:subfield code="a">Apollinaire, Guillaume</marc:subfield>
 			<marc:subfield code="d">1880-1918</marc:subfield>
 			<marc:subfield code="2">gnd</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -1448,20 +1660,26 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">ONB-PI</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Portugal</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="0">(DE-588)4046843-4</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
 			<marc:subfield code="A">f</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -1490,6 +1708,7 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">(DE-627)</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="D">s</marc:subfield>
@@ -1498,6 +1717,7 @@
 			<marc:subfield code="0">(DE-576)210008091</marc:subfield>
 			<marc:subfield code="a">Sozialer Roman</marc:subfield>
 			<marc:subfield code="2">gnd</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="D">s</marc:subfield>
@@ -1506,6 +1726,7 @@
 			<marc:subfield code="0">(DE-576)209134666</marc:subfield>
 			<marc:subfield code="a">Tod</marc:subfield>
 			<marc:subfield code="2">gnd</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="D">s</marc:subfield>
@@ -1514,11 +1735,16 @@
 			<marc:subfield code="0">(DE-576)20968321X</marc:subfield>
 			<marc:subfield code="a">Wortfeld</marc:subfield>
 			<marc:subfield code="2">gnd</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -1556,6 +1782,7 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">(DE-627)</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="D">s</marc:subfield>
@@ -1564,6 +1791,7 @@
 			<marc:subfield code="0">(DE-576)209103175</marc:subfield>
 			<marc:subfield code="a">Schriftsteller</marc:subfield>
 			<marc:subfield code="2">gnd</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="D">s</marc:subfield>
@@ -1572,6 +1800,7 @@
 			<marc:subfield code="0">(DE-576)208962948</marc:subfield>
 			<marc:subfield code="a">Homosexualität</marc:subfield>
 			<marc:subfield code="2">gnd</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="D">s</marc:subfield>
@@ -1580,6 +1809,7 @@
 			<marc:subfield code="0">(DE-576)209909978</marc:subfield>
 			<marc:subfield code="a">Liebesbeziehung</marc:subfield>
 			<marc:subfield code="2">gnd</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="D">s</marc:subfield>
@@ -1588,6 +1818,7 @@
 			<marc:subfield code="0">(DE-576)209165812</marc:subfield>
 			<marc:subfield code="a">Witwe</marc:subfield>
 			<marc:subfield code="2">gnd</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="4">
 			<marc:subfield code="D">s</marc:subfield>
@@ -1596,6 +1827,7 @@
 			<marc:subfield code="0">(DE-576)209781645</marc:subfield>
 			<marc:subfield code="a">Dreierbeziehung</marc:subfield>
 			<marc:subfield code="2">gnd</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="5">
 			<marc:subfield code="D">s</marc:subfield>
@@ -1604,11 +1836,19 @@
 			<marc:subfield code="0">(DE-576)209038853</marc:subfield>
 			<marc:subfield code="a">Mord</marc:subfield>
 			<marc:subfield code="2">gnd</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -1643,31 +1883,41 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Omnibus</marc:subfield>
 			<marc:subfield code="0">(DE-588)4043533-7</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Passagier</marc:subfield>
 			<marc:subfield code="0">(DE-588)4233205-9</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Begegnung</marc:subfield>
 			<marc:subfield code="0">(DE-588)4144298-2</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="a">Bilderbuch</marc:subfield>
 			<marc:subfield code="0">(DE-588)4006604-6</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -1706,21 +1956,27 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">ONB</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Weltkrieg</marc:subfield>
 			<marc:subfield code="g">1914-1918</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4079163-4</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
 			<marc:subfield code="A">f</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -1756,16 +2012,20 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">ONB-PI</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Kriminalroman</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4033187-8</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -1806,17 +2066,21 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Puškina, Natalʹja Nikolaevna</marc:subfield>
 			<marc:subfield code="d">1812-1863</marc:subfield>
 			<marc:subfield code="0">(DE-588)11892611X</marc:subfield>
 			<marc:subfield code="D">p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -1846,26 +2110,34 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">UBW</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Masse</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4037865-2</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Macht</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4036824-5</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Überleben</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4117273-5</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -1895,6 +2167,7 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="0">(DE-588)4028495-5</marc:subfield>
@@ -1902,6 +2175,7 @@
 			<marc:subfield code="0">(DE-101)040284956</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="a">Japan</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="0">(DE-588)4039902-3</marc:subfield>
@@ -1909,6 +2183,7 @@
 			<marc:subfield code="0">(DE-101)040399028</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Mönch</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="0">(DE-588)4156935-0</marc:subfield>
@@ -1916,6 +2191,7 @@
 			<marc:subfield code="0">(DE-101)041569350</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Gesandtschaft</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="0">(DE-588)4009937-4</marc:subfield>
@@ -1923,18 +2199,22 @@
 			<marc:subfield code="0">(DE-101)040099377</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="a">China</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="4">
 			<marc:subfield code="A">z</marc:subfield>
 			<marc:subfield code="a">Geschichte 731-752</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="5">
 			<marc:subfield code="A">f</marc:subfield>
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="0">(DE-588)4028495-5</marc:subfield>
@@ -1942,6 +2222,7 @@
 			<marc:subfield code="0">(DE-101)040284956</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="a">Japan</marc:subfield>
+			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="1">
 			<marc:subfield code="0">(DE-588)4008690-2</marc:subfield>
@@ -1949,19 +2230,34 @@
 			<marc:subfield code="0">(DE-101)040086909</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Buddhismus</marc:subfield>
+			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="2">
 			<marc:subfield code="A">z</marc:subfield>
 			<marc:subfield code="a">Geschichte</marc:subfield>
+			<marc:subfield code="8">11\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="3">
 			<marc:subfield code="A">f</marc:subfield>
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
+			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
+			<marc:subfield code="8">9\p</marc:subfield>
+			<marc:subfield code="8">10\p</marc:subfield>
+			<marc:subfield code="8">11\p</marc:subfield>
+			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -1987,31 +2283,41 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Omnibus</marc:subfield>
 			<marc:subfield code="0">(DE-588)4043533-7</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Passagier</marc:subfield>
 			<marc:subfield code="0">(DE-588)4233205-9</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Begegnung</marc:subfield>
 			<marc:subfield code="0">(DE-588)4144298-2</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="a">Bilderbuch</marc:subfield>
 			<marc:subfield code="0">(DE-588)4006604-6</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -2037,6 +2343,7 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Verga, Giovanni</marc:subfield>
@@ -2044,11 +2351,14 @@
 			<marc:subfield code="t">&lt;U+0152&gt;I&lt;U+0156&gt; Malavoglia</marc:subfield>
 			<marc:subfield code="0">(DE-588)4127940-2</marc:subfield>
 			<marc:subfield code="D">u</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -2074,36 +2384,48 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Insel</marc:subfield>
 			<marc:subfield code="0">(DE-588)4128227-9</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Naturerlebnis</marc:subfield>
 			<marc:subfield code="0">(DE-588)4325735-5</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Selbsterfahrung</marc:subfield>
 			<marc:subfield code="0">(DE-588)4135716-4</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="a">Sinn</marc:subfield>
 			<marc:subfield code="0">(DE-588)4133154-0</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="4">
 			<marc:subfield code="a">Philosophische Anthropologie</marc:subfield>
 			<marc:subfield code="0">(DE-588)4045798-9</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -2150,25 +2472,33 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Weisheit</marc:subfield>
 			<marc:subfield code="0">(DE-588)4065203-8</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Hohl, Ludwig</marc:subfield>
 			<marc:subfield code="d">1904-1980</marc:subfield>
 			<marc:subfield code="0">(DE-588)118552864</marc:subfield>
 			<marc:subfield code="D">p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -2198,18 +2528,24 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">ONB-PI</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Prager</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
 			<marc:subfield code="A">f</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -2239,6 +2575,7 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="0">(DE-588)4028495-5</marc:subfield>
@@ -2246,6 +2583,7 @@
 			<marc:subfield code="0">(DE-101)040284956</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="a">Japan</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="0">(DE-588)4039902-3</marc:subfield>
@@ -2253,6 +2591,7 @@
 			<marc:subfield code="0">(DE-101)040399028</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Mönch</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="0">(DE-588)4156935-0</marc:subfield>
@@ -2260,6 +2599,7 @@
 			<marc:subfield code="0">(DE-101)041569350</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Gesandtschaft</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="0">(DE-588)4009937-4</marc:subfield>
@@ -2267,18 +2607,22 @@
 			<marc:subfield code="0">(DE-101)040099377</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="a">China</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="4">
 			<marc:subfield code="A">z</marc:subfield>
 			<marc:subfield code="a">Geschichte 731-752</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="5">
 			<marc:subfield code="A">f</marc:subfield>
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="0">(DE-588)4028495-5</marc:subfield>
@@ -2286,6 +2630,7 @@
 			<marc:subfield code="0">(DE-101)040284956</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="a">Japan</marc:subfield>
+			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="1">
 			<marc:subfield code="0">(DE-588)4008690-2</marc:subfield>
@@ -2293,19 +2638,34 @@
 			<marc:subfield code="0">(DE-101)040086909</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Buddhismus</marc:subfield>
+			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="2">
 			<marc:subfield code="A">z</marc:subfield>
 			<marc:subfield code="a">Geschichte</marc:subfield>
+			<marc:subfield code="8">11\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="3">
 			<marc:subfield code="A">f</marc:subfield>
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
+			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
+			<marc:subfield code="8">9\p</marc:subfield>
+			<marc:subfield code="8">10\p</marc:subfield>
+			<marc:subfield code="8">11\p</marc:subfield>
+			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -2337,6 +2697,7 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">(DE-627)</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="D">p</marc:subfield>
@@ -2346,11 +2707,14 @@
 			<marc:subfield code="a">Krolow, Karl</marc:subfield>
 			<marc:subfield code="d">1915-1999</marc:subfield>
 			<marc:subfield code="2">gnd</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -2392,6 +2756,7 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="0">(DE-588)4044660-8</marc:subfield>
@@ -2399,6 +2764,7 @@
 			<marc:subfield code="0">(DE-101)040446603</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="a">Paris</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="0">(DE-588)4079583-4</marc:subfield>
@@ -2406,6 +2772,7 @@
 			<marc:subfield code="0">(DE-101)040795837</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Zwischenmenschliche Beziehung</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="0">(DE-588)4299802-5</marc:subfield>
@@ -2413,19 +2780,28 @@
 			<marc:subfield code="0">(DE-101)042998026</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Scheitern</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="A">z</marc:subfield>
 			<marc:subfield code="a">Geschichte 1925-1930</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="4">
 			<marc:subfield code="A">f</marc:subfield>
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -2460,45 +2836,55 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Literaturtheorie</marc:subfield>
 			<marc:subfield code="0">(DE-588)4036031-3</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Text</marc:subfield>
 			<marc:subfield code="0">(DE-588)4059596-1</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="1">
 			<marc:subfield code="a">Rezeption</marc:subfield>
 			<marc:subfield code="0">(DE-588)4049716-1</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="2">
 			<marc:subfield code="a">Leseinteresse</marc:subfield>
 			<marc:subfield code="0">(DE-588)4167437-6</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="3">
 			<marc:subfield code="a">Lustprinzip</marc:subfield>
 			<marc:subfield code="0">(DE-588)4168338-9</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="0">
 			<marc:subfield code="a">Texttheorie</marc:subfield>
 			<marc:subfield code="0">(DE-588)4216276-2</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="3" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="3" ind2="0">
 			<marc:subfield code="a">Barthes, Roland</marc:subfield>
@@ -2506,11 +2892,23 @@
 			<marc:subfield code="t">&lt;U+0152&gt;Le&lt;U+0156&gt; plaisir du texte</marc:subfield>
 			<marc:subfield code="0">(DE-588)4218456-3</marc:subfield>
 			<marc:subfield code="D">u</marc:subfield>
+			<marc:subfield code="8">11\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
+			<marc:subfield code="8">9\p</marc:subfield>
+			<marc:subfield code="8">10\p</marc:subfield>
+			<marc:subfield code="8">11\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -2539,35 +2937,47 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Süddeutschland</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="0">(DE-588)4078022-3</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Kleinstadt</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4031110-7</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Sozialdemokrat</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4181914-7</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="a">Nationalsozialist</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4126114-8</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="4">
 			<marc:subfield code="a">Geschichte 1930</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -2608,6 +3018,7 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Paz, Octavio</marc:subfield>
@@ -2615,11 +3026,14 @@
 			<marc:subfield code="t">&lt;U+0152&gt;El&lt;U+0156&gt; mono gramático</marc:subfield>
 			<marc:subfield code="0">(DE-588)1153349612</marc:subfield>
 			<marc:subfield code="D">u</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -2651,63 +3065,87 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Lodz</marc:subfield>
 			<marc:subfield code="0">(DE-588)4074299-4</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Lazarett</marc:subfield>
 			<marc:subfield code="0">(DE-588)4166975-7</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Krankenpfleger</marc:subfield>
 			<marc:subfield code="0">(DE-588)4165516-3</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="a">Polnischer Kriegsgefangener</marc:subfield>
 			<marc:subfield code="0">(DE-588)4138959-1</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="4">
 			<marc:subfield code="a">Geschichte 1939</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Deutsche</marc:subfield>
 			<marc:subfield code="0">(DE-588)4070334-4</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="1">
 			<marc:subfield code="a">Krankenpfleger</marc:subfield>
 			<marc:subfield code="0">(DE-588)4165516-3</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="2">
 			<marc:subfield code="a">Grenzsituation</marc:subfield>
 			<marc:subfield code="0">(DE-588)4113788-7</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="3">
 			<marc:subfield code="a">Schwerverletzter</marc:subfield>
 			<marc:subfield code="0">(DE-588)4354870-2</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">11\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="4">
 			<marc:subfield code="a">Polnischer Kriegsgefangener</marc:subfield>
 			<marc:subfield code="0">(DE-588)4138959-1</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
+			<marc:subfield code="8">9\p</marc:subfield>
+			<marc:subfield code="8">10\p</marc:subfield>
+			<marc:subfield code="8">11\p</marc:subfield>
+			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -2737,21 +3175,27 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">ONB-PI</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Perec, Georges</marc:subfield>
 			<marc:subfield code="d">1936-1982</marc:subfield>
 			<marc:subfield code="D">p</marc:subfield>
 			<marc:subfield code="0">(DE-588)118903004</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Erlebnisbericht</marc:subfield>
 			<marc:subfield code="A">f</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -2780,6 +3224,7 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Queirós, Eça de</marc:subfield>
@@ -2787,11 +3232,14 @@
 			<marc:subfield code="t">&lt;U+0152&gt;O&lt;U+0156&gt; mandarim</marc:subfield>
 			<marc:subfield code="0">(DE-588)4453800-5</marc:subfield>
 			<marc:subfield code="D">u</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -2817,31 +3265,41 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Omnibus</marc:subfield>
 			<marc:subfield code="0">(DE-588)4043533-7</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Passagier</marc:subfield>
 			<marc:subfield code="0">(DE-588)4233205-9</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Begegnung</marc:subfield>
 			<marc:subfield code="0">(DE-588)4144298-2</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="a">Bilderbuch</marc:subfield>
 			<marc:subfield code="0">(DE-588)4006604-6</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -2870,17 +3328,21 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Russlandfeldzug</marc:subfield>
 			<marc:subfield code="g">1941-1945</marc:subfield>
 			<marc:subfield code="0">(DE-588)4076906-9</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -2906,27 +3368,35 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Deutschland</marc:subfield>
 			<marc:subfield code="g">DDR</marc:subfield>
 			<marc:subfield code="0">(DE-588)4011890-3</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Politische Verfolgung</marc:subfield>
 			<marc:subfield code="0">(DE-588)4046565-2</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Suizidversuch</marc:subfield>
 			<marc:subfield code="0">(DE-588)4137786-2</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -2953,6 +3423,7 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="0">(DE-588)4043271-3</marc:subfield>
@@ -2960,6 +3431,7 @@
 			<marc:subfield code="0">(DE-101)040432718</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="a">Österreich</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="0">(DE-588)4005081-6</marc:subfield>
@@ -2967,18 +3439,22 @@
 			<marc:subfield code="0">(DE-101)040050815</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Beamter</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="A">z</marc:subfield>
 			<marc:subfield code="a">Geschichte 1930</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="A">f</marc:subfield>
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="0">(DE-588)4043271-3</marc:subfield>
@@ -2986,6 +3462,7 @@
 			<marc:subfield code="0">(DE-101)040432718</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="a">Österreich</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="1">
 			<marc:subfield code="0">(DE-588)4069722-8</marc:subfield>
@@ -2993,19 +3470,32 @@
 			<marc:subfield code="0">(DE-101)040697223</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Bürgertum</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="2">
 			<marc:subfield code="A">z</marc:subfield>
 			<marc:subfield code="a">Geschichte 1650</marc:subfield>
+			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="3">
 			<marc:subfield code="A">f</marc:subfield>
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
+			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
+			<marc:subfield code="8">9\p</marc:subfield>
+			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -3049,20 +3539,26 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Kunst</marc:subfield>
 			<marc:subfield code="0">(DE-588)4114333-4</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Geschichte 1600-1780</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -3089,6 +3585,7 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="0">(DE-588)118519271</marc:subfield>
@@ -3097,14 +3594,17 @@
 			<marc:subfield code="D">p</marc:subfield>
 			<marc:subfield code="a">Carrington, Leonora</marc:subfield>
 			<marc:subfield code="d">1917-2011</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="A">f</marc:subfield>
 			<marc:subfield code="a">Autobiographie 1940</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="0">(DE-588)4047734-4</marc:subfield>
@@ -3112,19 +3612,29 @@
 			<marc:subfield code="0">(DE-101)040477347</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Psychose</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="1">
 			<marc:subfield code="A">z</marc:subfield>
 			<marc:subfield code="a">Geschichte 1940</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="2">
 			<marc:subfield code="A">f</marc:subfield>
 			<marc:subfield code="a">Erlebnisbericht</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -3147,22 +3657,28 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Degas, Edgar</marc:subfield>
 			<marc:subfield code="d">1834-1917</marc:subfield>
 			<marc:subfield code="D">p</marc:subfield>
 			<marc:subfield code="0">(DE-588)118524291</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Tanz</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4059028-8</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -3201,6 +3717,7 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="0">(DE-588)4040949-1</marc:subfield>
@@ -3208,6 +3725,7 @@
 			<marc:subfield code="0">(DE-101)04040949X</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Mutter</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="0">(DE-588)4054423-0</marc:subfield>
@@ -3215,6 +3733,7 @@
 			<marc:subfield code="0">(DE-101)040544230</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Suizid</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="0">(DE-588)4522377-4</marc:subfield>
@@ -3222,6 +3741,7 @@
 			<marc:subfield code="0">(DE-101)955147344</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Erwachsener Sohn</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="0">(DE-588)4015272-8</marc:subfield>
@@ -3229,6 +3749,7 @@
 			<marc:subfield code="0">(DE-101)040152723</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Erinnerung</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="4">
 			<marc:subfield code="0">(DE-588)4132370-1</marc:subfield>
@@ -3236,15 +3757,24 @@
 			<marc:subfield code="0">(DE-101)04132370X</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Selbstreflexion</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="5">
 			<marc:subfield code="A">f</marc:subfield>
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -3280,6 +3810,7 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="0">(DE-588)4085685-9</marc:subfield>
@@ -3287,6 +3818,7 @@
 			<marc:subfield code="0">(DE-101)040856852</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="a">Anatolien</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="0">(DE-588)4134557-5</marc:subfield>
@@ -3294,6 +3826,7 @@
 			<marc:subfield code="0">(DE-101)041345576</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Außenseiter</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="0">(DE-588)4000464-8</marc:subfield>
@@ -3301,6 +3834,7 @@
 			<marc:subfield code="0">(DE-101)040004643</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Adel</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="0">(DE-588)4165681-7</marc:subfield>
@@ -3308,6 +3842,7 @@
 			<marc:subfield code="0">(DE-101)041656814</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Kriegsbeschädigter</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="4">
 			<marc:subfield code="0">(DE-588)4027821-9</marc:subfield>
@@ -3315,15 +3850,24 @@
 			<marc:subfield code="0">(DE-101)040278212</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="a">Istanbul</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="5">
 			<marc:subfield code="A">f</marc:subfield>
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -3356,24 +3900,32 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">ONB-PI</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Mexiko</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="0">(DE-588)4039058-5</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Geschichte um 1960</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
 			<marc:subfield code="A">f</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -3408,16 +3960,20 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Lebenslauf</marc:subfield>
 			<marc:subfield code="0">(DE-588)4034869-6</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -3449,21 +4005,27 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Tschechisch</marc:subfield>
 			<marc:subfield code="0">(DE-588)4061084-6</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Slowakisch</marc:subfield>
 			<marc:subfield code="0">(DE-588)4120335-5</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -3498,26 +4060,34 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Italien</marc:subfield>
 			<marc:subfield code="0">(DE-588)4027833-5</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Bauernleben</marc:subfield>
 			<marc:subfield code="0">(DE-588)4144143-6</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Anthologie</marc:subfield>
 			<marc:subfield code="0">(DE-588)4002214-6</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -3553,20 +4123,26 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">ONB-PI</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Türkei</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="0">(DE-588)4061163-2</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
 			<marc:subfield code="A">f</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -3595,21 +4171,27 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Judenvernichtung</marc:subfield>
 			<marc:subfield code="0">(DE-588)4073091-8</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Geschichtsphilosophie</marc:subfield>
 			<marc:subfield code="0">(DE-588)4020529-0</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -3629,6 +4211,7 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">(DE-627)</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="D">p</marc:subfield>
@@ -3638,11 +4221,14 @@
 			<marc:subfield code="a">Cage, John</marc:subfield>
 			<marc:subfield code="d">1912-1992</marc:subfield>
 			<marc:subfield code="2">gnd</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -3680,25 +4266,33 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Weisheit</marc:subfield>
 			<marc:subfield code="0">(DE-588)4065203-8</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Hohl, Ludwig</marc:subfield>
 			<marc:subfield code="d">1904-1980</marc:subfield>
 			<marc:subfield code="0">(DE-588)118552864</marc:subfield>
 			<marc:subfield code="D">p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -3725,20 +4319,26 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">UBWRAR</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Rethimnon</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="0">(DE-588)4274296-1</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Fiktionale Darstellung</marc:subfield>
 			<marc:subfield code="A">f</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -3765,22 +4365,30 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">ONB-PI</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Nuovo</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Geschichte 20. Jh.</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
 			<marc:subfield code="A">f</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -3801,6 +4409,7 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="0">(DE-588)4039417-7</marc:subfield>
@@ -3808,6 +4417,7 @@
 			<marc:subfield code="0">(DE-101)040394174</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Minderjähriger</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="0">(DE-588)4167616-6</marc:subfield>
@@ -3815,6 +4425,7 @@
 			<marc:subfield code="0">(DE-101)041676165</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Liebesbeziehung</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="0">(DE-588)4013634-6</marc:subfield>
@@ -3822,6 +4433,7 @@
 			<marc:subfield code="0">(DE-101)040136345</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Ehefrau</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="0">(DE-588)4055409-0</marc:subfield>
@@ -3829,19 +4441,29 @@
 			<marc:subfield code="0">(DE-101)040554090</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Soldat</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="4">
 			<marc:subfield code="A">z</marc:subfield>
 			<marc:subfield code="a">Geschichte 1914</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="5">
 			<marc:subfield code="A">f</marc:subfield>
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -3862,32 +4484,42 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">onbgam</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Erotik</marc:subfield>
 			<marc:subfield code="g">Motiv</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4123157-0</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Literatur</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4035964-5</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Neugriechisch</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4120278-8</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="a">Übersetzung</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4061418-9</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -3916,6 +4548,7 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Strindberg, August</marc:subfield>
@@ -3923,21 +4556,28 @@
 			<marc:subfield code="t">Dödsdansen</marc:subfield>
 			<marc:subfield code="0">(DE-588)4203055-9</marc:subfield>
 			<marc:subfield code="D">u</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Aufführung</marc:subfield>
 			<marc:subfield code="0">(DE-588)4143388-9</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Akademietheater Wien</marc:subfield>
 			<marc:subfield code="0">(DE-588)2033589-1</marc:subfield>
 			<marc:subfield code="D">b</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -3970,6 +4610,7 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="0">(DE-588)4075739-0</marc:subfield>
@@ -3977,6 +4618,7 @@
 			<marc:subfield code="0">(DE-101)040757390</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="a">Osteuropa</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="0">(DE-588)4015464-6</marc:subfield>
@@ -3984,6 +4626,7 @@
 			<marc:subfield code="0">(DE-101)040154645</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Erzählung</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="0">(DE-588)4028808-0</marc:subfield>
@@ -3991,15 +4634,22 @@
 			<marc:subfield code="0">(DE-101)040288080</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Juden</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="A">f</marc:subfield>
 			<marc:subfield code="a">Anthologie</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -4026,6 +4676,7 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="0">(DE-588)4018145-5</marc:subfield>
@@ -4033,6 +4684,7 @@
 			<marc:subfield code="0">(DE-101)040181456</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="a">Frankreich</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="0">(DE-588)4124813-2</marc:subfield>
@@ -4040,6 +4692,7 @@
 			<marc:subfield code="0">(DE-101)041248139</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Ehepaar</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="0">(DE-588)4034869-6</marc:subfield>
@@ -4047,6 +4700,7 @@
 			<marc:subfield code="0">(DE-101)040348695</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Lebenslauf</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="0">(DE-588)4015272-8</marc:subfield>
@@ -4054,19 +4708,29 @@
 			<marc:subfield code="0">(DE-101)040152723</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Erinnerung</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="4">
 			<marc:subfield code="a">Geschichte 1965-1980</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="5">
 			<marc:subfield code="A">f</marc:subfield>
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -4116,25 +4780,33 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Fin de siècle</marc:subfield>
 			<marc:subfield code="0">(DE-588)4154404-3</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Kraft, Werner</marc:subfield>
 			<marc:subfield code="d">1896-1991</marc:subfield>
 			<marc:subfield code="0">(DE-588)118566016</marc:subfield>
 			<marc:subfield code="D">p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -4157,35 +4829,47 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Süddeutschland</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="0">(DE-588)4078022-3</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Kleinstadt</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4031110-7</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Sozialdemokrat</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4181914-7</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="a">Nationalsozialist</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4126114-8</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="4">
 			<marc:subfield code="a">Geschichte 1930</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -4226,6 +4910,7 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Bernhard, Thomas</marc:subfield>
@@ -4233,21 +4918,28 @@
 			<marc:subfield code="t">&lt;U+0152&gt;Der&lt;U+0156&gt; Weltverbesserer</marc:subfield>
 			<marc:subfield code="0">(DE-588)4636697-0</marc:subfield>
 			<marc:subfield code="D">u</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Bearbeitung</marc:subfield>
 			<marc:subfield code="0">(DE-588)4120981-3</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Comic</marc:subfield>
 			<marc:subfield code="0">(DE-588)4010427-8</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -4273,42 +4965,58 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Erkenntnis</marc:subfield>
 			<marc:subfield code="0">(DE-588)4015286-8</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Gewissheit</marc:subfield>
 			<marc:subfield code="0">(DE-588)4129355-1</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Gewissheit</marc:subfield>
 			<marc:subfield code="0">(DE-588)4129355-1</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="1">
 			<marc:subfield code="a">Theorie</marc:subfield>
 			<marc:subfield code="0">(DE-588)4059787-8</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="0">
 			<marc:subfield code="a">Evidenz</marc:subfield>
 			<marc:subfield code="0">(DE-588)4129356-3</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -4337,17 +5045,21 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Konrád, György</marc:subfield>
 			<marc:subfield code="d">1933-2019</marc:subfield>
 			<marc:subfield code="0">(DE-588)118997254</marc:subfield>
 			<marc:subfield code="D">p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -4385,17 +5097,21 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Goethe, Johann Wolfgang von</marc:subfield>
 			<marc:subfield code="d">1749-1832</marc:subfield>
 			<marc:subfield code="0">(DE-588)118540238</marc:subfield>
 			<marc:subfield code="D">p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -4419,6 +5135,7 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="5">DE-101</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="0">(DE-588)4078704-7</marc:subfield>
@@ -4426,6 +5143,7 @@
 			<marc:subfield code="0">(DE-101)040787044</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="a">USA</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="0">(DE-588)4025243-7</marc:subfield>
@@ -4433,6 +5151,7 @@
 			<marc:subfield code="0">(DE-101)040252434</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Hochschullehrer</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="0">(DE-588)4051034-7</marc:subfield>
@@ -4440,19 +5159,28 @@
 			<marc:subfield code="0">(DE-101)040510344</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Russen</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="A">z</marc:subfield>
 			<marc:subfield code="a">Geschichte 1957</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="4">
 			<marc:subfield code="A">f</marc:subfield>
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -4490,39 +5218,55 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Ungarn</marc:subfield>
 			<marc:subfield code="0">(DE-588)4078541-5</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Österreich</marc:subfield>
 			<marc:subfield code="0">(DE-588)4043271-3</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="0">
 			<marc:subfield code="a">Agrarstaat</marc:subfield>
 			<marc:subfield code="0">(DE-588)4127875-6</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="3" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="3" ind2="0">
 			<marc:subfield code="a">Geschichte 1800-1899</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -4539,6 +5283,7 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">(DE-627)</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="D">s</marc:subfield>
@@ -4547,6 +5292,7 @@
 			<marc:subfield code="0">(DE-576)209734590</marc:subfield>
 			<marc:subfield code="a">Benzin</marc:subfield>
 			<marc:subfield code="2">gnd</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="D">s</marc:subfield>
@@ -4555,6 +5301,7 @@
 			<marc:subfield code="0">(DE-576)210025476</marc:subfield>
 			<marc:subfield code="a">Tankstelle</marc:subfield>
 			<marc:subfield code="2">gnd</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="D">s</marc:subfield>
@@ -4563,6 +5310,7 @@
 			<marc:subfield code="0">(DE-576)208893903</marc:subfield>
 			<marc:subfield code="a">Design</marc:subfield>
 			<marc:subfield code="2">gnd</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="D">s</marc:subfield>
@@ -4571,11 +5319,17 @@
 			<marc:subfield code="0">(DE-576)209159251</marc:subfield>
 			<marc:subfield code="a">Werbung</marc:subfield>
 			<marc:subfield code="2">gnd</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -4605,32 +5359,44 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">BOK</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Hang</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4023336-4</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Geomorphologie</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4130684-3</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Aufsatzsammlung</marc:subfield>
 			<marc:subfield code="A">f</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">ONB-PI</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Hangformen</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -4665,81 +5431,115 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Monte Gargano</marc:subfield>
 			<marc:subfield code="0">(DE-588)4102164-2</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Küste</marc:subfield>
 			<marc:subfield code="0">(DE-588)4033469-7</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Peloponnes</marc:subfield>
 			<marc:subfield code="0">(DE-588)4045064-8</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="1">
 			<marc:subfield code="a">Küste</marc:subfield>
 			<marc:subfield code="0">(DE-588)4033469-7</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="0">
 			<marc:subfield code="a">Mittelmeerküste</marc:subfield>
 			<marc:subfield code="0">(DE-588)4074898-4</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="3" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="3" ind2="0">
 			<marc:subfield code="a">Mittelmeerküste</marc:subfield>
 			<marc:subfield code="0">(DE-588)4074898-4</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="3" ind2="1">
 			<marc:subfield code="a">Geomorphologie</marc:subfield>
 			<marc:subfield code="0">(DE-588)4130684-3</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">11\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="4" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="4" ind2="0">
 			<marc:subfield code="a">Monte Gargano</marc:subfield>
 			<marc:subfield code="0">(DE-588)4102164-2</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="8">13\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="4" ind2="1">
 			<marc:subfield code="a">Küstenmorphologie</marc:subfield>
 			<marc:subfield code="0">(DE-588)4033476-4</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">14\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="5" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">15\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="5" ind2="0">
 			<marc:subfield code="a">Peloponnes</marc:subfield>
 			<marc:subfield code="0">(DE-588)4045064-8</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="8">16\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="5" ind2="1">
 			<marc:subfield code="a">Küstenmorphologie</marc:subfield>
 			<marc:subfield code="0">(DE-588)4033476-4</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">17\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
+			<marc:subfield code="8">9\p</marc:subfield>
+			<marc:subfield code="8">10\p</marc:subfield>
+			<marc:subfield code="8">11\p</marc:subfield>
+			<marc:subfield code="8">12\p</marc:subfield>
+			<marc:subfield code="8">13\p</marc:subfield>
+			<marc:subfield code="8">14\p</marc:subfield>
+			<marc:subfield code="8">15\p</marc:subfield>
+			<marc:subfield code="8">16\p</marc:subfield>
+			<marc:subfield code="8">17\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -4768,6 +5568,7 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">(DE-627)</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="D">s</marc:subfield>
@@ -4776,9 +5577,11 @@
 			<marc:subfield code="0">(DE-576)210516054</marc:subfield>
 			<marc:subfield code="a">Hangentwicklung</marc:subfield>
 			<marc:subfield code="2">gnd</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">(DE-627)</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="D">s</marc:subfield>
@@ -4787,11 +5590,16 @@
 			<marc:subfield code="0">(DE-576)210162147</marc:subfield>
 			<marc:subfield code="a">Hangabtragung</marc:subfield>
 			<marc:subfield code="2">gnd</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -4821,25 +5629,33 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">UBI</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Tropen</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="0">(DE-588)4060997-2</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Piedmontfläche</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4137900-7</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Aufsatzsammlung</marc:subfield>
 			<marc:subfield code="A">f</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -4892,17 +5708,21 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Cather, Willa</marc:subfield>
 			<marc:subfield code="d">1873-1947</marc:subfield>
 			<marc:subfield code="0">(DE-588)11866879X</marc:subfield>
 			<marc:subfield code="D">p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -4923,36 +5743,48 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">UBS</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Deutschland</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="0">(DE-588)4011882-4</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Hochspannungsfreileitung</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4160235-3</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Bauplanungsrecht</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4144182-5</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="a">Gemeinde</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4019956-3</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="4">
 			<marc:subfield code="a">Rechtsschutz</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4048835-4</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -4967,48 +5799,66 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">UBWWIA</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Englisch</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4014777-0</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Schwanklied</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4549637-7</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Geschichte 1500-1900</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">AT-OBV</marc:subfield>
 			<marc:subfield code="5">UBWWIA</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Großbritannien</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="0">(DE-588)4022153-2</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="1">
 			<marc:subfield code="a">Flugblatt</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4071280-1</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="2">
 			<marc:subfield code="a">Europäische Ethnologie</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4078937-8</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="3">
 			<marc:subfield code="a">Geschichte 1500-1900</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
+			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
+			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -5046,62 +5896,86 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Alter Orient</marc:subfield>
 			<marc:subfield code="0">(DE-588)4001451-4</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Mosaik</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4040311-7</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Antike</marc:subfield>
 			<marc:subfield code="0">(DE-588)4068754-5</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Naher Osten</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="0">(DE-588)4068878-1</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="1">
 			<marc:subfield code="a">Mosaik</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4040311-7</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="2">
 			<marc:subfield code="a">Antike</marc:subfield>
 			<marc:subfield code="0">(DE-588)4068754-5</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="0">
 			<marc:subfield code="a">Alter Orient</marc:subfield>
 			<marc:subfield code="0">(DE-588)4001451-4</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
+			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="1">
 			<marc:subfield code="a">Mosaik</marc:subfield>
 			<marc:subfield code="0">(DE-588)4040311-7</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">11\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="2">
 			<marc:subfield code="a">Geschichte</marc:subfield>
 			<marc:subfield code="0">(DE-588)4020517-4</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
+			<marc:subfield code="8">9\p</marc:subfield>
+			<marc:subfield code="8">10\p</marc:subfield>
+			<marc:subfield code="8">11\p</marc:subfield>
+			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -5121,6 +5995,7 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">(DE-627)</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="D">s</marc:subfield>
@@ -5129,6 +6004,7 @@
 			<marc:subfield code="0">(DE-576)209057408</marc:subfield>
 			<marc:subfield code="a">Organisation</marc:subfield>
 			<marc:subfield code="2">gnd</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="D">s</marc:subfield>
@@ -5137,11 +6013,15 @@
 			<marc:subfield code="0">(DE-576)209578750</marc:subfield>
 			<marc:subfield code="a">Kultur</marc:subfield>
 			<marc:subfield code="2">gnd</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -5191,52 +6071,72 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Minimum-Maximum-Prinzip</marc:subfield>
 			<marc:subfield code="0">(DE-588)4170060-0</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Optimierung</marc:subfield>
 			<marc:subfield code="0">(DE-588)4043664-0</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Algorithmus</marc:subfield>
 			<marc:subfield code="0">(DE-588)4001183-5</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Konvexe Analysis</marc:subfield>
 			<marc:subfield code="0">(DE-588)4138566-4</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="0">
 			<marc:subfield code="a">Extremalproblem</marc:subfield>
 			<marc:subfield code="0">(DE-588)4439315-5</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="1">
 			<marc:subfield code="a">Konvexe Analysis</marc:subfield>
 			<marc:subfield code="0">(DE-588)4138566-4</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="2">
 			<marc:subfield code="a">Variationsrechnung</marc:subfield>
 			<marc:subfield code="0">(DE-588)4062355-5</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
+			<marc:subfield code="8">7\p</marc:subfield>
+			<marc:subfield code="8">8\p</marc:subfield>
+			<marc:subfield code="8">9\p</marc:subfield>
+			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -5280,32 +6180,44 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Sequentialanalyse</marc:subfield>
 			<marc:subfield code="0">(DE-588)4128461-6</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Ablaufplanung</marc:subfield>
 			<marc:subfield code="0">(DE-588)4122751-7</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="0">
 			<marc:subfield code="a">Warteschlange</marc:subfield>
 			<marc:subfield code="0">(DE-588)4189150-8</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20262523</marc:subfield>
+			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="8">1\p</marc:subfield>
+			<marc:subfield code="8">2\p</marc:subfield>
+			<marc:subfield code="8">3\p</marc:subfield>
+			<marc:subfield code="8">4\p</marc:subfield>
+			<marc:subfield code="8">5\p</marc:subfield>
+			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
