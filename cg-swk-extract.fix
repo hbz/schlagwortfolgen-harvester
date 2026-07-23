@@ -136,6 +136,10 @@ elsif exists ("OBV??")
 	call_macro("schlagwortfolgenKeeper",SWF:"OBV")
 end
 
+add_field("8830 .a","adoptedfromculturegraph")
+add_field("8830 .q","DE-605")
+timestamp("8830 .d", format:"yyyymmdd")
+
 do list(path:"035??|689??","var":"$i")
 	remove_field("$i.8")
 end
@@ -156,5 +160,5 @@ end
 remove_field("hbzRecord")
 
 # Only keep 001, 035 and 689
-retain("001","689??","035??")
+retain("001","689??","035??","8830 ")
 vacuum()
