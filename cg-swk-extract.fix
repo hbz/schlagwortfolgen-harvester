@@ -29,6 +29,34 @@ do put_macro("schlagwortfolge")
 	call_macro("schlagwortfolgeIndex", Ind1: "$[Ind_1]", Ind2: "9")
 end
 
+do put_macro("schlagwortfolgenMove")
+	copy_field("$[field]$[Ind1] ", "X89$[Ind1] ")
+	copy_field("$[field]$[Ind1]0", "X89$[Ind1]0")
+	copy_field("$[field]$[Ind1]1", "X89$[Ind1]1")
+	copy_field("$[field]$[Ind1]2", "X89$[Ind1]2")
+	copy_field("$[field]$[Ind1]3", "X89$[Ind1]3")
+	copy_field("$[field]$[Ind1]4", "X89$[Ind1]4")
+	copy_field("$[field]$[Ind1]5", "X89$[Ind1]5")
+	copy_field("$[field]$[Ind1]6", "X89$[Ind1]6")
+	copy_field("$[field]$[Ind1]7", "X89$[Ind1]7")
+	copy_field("$[field]$[Ind1]8", "X89$[Ind1]8")
+	copy_field("$[field]$[Ind1]9", "X89$[Ind1]9")
+end
+
+do put_macro("schlagwortfolgenKeeper")
+	call_macro("schlagwortfolgenMove", field:"$[SWF]", Ind1: " ")
+	call_macro("schlagwortfolgenMove", field:"$[SWF]", Ind1: "0")
+	call_macro("schlagwortfolgenMove", field:"$[SWF]", Ind1: "1")
+	call_macro("schlagwortfolgenMove", field:"$[SWF]", Ind1: "2")
+	call_macro("schlagwortfolgenMove", field:"$[SWF]", Ind1: "3")
+	call_macro("schlagwortfolgenMove", field:"$[SWF]", Ind1: "4")
+	call_macro("schlagwortfolgenMove", field:"$[SWF]", Ind1: "5")
+	call_macro("schlagwortfolgenMove", field:"$[SWF]", Ind1: "6")
+	call_macro("schlagwortfolgenMove", field:"$[SWF]", Ind1: "7")
+	call_macro("schlagwortfolgenMove", field:"$[SWF]", Ind1: "8")
+	call_macro("schlagwortfolgenMove", field:"$[SWF]", Ind1: "9")
+end
+
 do list(path: "035??", "var":"$i")
 	if any_contain("$i.a","(DE-605)")
 		add_field("hbzRecord","true")
@@ -95,6 +123,19 @@ call_macro("schlagwortfolge", Ind_1: "7")
 call_macro("schlagwortfolge", Ind_1: "8")
 call_macro("schlagwortfolge", Ind_1: "9")
 
+
+if exists ("DNB??")
+	call_macro("schlagwortfolgenKeeper",SWF:"DNB")
+elsif exists ("BVB??")
+	call_macro("schlagwortfolgenKeeper",SWF:"BVB")
+elsif exists ("K10??")
+	call_macro("schlagwortfolgenKeeper",SWF:"K10")
+elsif exists ("OBV??")
+	call_macro("schlagwortfolgenKeeper",SWF:"OBV")
+end
+
+
+
 unless exists("hbzRecord")
 	reject()
 end
@@ -103,7 +144,7 @@ if exists("hbzWithSWK")
 	reject()
 end
 
-unless exists("689??")
+unless exists("X89??")
 	reject()
 end
 
