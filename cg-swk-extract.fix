@@ -149,14 +149,16 @@ end
 
 # Add Herkunftsangabe maschinell generierter Metadaten 883
 remove_field("883??")
-add_field("8830 .a","adoptedfromculturegraph")
-add_field("8830 .q","DE-605")
+add_field("8830 .a","cgmnf")
 add_field("timestampTest","$[TIMESTAMP]")
 if any_equal("timestampTest","0") #set default timestamp for tests
 	add_field("8830 .d", "00000000")
 else
 	timestamp("8830 .d", format:"yyyymmdd")
 end
+add_field("8830 .q","DE-605")
+add_field("8830 .u","https://d-nb.info/provenance/plan#cgmnf")
+
 
 # Delete old linkage
 do list(path:"035??|689??","var":"$i")

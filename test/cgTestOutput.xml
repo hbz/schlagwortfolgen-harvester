@@ -36,9 +36,10 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -77,9 +78,10 @@
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
@@ -190,9 +192,10 @@
 			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -258,9 +261,10 @@
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -325,9 +329,10 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -374,9 +379,10 @@
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -443,9 +449,10 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -493,9 +500,10 @@
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -560,9 +568,10 @@
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
@@ -601,9 +610,10 @@
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
@@ -661,9 +671,10 @@
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -722,9 +733,10 @@
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
@@ -773,9 +785,10 @@
 			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -839,9 +852,10 @@
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -908,9 +922,10 @@
 			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -989,9 +1004,10 @@
 			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1035,9 +1051,10 @@
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
@@ -1087,9 +1104,10 @@
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1150,9 +1168,10 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1216,9 +1235,10 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1280,9 +1300,10 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1330,9 +1351,10 @@
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1394,9 +1416,10 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1452,9 +1475,10 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1566,9 +1590,10 @@
 			<marc:subfield code="8">13\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1629,9 +1654,10 @@
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
@@ -1674,9 +1700,10 @@
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1738,9 +1765,10 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1839,9 +1867,10 @@
 			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1910,9 +1939,10 @@
 			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1971,9 +2001,10 @@
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -2021,9 +2052,10 @@
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
@@ -2076,9 +2108,10 @@
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
@@ -2131,9 +2164,10 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -2243,9 +2277,10 @@
 			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -2310,9 +2345,10 @@
 			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -2354,9 +2390,10 @@
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
@@ -2417,9 +2454,10 @@
 			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -2492,9 +2530,10 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -2540,9 +2579,10 @@
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -2651,9 +2691,10 @@
 			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -2710,9 +2751,10 @@
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
@@ -2793,9 +2835,10 @@
 			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -2895,9 +2938,10 @@
 			<marc:subfield code="8">11\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -2969,9 +3013,10 @@
 			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -3029,9 +3074,10 @@
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
@@ -3131,9 +3177,10 @@
 			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -3190,9 +3237,10 @@
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -3235,9 +3283,10 @@
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
@@ -3292,9 +3341,10 @@
 			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -3338,9 +3388,10 @@
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
@@ -3390,9 +3441,10 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -3483,9 +3535,10 @@
 			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -3553,9 +3606,10 @@
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -3625,9 +3679,10 @@
 			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -3673,9 +3728,10 @@
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -3765,9 +3821,10 @@
 			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -3858,9 +3915,10 @@
 			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -3919,9 +3977,10 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -3969,9 +4028,10 @@
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
@@ -4020,9 +4080,10 @@
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4081,9 +4142,10 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4137,9 +4199,10 @@
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4186,9 +4249,10 @@
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4224,9 +4288,10 @@
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
@@ -4286,9 +4351,10 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4333,9 +4399,10 @@
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4382,9 +4449,10 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4454,9 +4522,10 @@
 			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4512,9 +4581,10 @@
 			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4571,9 +4641,10 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4642,9 +4713,10 @@
 			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4721,9 +4793,10 @@
 			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4800,9 +4873,10 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4861,9 +4935,10 @@
 			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4933,9 +5008,10 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -5006,9 +5082,10 @@
 			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -5055,9 +5132,10 @@
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
@@ -5107,9 +5185,10 @@
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
@@ -5172,9 +5251,10 @@
 			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -5256,9 +5336,10 @@
 			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -5322,9 +5403,10 @@
 			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -5388,9 +5470,10 @@
 			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -5520,9 +5603,10 @@
 			<marc:subfield code="8">17\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -5593,9 +5677,10 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -5649,9 +5734,10 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -5718,9 +5804,10 @@
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
@@ -5776,9 +5863,10 @@
 			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -5847,9 +5935,10 @@
 			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -5961,9 +6050,10 @@
 			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -6016,9 +6106,10 @@
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -6124,9 +6215,10 @@
 			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -6209,9 +6301,10 @@
 			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="883" ind1="0" ind2=" ">
-			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
-			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="a">cgmnf</marc:subfield>
 			<marc:subfield code="d">00000000</marc:subfield>
+			<marc:subfield code="q">DE-605</marc:subfield>
+			<marc:subfield code="u">https://d-nb.info/provenance/plan#cgmnf</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
