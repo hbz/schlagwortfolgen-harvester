@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
 	<marc:record>
-		<marc:controlfield tag="001">CG_106_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990065681030206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000010220203331</marc:subfield>
 		</marc:datafield>
@@ -38,7 +38,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -47,7 +47,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_126_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990225019350206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000010450203331</marc:subfield>
 		</marc:datafield>
@@ -79,14 +79,14 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_163_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990058848630206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000011170203331</marc:subfield>
 		</marc:datafield>
@@ -192,7 +192,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -209,7 +209,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_169_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990061504630206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000011240203331</marc:subfield>
 		</marc:datafield>
@@ -260,7 +260,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -268,7 +268,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_170_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990066598100206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000011250203331</marc:subfield>
 		</marc:datafield>
@@ -327,7 +327,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -336,7 +336,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_201_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990063116370206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000011950203331</marc:subfield>
 		</marc:datafield>
@@ -376,7 +376,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -384,7 +384,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_222_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990063186090206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000012190203331</marc:subfield>
 		</marc:datafield>
@@ -445,7 +445,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -454,7 +454,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_229_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990067796300206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000012280203331</marc:subfield>
 		</marc:datafield>
@@ -495,7 +495,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -503,7 +503,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_232_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990180021490206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000012310203331</marc:subfield>
 		</marc:datafield>
@@ -562,14 +562,14 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_234_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990063833190206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000012330203331</marc:subfield>
 		</marc:datafield>
@@ -603,14 +603,14 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_241_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990063858020206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000012420203331</marc:subfield>
 		</marc:datafield>
@@ -663,7 +663,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -671,7 +671,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_251_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990067903440206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000012550203331</marc:subfield>
 		</marc:datafield>
@@ -724,14 +724,14 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_259_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990134232080206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000012640203331</marc:subfield>
 		</marc:datafield>
@@ -775,7 +775,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -785,7 +785,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_289_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990058189150206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000013060203331</marc:subfield>
 		</marc:datafield>
@@ -841,7 +841,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -849,7 +849,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_295_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990062715070206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000013140203331</marc:subfield>
 		</marc:datafield>
@@ -910,7 +910,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -920,7 +920,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_298_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990131217090206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000013180203331</marc:subfield>
 		</marc:datafield>
@@ -991,7 +991,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1002,7 +1002,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_319_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990065021240206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000013460203331</marc:subfield>
 		</marc:datafield>
@@ -1037,14 +1037,14 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_327_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990067965530206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000013540203331</marc:subfield>
 		</marc:datafield>
@@ -1089,7 +1089,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1097,7 +1097,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_337_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990063245610206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000013690203331</marc:subfield>
 		</marc:datafield>
@@ -1152,7 +1152,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1161,7 +1161,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_338_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990158840250206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000013700203331</marc:subfield>
 		</marc:datafield>
@@ -1218,7 +1218,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1227,7 +1227,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_339_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990063264610206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000013710203331</marc:subfield>
 		</marc:datafield>
@@ -1282,7 +1282,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1291,7 +1291,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_355_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990064882990206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000013900203331</marc:subfield>
 		</marc:datafield>
@@ -1332,7 +1332,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1340,7 +1340,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_356_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990064974750206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000013910203331</marc:subfield>
 		</marc:datafield>
@@ -1396,7 +1396,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1405,7 +1405,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_359_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990063701300206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000013950203331</marc:subfield>
 		</marc:datafield>
@@ -1454,7 +1454,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1463,7 +1463,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_364_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990142720330206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000014010203331</marc:subfield>
 		</marc:datafield>
@@ -1568,7 +1568,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1586,7 +1586,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_366_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990065082750206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000014030203331</marc:subfield>
 		</marc:datafield>
@@ -1631,14 +1631,14 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_371_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990063264590206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000014080203331</marc:subfield>
 		</marc:datafield>
@@ -1676,7 +1676,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1684,7 +1684,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_372_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990064626240206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000014090203331</marc:subfield>
 		</marc:datafield>
@@ -1740,7 +1740,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1749,7 +1749,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_374_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990065224630206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000014110203331</marc:subfield>
 		</marc:datafield>
@@ -1841,7 +1841,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1853,7 +1853,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_403_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990063938850206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000014430203331</marc:subfield>
 		</marc:datafield>
@@ -1912,7 +1912,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1922,7 +1922,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_404_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990067136270206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000014440203331</marc:subfield>
 		</marc:datafield>
@@ -1973,7 +1973,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -1981,7 +1981,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_406_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990063405900206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000014460203331</marc:subfield>
 		</marc:datafield>
@@ -2023,14 +2023,14 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_409_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990119857600206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000014510203331</marc:subfield>
 		</marc:datafield>
@@ -2078,14 +2078,14 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_427_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990058192030206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000014720203331</marc:subfield>
 		</marc:datafield>
@@ -2133,7 +2133,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -2142,7 +2142,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_449_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990064055770206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000015080203331</marc:subfield>
 		</marc:datafield>
@@ -2245,7 +2245,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -2262,7 +2262,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_456_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990067969360206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000015160203331</marc:subfield>
 		</marc:datafield>
@@ -2312,7 +2312,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -2322,7 +2322,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_457_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990063007170206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000015170203331</marc:subfield>
 		</marc:datafield>
@@ -2356,14 +2356,14 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_485_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990062310200206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000015510203331</marc:subfield>
 		</marc:datafield>
@@ -2419,7 +2419,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -2430,7 +2430,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_492_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990064897600206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000015600203331</marc:subfield>
 		</marc:datafield>
@@ -2494,7 +2494,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -2503,7 +2503,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_498_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990062208560206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000015660203331</marc:subfield>
 		</marc:datafield>
@@ -2542,7 +2542,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -2550,7 +2550,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_508_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990058224490206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000015770203331</marc:subfield>
 		</marc:datafield>
@@ -2653,7 +2653,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -2670,7 +2670,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_515_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990066099800206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000015850203331</marc:subfield>
 		</marc:datafield>
@@ -2712,14 +2712,14 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_532_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990061155130206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000016030203331</marc:subfield>
 		</marc:datafield>
@@ -2795,7 +2795,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -2806,7 +2806,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_541_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990073914890206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000016130203331</marc:subfield>
 		</marc:datafield>
@@ -2897,7 +2897,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -2913,7 +2913,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_543_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990001620290206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000016160203331</marc:subfield>
 		</marc:datafield>
@@ -2971,7 +2971,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -2982,7 +2982,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_546_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990002694720206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000016200203331</marc:subfield>
 		</marc:datafield>
@@ -3031,14 +3031,14 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_554_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990062240330206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000016300203331</marc:subfield>
 		</marc:datafield>
@@ -3133,7 +3133,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -3150,7 +3150,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_558_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990062190330206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000016340203331</marc:subfield>
 		</marc:datafield>
@@ -3192,7 +3192,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -3200,7 +3200,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_562_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990062767890206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000016380203331</marc:subfield>
 		</marc:datafield>
@@ -3237,14 +3237,14 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_564_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990067817450206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000016400203331</marc:subfield>
 		</marc:datafield>
@@ -3294,7 +3294,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -3304,7 +3304,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_571_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990110860560206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000016500203331</marc:subfield>
 		</marc:datafield>
@@ -3340,14 +3340,14 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_572_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990219133480206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000016510203331</marc:subfield>
 		</marc:datafield>
@@ -3392,7 +3392,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -3401,7 +3401,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_604_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990063212080206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000016950203331</marc:subfield>
 		</marc:datafield>
@@ -3485,7 +3485,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -3500,7 +3500,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_607_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990018746400206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000016980203331</marc:subfield>
 		</marc:datafield>
@@ -3555,7 +3555,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -3563,7 +3563,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_609_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990116053330206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000017000203331</marc:subfield>
 		</marc:datafield>
@@ -3627,7 +3627,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -3639,7 +3639,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_650_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990130244260206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000017480203331</marc:subfield>
 		</marc:datafield>
@@ -3675,7 +3675,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -3683,7 +3683,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_652_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990008044690206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000017500203331</marc:subfield>
 		</marc:datafield>
@@ -3767,7 +3767,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -3779,7 +3779,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_678_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990063129250206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000017800203331</marc:subfield>
 		</marc:datafield>
@@ -3860,7 +3860,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -3872,7 +3872,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_679_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990064243150206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000017810203331</marc:subfield>
 		</marc:datafield>
@@ -3921,7 +3921,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -3930,7 +3930,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_687_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990225017920206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000017890203331</marc:subfield>
 		</marc:datafield>
@@ -3971,14 +3971,14 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_695_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990366710250206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000017990203331</marc:subfield>
 		</marc:datafield>
@@ -4022,7 +4022,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4030,7 +4030,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_703_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990019200000206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000018090203331</marc:subfield>
 		</marc:datafield>
@@ -4083,7 +4083,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4092,7 +4092,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_704_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990008532040206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000018100203331</marc:subfield>
 		</marc:datafield>
@@ -4139,7 +4139,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4147,7 +4147,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_707_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990062195460206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000018180203331</marc:subfield>
 		</marc:datafield>
@@ -4188,7 +4188,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4196,7 +4196,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_714_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990213000300206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000018290203331</marc:subfield>
 		</marc:datafield>
@@ -4226,14 +4226,14 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_715_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990066086180206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000018300203331</marc:subfield>
 		</marc:datafield>
@@ -4288,7 +4288,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4297,7 +4297,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_735_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990002802670206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000018560203331</marc:subfield>
 		</marc:datafield>
@@ -4335,7 +4335,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4343,7 +4343,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_741_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990065330550206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000018650203331</marc:subfield>
 		</marc:datafield>
@@ -4384,7 +4384,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4393,7 +4393,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_745_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990062280560206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000018710203331</marc:subfield>
 		</marc:datafield>
@@ -4456,7 +4456,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4468,7 +4468,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_746_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990068208240206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000018720203331</marc:subfield>
 		</marc:datafield>
@@ -4514,7 +4514,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4524,7 +4524,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_755_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990003445200206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000018840203331</marc:subfield>
 		</marc:datafield>
@@ -4573,7 +4573,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4582,7 +4582,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_762_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990062926140206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000018910203331</marc:subfield>
 		</marc:datafield>
@@ -4644,7 +4644,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4654,7 +4654,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_767_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990063001050206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000019010203331</marc:subfield>
 		</marc:datafield>
@@ -4723,7 +4723,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4735,7 +4735,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_792_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990151991670206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000019380203331</marc:subfield>
 		</marc:datafield>
@@ -4802,7 +4802,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4811,7 +4811,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_796_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990108925190206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000019430203331</marc:subfield>
 		</marc:datafield>
@@ -4863,7 +4863,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4874,7 +4874,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_820_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990058183620206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000019780203331</marc:subfield>
 		</marc:datafield>
@@ -4935,7 +4935,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -4944,7 +4944,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_825_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990185671370206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000019870203331</marc:subfield>
 		</marc:datafield>
@@ -5008,7 +5008,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -5021,7 +5021,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_834_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990071108720206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000020000203331</marc:subfield>
 		</marc:datafield>
@@ -5057,14 +5057,14 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_842_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990225017850206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000020090203331</marc:subfield>
 		</marc:datafield>
@@ -5109,14 +5109,14 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_845_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990129969250206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000020170203331</marc:subfield>
 		</marc:datafield>
@@ -5174,7 +5174,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -5185,7 +5185,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_866_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990059883800206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000021770203331</marc:subfield>
 		</marc:datafield>
@@ -5258,7 +5258,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -5271,7 +5271,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_886_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990026362590206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000022650203331</marc:subfield>
 		</marc:datafield>
@@ -5324,7 +5324,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -5334,7 +5334,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_901_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990060570740206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000022820203331</marc:subfield>
 		</marc:datafield>
@@ -5390,7 +5390,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -5401,7 +5401,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_921_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990058533160206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000023050203331</marc:subfield>
 		</marc:datafield>
@@ -5522,7 +5522,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -5544,7 +5544,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_925_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990060204490206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000023100203331</marc:subfield>
 		</marc:datafield>
@@ -5595,7 +5595,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -5604,7 +5604,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_960_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990065382070206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000023510203331</marc:subfield>
 		</marc:datafield>
@@ -5651,7 +5651,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -5660,7 +5660,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_1018_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">99375704963406441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000024480203331</marc:subfield>
 		</marc:datafield>
@@ -5720,14 +5720,14 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_1236_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990172771930206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000026980203331</marc:subfield>
 		</marc:datafield>
@@ -5778,7 +5778,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -5789,7 +5789,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_1477_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990059652220206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000029480203331</marc:subfield>
 		</marc:datafield>
@@ -5849,7 +5849,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -5863,7 +5863,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_1521_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990158665940206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000030470203331</marc:subfield>
 		</marc:datafield>
@@ -5963,7 +5963,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -5980,7 +5980,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_1543_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990120048140206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000031930203331</marc:subfield>
 		</marc:datafield>
@@ -6018,7 +6018,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -6026,7 +6026,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_1729_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990065370150206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000034390203331</marc:subfield>
 		</marc:datafield>
@@ -6126,7 +6126,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -6141,7 +6141,7 @@
 	</marc:record>
 
 	<marc:record>
-		<marc:controlfield tag="001">CG_1753_2026-07-01T16:43:52.641Z</marc:controlfield>
+		<marc:controlfield tag="001">990065371800206441</marc:controlfield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(AT-OBV)990000034630203331</marc:subfield>
 		</marc:datafield>
@@ -6211,7 +6211,7 @@
 		<marc:datafield tag="883" ind1="0" ind2=" ">
 			<marc:subfield code="a">adoptedfromculturegraph</marc:subfield>
 			<marc:subfield code="q">DE-605</marc:subfield>
-			<marc:subfield code="d">20263523</marc:subfield>
+			<marc:subfield code="d">20263923</marc:subfield>
 			<marc:subfield code="8">1\p</marc:subfield>
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>

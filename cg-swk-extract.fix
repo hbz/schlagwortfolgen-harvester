@@ -157,6 +157,13 @@ do list(path:"689??","var":"$i")
 	copy_field("$i.8","8830 .8.$append")
 end
 
+do list(path:"035??","var":"$i")
+	if any_contain("$i.a","(DE-605)")
+		copy_field("$i.a","001")
+	end
+end
+
+replace_all("001","\\(DE-605\\)","")
 
 unless exists("hbzRecord")
 	reject()
