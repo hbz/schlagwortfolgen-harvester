@@ -1,7 +1,7 @@
 default VERSION="prod/";
 default CG_AGGREGATION=FLUX_DIR + VERSION + "harvest/aggregate_20260701_cgmnf.marcxml.gz";
 default CG_SWK_OUTPUT=FLUX_DIR + VERSION + "cgTestOutput.xml";
-default TIMESTAMP = "0";
+default TIMESTAMP = "-1";
 
 CG_AGGREGATION
 | open-file
