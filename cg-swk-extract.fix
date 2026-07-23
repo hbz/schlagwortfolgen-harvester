@@ -30,17 +30,17 @@ do put_macro("schlagwortfolge")
 end
 
 do put_macro("schlagwortfolgenMove")
-	copy_field("$[field]$[Ind1] ", "X89$[Ind1] ")
-	copy_field("$[field]$[Ind1]0", "X89$[Ind1]0")
-	copy_field("$[field]$[Ind1]1", "X89$[Ind1]1")
-	copy_field("$[field]$[Ind1]2", "X89$[Ind1]2")
-	copy_field("$[field]$[Ind1]3", "X89$[Ind1]3")
-	copy_field("$[field]$[Ind1]4", "X89$[Ind1]4")
-	copy_field("$[field]$[Ind1]5", "X89$[Ind1]5")
-	copy_field("$[field]$[Ind1]6", "X89$[Ind1]6")
-	copy_field("$[field]$[Ind1]7", "X89$[Ind1]7")
-	copy_field("$[field]$[Ind1]8", "X89$[Ind1]8")
-	copy_field("$[field]$[Ind1]9", "X89$[Ind1]9")
+	copy_field("$[field]$[Ind1] ", "689$[Ind1] ")
+	copy_field("$[field]$[Ind1]0", "689$[Ind1]0")
+	copy_field("$[field]$[Ind1]1", "689$[Ind1]1")
+	copy_field("$[field]$[Ind1]2", "689$[Ind1]2")
+	copy_field("$[field]$[Ind1]3", "689$[Ind1]3")
+	copy_field("$[field]$[Ind1]4", "689$[Ind1]4")
+	copy_field("$[field]$[Ind1]5", "689$[Ind1]5")
+	copy_field("$[field]$[Ind1]6", "689$[Ind1]6")
+	copy_field("$[field]$[Ind1]7", "689$[Ind1]7")
+	copy_field("$[field]$[Ind1]8", "689$[Ind1]8")
+	copy_field("$[field]$[Ind1]9", "689$[Ind1]9")
 end
 
 do put_macro("schlagwortfolgenKeeper")
@@ -123,6 +123,8 @@ call_macro("schlagwortfolge", Ind_1: "7")
 call_macro("schlagwortfolge", Ind_1: "8")
 call_macro("schlagwortfolge", Ind_1: "9")
 
+remove_field("689??")
+
 
 if exists ("DNB??")
 	call_macro("schlagwortfolgenKeeper",SWF:"DNB")
@@ -144,7 +146,7 @@ if exists("hbzWithSWK")
 	reject()
 end
 
-unless exists("X89??")
+unless exists("689??")
 	reject()
 end
 

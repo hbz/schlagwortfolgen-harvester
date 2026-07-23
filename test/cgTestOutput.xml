@@ -68,26 +68,9 @@
 			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">TUW</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">4\p</marc:subfield>
 			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Supraleiter</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4184140-2</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="s">Hochtemperatursupraleiter</marc:subfield>
-			<marc:subfield code="0">(DE-588)4220922-5</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Hochtemperatursupraleiter</marc:subfield>
@@ -95,51 +78,6 @@
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="8">4\p</marc:subfield>
 			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="a">Dünne Schicht</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4136925-7</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="a">Kongress</marc:subfield>
-			<marc:subfield code="A">f</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="3">
-			<marc:subfield code="a">San Francisco, Calif.</marc:subfield>
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="0">(DE-588)4051520-5</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">TUW</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="a">Supraleiter</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4184140-2</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="1">
-			<marc:subfield code="a">Dünnschichttechnik</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4136339-5</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="2">
-			<marc:subfield code="a">Kongress</marc:subfield>
-			<marc:subfield code="A">f</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="3">
-			<marc:subfield code="a">San Francisco, Calif.</marc:subfield>
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="0">(DE-588)4051520-5</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -198,80 +136,17 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">AT-OeNB</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">UBSD04</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">DE-101</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
 			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="0">(DE-588)4000556-2</marc:subfield>
-			<marc:subfield code="0">(DE-627)104758139</marc:subfield>
-			<marc:subfield code="0">(DE-576)208838619</marc:subfield>
-			<marc:subfield code="a">Ägypten</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="g">Ägypten</marc:subfield>
-			<marc:subfield code="0">(DE-588)4000556-2</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Ägypten</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="0">(DE-588)4000556-2</marc:subfield>
 			<marc:subfield code="8">8\p</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
 			<marc:subfield code="8">12\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Ägypten</marc:subfield>
-			<marc:subfield code="g">Altertum</marc:subfield>
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="0">(DE-588)4068430-1</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4025103-2</marc:subfield>
-			<marc:subfield code="0">(DE-627)104523042</marc:subfield>
-			<marc:subfield code="0">(DE-576)20895922X</marc:subfield>
-			<marc:subfield code="a">Historische Geografie</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="a">Geografie</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4020216-1</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="s">Historische Geografie</marc:subfield>
-			<marc:subfield code="0">(DE-588)4025103-2</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Historische Geografie</marc:subfield>
@@ -280,17 +155,6 @@
 			<marc:subfield code="8">8\p</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
 			<marc:subfield code="8">12\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="a">Verwaltung</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4063317-2</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="z">Geschichte 500-1000</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Geschichte 500-1000</marc:subfield>
@@ -298,46 +162,12 @@
 			<marc:subfield code="8">11\p</marc:subfield>
 			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="3">
-			<marc:subfield code="a">Kalifat</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)7722009-2</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">UBSD04</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">DE-101</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
 			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="0">(DE-588)4000556-2</marc:subfield>
-			<marc:subfield code="0">(DE-627)104758139</marc:subfield>
-			<marc:subfield code="0">(DE-576)208838619</marc:subfield>
-			<marc:subfield code="a">Ägypten</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="g">Ägypten</marc:subfield>
-			<marc:subfield code="0">(DE-588)4000556-2</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Ägypten</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="0">(DE-588)4000556-2</marc:subfield>
@@ -346,42 +176,12 @@
 			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="1">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4063317-2</marc:subfield>
-			<marc:subfield code="0">(DE-627)106128507</marc:subfield>
-			<marc:subfield code="0">(DE-576)209148136</marc:subfield>
-			<marc:subfield code="a">Verwaltung</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="1">
-			<marc:subfield code="s">Verwaltung</marc:subfield>
-			<marc:subfield code="0">(DE-588)4063317-2</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="1">
 			<marc:subfield code="a">Verwaltung</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4063317-2</marc:subfield>
 			<marc:subfield code="8">8\p</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
 			<marc:subfield code="8">12\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="2">
-			<marc:subfield code="A">z</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="a">Geschichte 500-750</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="2">
-			<marc:subfield code="z">Geschichte 500-1300</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="2">
 			<marc:subfield code="a">Geschichte 500-1300</marc:subfield>
@@ -389,71 +189,18 @@
 			<marc:subfield code="8">11\p</marc:subfield>
 			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="2">
-			<marc:subfield code="a">Geschichte 500-750</marc:subfield>
-			<marc:subfield code="A">z</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2=" ">
-			<marc:subfield code="5">(DE-627)</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">ONB-PI</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
 			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="0">
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="0">(DE-588)4000556-2</marc:subfield>
-			<marc:subfield code="0">(DE-627)104758139</marc:subfield>
-			<marc:subfield code="0">(DE-576)208838619</marc:subfield>
-			<marc:subfield code="a">Ägypten</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="0">
-			<marc:subfield code="g">Ägypten</marc:subfield>
-			<marc:subfield code="0">(DE-588)4000556-2</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="0">
 			<marc:subfield code="a">Ägypten</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="0">(DE-588)4000556-2</marc:subfield>
 			<marc:subfield code="8">8\p</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
 			<marc:subfield code="8">12\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="1">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4025103-2</marc:subfield>
-			<marc:subfield code="0">(DE-627)104523042</marc:subfield>
-			<marc:subfield code="0">(DE-576)20895922X</marc:subfield>
-			<marc:subfield code="a">Historische Geografie</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="1">
-			<marc:subfield code="a">Geografie</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4020216-1</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="1">
-			<marc:subfield code="s">Historische Geografie</marc:subfield>
-			<marc:subfield code="0">(DE-588)4025103-2</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="1">
 			<marc:subfield code="a">Historische Geografie</marc:subfield>
@@ -463,53 +210,10 @@
 			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="2">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4063317-2</marc:subfield>
-			<marc:subfield code="0">(DE-627)106128507</marc:subfield>
-			<marc:subfield code="0">(DE-576)209148136</marc:subfield>
-			<marc:subfield code="a">Verwaltung</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="2">
-			<marc:subfield code="z">Geschichte 500-1300</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="2">
 			<marc:subfield code="a">Geschichte 500-1300</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
 			<marc:subfield code="8">12\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="2">
-			<marc:subfield code="a">historische</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="3">
-			<marc:subfield code="A">z</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="a">Geschichte 500-900</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="3" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">ONB-PI</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="3" ind2="0">
-			<marc:subfield code="a">Ägypten</marc:subfield>
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="0">(DE-588)4000556-2</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="3" ind2="1">
-			<marc:subfield code="a">Verwaltung</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4063317-2</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -560,45 +264,9 @@
 			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">GBV</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">DE-101</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">6\p</marc:subfield>
 			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="D">p</marc:subfield>
-			<marc:subfield code="0">(DE-588)118555987</marc:subfield>
-			<marc:subfield code="0">(DE-627)079353304</marc:subfield>
-			<marc:subfield code="0">(DE-576)161546544</marc:subfield>
-			<marc:subfield code="a">Isidorus</marc:subfield>
-			<marc:subfield code="c">Kiovensis</marc:subfield>
-			<marc:subfield code="d">1380-1463</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Konzil</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4032368-7</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="f">Isidorus &lt;Kiew, Metropolit&gt;</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Isidorus &lt;Kiew, Metropolit&gt;</marc:subfield>
@@ -607,94 +275,10 @@
 			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4000925-7</marc:subfield>
-			<marc:subfield code="0">(DE-627)10432192X</marc:subfield>
-			<marc:subfield code="0">(DE-576)208840249</marc:subfield>
-			<marc:subfield code="a">Akte</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="a">Beschluss</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4131889-4</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="f">Konzilsakten</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Konzilsakten</marc:subfield>
 			<marc:subfield code="A">f</marc:subfield>
 			<marc:subfield code="8">6\p</marc:subfield>
 			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4032368-7</marc:subfield>
-			<marc:subfield code="0">(DE-627)104360089</marc:subfield>
-			<marc:subfield code="0">(DE-576)208996524</marc:subfield>
-			<marc:subfield code="a">Konzil</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="a">Geschichte 325-870</marc:subfield>
-			<marc:subfield code="A">z</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="3">
-			<marc:subfield code="A">z</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="a">Geschichte 325-870</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="3">
-			<marc:subfield code="a">Quelle</marc:subfield>
-			<marc:subfield code="A">f</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="3" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">ONB-PI HLKFLO</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="3" ind2="0">
-			<marc:subfield code="a">Isidorus</marc:subfield>
-			<marc:subfield code="c">Kiovensis</marc:subfield>
-			<marc:subfield code="d">1380-1463</marc:subfield>
-			<marc:subfield code="D">p</marc:subfield>
-			<marc:subfield code="0">(DE-588)118555987</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="3" ind2="1">
-			<marc:subfield code="a">Konzil</marc:subfield>
-			<marc:subfield code="d">1439-1443</marc:subfield>
-			<marc:subfield code="c">Florenz</marc:subfield>
-			<marc:subfield code="D">f</marc:subfield>
-			<marc:subfield code="0">(DE-588)4154659-3</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="3" ind2="3">
-			<marc:subfield code="a">Geschichte 1445-46</marc:subfield>
-			<marc:subfield code="A">z</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="3" ind2="4">
-			<marc:subfield code="a">Handschrift</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4023287-6</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -741,44 +325,11 @@
 			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">(DE-627)</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">LBOLIN</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">5\p</marc:subfield>
 			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="D">p</marc:subfield>
-			<marc:subfield code="0">(DE-588)118535757</marc:subfield>
-			<marc:subfield code="0">(DE-627)079335861</marc:subfield>
-			<marc:subfield code="0">(DE-576)208925120</marc:subfield>
-			<marc:subfield code="a">Friedrich</marc:subfield>
-			<marc:subfield code="b">I.</marc:subfield>
-			<marc:subfield code="c">Heiliges Römisches Reich, Kaiser</marc:subfield>
-			<marc:subfield code="d">1122-1190</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="p">Friedrich</marc:subfield>
-			<marc:subfield code="b">I.</marc:subfield>
-			<marc:subfield code="c">Heiliges Römisches Reich, Kaiser</marc:subfield>
-			<marc:subfield code="d">1122-1190</marc:subfield>
-			<marc:subfield code="0">(DE-588)118535757</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Friedrich</marc:subfield>
 			<marc:subfield code="b">I.</marc:subfield>
 			<marc:subfield code="c">Heiliges Römisches Reich, Kaiser</marc:subfield>
@@ -790,25 +341,6 @@
 			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="D">b</marc:subfield>
-			<marc:subfield code="0">(DE-588)4049146-8</marc:subfield>
-			<marc:subfield code="0">(DE-627)104806249</marc:subfield>
-			<marc:subfield code="0">(DE-576)209080868</marc:subfield>
-			<marc:subfield code="a">Deutschland</marc:subfield>
-			<marc:subfield code="b">Reichskanzlei</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="k">Deutschland</marc:subfield>
-			<marc:subfield code="b">Reichskanzlei</marc:subfield>
-			<marc:subfield code="0">(DE-588)4049146-8</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Deutschland</marc:subfield>
 			<marc:subfield code="b">Reichskanzlei</marc:subfield>
 			<marc:subfield code="0">(DE-588)4049146-8</marc:subfield>
@@ -818,130 +350,10 @@
 			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="A">z</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="a">Geschichte 1167-1174</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="z">Geschichte 1167-1174</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Geschichte 1167-1174</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
 			<marc:subfield code="8">5\p</marc:subfield>
 			<marc:subfield code="8">6\p</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">(DE-627)</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">ONB-PI</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="D">p</marc:subfield>
-			<marc:subfield code="0">(DE-588)118535757</marc:subfield>
-			<marc:subfield code="0">(DE-627)079335861</marc:subfield>
-			<marc:subfield code="0">(DE-576)208925120</marc:subfield>
-			<marc:subfield code="a">Friedrich</marc:subfield>
-			<marc:subfield code="b">I.</marc:subfield>
-			<marc:subfield code="c">Heiliges Römisches Reich, Kaiser</marc:subfield>
-			<marc:subfield code="d">1122-1190</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="a">Friedrich</marc:subfield>
-			<marc:subfield code="b">I.</marc:subfield>
-			<marc:subfield code="c">Heiliges Römisches Reich, Kaiser</marc:subfield>
-			<marc:subfield code="d">1122-1190</marc:subfield>
-			<marc:subfield code="D">p</marc:subfield>
-			<marc:subfield code="0">(DE-588)118535757</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="1">
-			<marc:subfield code="D">b</marc:subfield>
-			<marc:subfield code="0">(DE-588)4049146-8</marc:subfield>
-			<marc:subfield code="0">(DE-627)104806249</marc:subfield>
-			<marc:subfield code="0">(DE-576)209080868</marc:subfield>
-			<marc:subfield code="a">Deutschland</marc:subfield>
-			<marc:subfield code="b">Reichskanzlei</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="1">
-			<marc:subfield code="a">Deutschland</marc:subfield>
-			<marc:subfield code="b">Reichskanzlei</marc:subfield>
-			<marc:subfield code="D">b</marc:subfield>
-			<marc:subfield code="0">(DE-588)4049146-8</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="2">
-			<marc:subfield code="a">Notar</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4042660-9</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="2">
-			<marc:subfield code="A">z</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="a">Geschichte 1167-1174</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">ONB-PI</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="0">
-			<marc:subfield code="a">Deutschland</marc:subfield>
-			<marc:subfield code="b">Reichskanzlei</marc:subfield>
-			<marc:subfield code="D">b</marc:subfield>
-			<marc:subfield code="0">(DE-588)4049146-8</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="1">
-			<marc:subfield code="a">Geschichte 1167-1174</marc:subfield>
-			<marc:subfield code="A">z</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="2">
-			<marc:subfield code="a">Diplome</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="3" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">ONB-PI</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="3" ind2="0">
-			<marc:subfield code="a">Urkunde</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4062132-7</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="3" ind2="1">
-			<marc:subfield code="a">Geschichte 1167-1174</marc:subfield>
-			<marc:subfield code="A">z</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="3" ind2="2">
-			<marc:subfield code="a">Deutschland</marc:subfield>
-			<marc:subfield code="b">Reichskanzlei</marc:subfield>
-			<marc:subfield code="D">b</marc:subfield>
-			<marc:subfield code="0">(DE-588)4049146-8</marc:subfield>
 			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
@@ -1092,30 +504,9 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">UBW</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">DE-101</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="8">5\p</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">DE-604</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="0">(DE-588)4043271-3</marc:subfield>
-			<marc:subfield code="0">https://d-nb.info/gnd/4043271-3</marc:subfield>
-			<marc:subfield code="0">(DE-101)040432718</marc:subfield>
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="a">Österreich</marc:subfield>
 			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
@@ -1127,96 +518,10 @@
 			<marc:subfield code="d">1932-1982</marc:subfield>
 			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="0">(DE-588)4043271-3</marc:subfield>
-			<marc:subfield code="0">(DE-627)10420317X</marc:subfield>
-			<marc:subfield code="0">(DE-576)209054964</marc:subfield>
-			<marc:subfield code="a">Österreich</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Gould, Glenn</marc:subfield>
-			<marc:subfield code="d">1932-1982</marc:subfield>
-			<marc:subfield code="0">(DE-588)118825038</marc:subfield>
-			<marc:subfield code="D">p</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Österreich</marc:subfield>
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="0">(DE-588)4043271-3</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="0">(DE-588)4131406-2</marc:subfield>
-			<marc:subfield code="0">https://d-nb.info/gnd/4131406-2</marc:subfield>
-			<marc:subfield code="0">(DE-101)041314069</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="a">Pianist</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4131406-2</marc:subfield>
-			<marc:subfield code="0">(DE-627)105695246</marc:subfield>
-			<marc:subfield code="0">(DE-576)209627026</marc:subfield>
-			<marc:subfield code="a">Pianist</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="a">Pianist</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4131406-2</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="A">f</marc:subfield>
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
 			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="0">(DE-588)4054423-0</marc:subfield>
-			<marc:subfield code="0">https://d-nb.info/gnd/4054423-0</marc:subfield>
-			<marc:subfield code="0">(DE-101)040544230</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="a">Suizid</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4054423-0</marc:subfield>
-			<marc:subfield code="0">(DE-627)106162845</marc:subfield>
-			<marc:subfield code="0">(DE-576)209108606</marc:subfield>
-			<marc:subfield code="a">Suizid</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="a">Suizid</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4054423-0</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="3">
-			<marc:subfield code="A">z</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="a">Geschichte 1955</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="3">
-			<marc:subfield code="a">Geschichte 1955</marc:subfield>
-			<marc:subfield code="A">z</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="4">
-			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
-			<marc:subfield code="A">f</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -1286,13 +591,6 @@
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">14\p</marc:subfield>
 			<marc:subfield code="8">15\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="s">Philosophie</marc:subfield>
-			<marc:subfield code="0">(DE-588)4045791-6</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">12\p</marc:subfield>
-			<marc:subfield code="8">17\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Philosophie</marc:subfield>
@@ -1395,18 +693,6 @@
 			<marc:subfield code="8">9\p</marc:subfield>
 			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">b</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="p">Beckett, Samuel</marc:subfield>
-			<marc:subfield code="d">1906-1989</marc:subfield>
-			<marc:subfield code="t">En attendant Godot</marc:subfield>
-			<marc:subfield code="0">(DE-588)4201228-4</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Beckett, Samuel</marc:subfield>
 			<marc:subfield code="d">1906-1989</marc:subfield>
@@ -1415,12 +701,6 @@
 			<marc:subfield code="D">u</marc:subfield>
 			<marc:subfield code="8">9\p</marc:subfield>
 			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="s">Faksimile</marc:subfield>
-			<marc:subfield code="0">(DE-588)4153591-1</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Faksimile</marc:subfield>
@@ -1594,16 +874,6 @@
 			<marc:subfield code="8">11\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">(DE-627)</marc:subfield>
-			<marc:subfield code="8">11\p</marc:subfield>
-			<marc:subfield code="8">12\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">UBI</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">5\p</marc:subfield>
 			<marc:subfield code="8">6\p</marc:subfield>
@@ -1611,28 +881,6 @@
 			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4074725-6</marc:subfield>
-			<marc:subfield code="0">(DE-627)106088556</marc:subfield>
-			<marc:subfield code="0">(DE-576)209195088</marc:subfield>
-			<marc:subfield code="a">Menschenrecht</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">11\p</marc:subfield>
-			<marc:subfield code="8">12\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Demokratie</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4011413-2</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="s">Menschenrecht</marc:subfield>
-			<marc:subfield code="0">(DE-588)4074725-6</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Menschenrecht</marc:subfield>
 			<marc:subfield code="0">(DE-588)4074725-6</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
@@ -1642,22 +890,6 @@
 			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4011413-2</marc:subfield>
-			<marc:subfield code="0">(DE-627)106352873</marc:subfield>
-			<marc:subfield code="0">(DE-576)208893415</marc:subfield>
-			<marc:subfield code="a">Demokratie</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">11\p</marc:subfield>
-			<marc:subfield code="8">12\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="s">Demokratie</marc:subfield>
-			<marc:subfield code="0">(DE-588)4011413-2</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Demokratie</marc:subfield>
 			<marc:subfield code="0">(DE-588)4011413-2</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
@@ -1665,46 +897,6 @@
 			<marc:subfield code="8">6\p</marc:subfield>
 			<marc:subfield code="8">8\p</marc:subfield>
 			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="a">Grundrecht</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4022344-9</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">PARZEN</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="a">Menschenrecht</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4074725-6</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="1">
-			<marc:subfield code="a">Politische Philosophie</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4076226-9</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">PARZEN</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="0">
-			<marc:subfield code="a">Sklaverei</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4055260-3</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="1">
-			<marc:subfield code="a">Totalitarismus</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4060491-3</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -1826,20 +1018,9 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">Automatisch aus BVB_2013-06 2013-03-07</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">8\p</marc:subfield>
 			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="g">Lavanttal</marc:subfield>
-			<marc:subfield code="0">(DE-588)4034785-0</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">11\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Lavanttal</marc:subfield>
@@ -1851,12 +1032,6 @@
 			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="s">Krankenhaus</marc:subfield>
-			<marc:subfield code="0">(DE-588)4032786-3</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">11\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Krankenhaus</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4032786-3</marc:subfield>
@@ -1864,12 +1039,6 @@
 			<marc:subfield code="8">8\p</marc:subfield>
 			<marc:subfield code="8">9\p</marc:subfield>
 			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="s">Mädchen</marc:subfield>
-			<marc:subfield code="0">(DE-588)4036871-3</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">11\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Mädchen</marc:subfield>
@@ -1881,12 +1050,6 @@
 			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
-			<marc:subfield code="s">Unheilbarkeit</marc:subfield>
-			<marc:subfield code="0">(DE-588)4201691-5</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">11\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="a">Unheilbarkeit</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4201691-5</marc:subfield>
@@ -1896,12 +1059,6 @@
 			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="4">
-			<marc:subfield code="s">Bewältigung</marc:subfield>
-			<marc:subfield code="0">(DE-588)4195461-0</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">11\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="4">
 			<marc:subfield code="a">Bewältigung</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4195461-0</marc:subfield>
@@ -1909,17 +1066,6 @@
 			<marc:subfield code="8">8\p</marc:subfield>
 			<marc:subfield code="8">9\p</marc:subfield>
 			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="5">
-			<marc:subfield code="A">s</marc:subfield>
-			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
-			<marc:subfield code="5">DE-101</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="5">
-			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
-			<marc:subfield code="A">f</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -2002,31 +1148,11 @@
 			<marc:subfield code="8">14\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">(DE-627)</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">8\p</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4040802-4</marc:subfield>
-			<marc:subfield code="0">(DE-627)104137754</marc:subfield>
-			<marc:subfield code="0">(DE-576)209042346</marc:subfield>
-			<marc:subfield code="a">Musik</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="p">Cage, John</marc:subfield>
-			<marc:subfield code="d">1912-1992</marc:subfield>
-			<marc:subfield code="0">(DE-588)118518291</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Cage, John</marc:subfield>
 			<marc:subfield code="d">1912-1992</marc:subfield>
 			<marc:subfield code="0">(DE-588)118518291</marc:subfield>
@@ -2035,40 +1161,11 @@
 			<marc:subfield code="8">11\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="s">Experimentelle Literatur</marc:subfield>
-			<marc:subfield code="0">(DE-588)4236010-9</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Experimentelle Literatur</marc:subfield>
 			<marc:subfield code="0">(DE-588)4236010-9</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="8">8\p</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">(DE-627)</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="D">p</marc:subfield>
-			<marc:subfield code="0">(DE-588)118518291</marc:subfield>
-			<marc:subfield code="0">(DE-627)188640398</marc:subfield>
-			<marc:subfield code="0">(DE-576)160507650</marc:subfield>
-			<marc:subfield code="a">Cage, John</marc:subfield>
-			<marc:subfield code="d">1912-1992</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="1">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4236010-9</marc:subfield>
-			<marc:subfield code="0">(DE-627)104897511</marc:subfield>
-			<marc:subfield code="0">(DE-576)210393319</marc:subfield>
-			<marc:subfield code="a">Experimentelle Literatur</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -2176,10 +1273,6 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-101</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
 		</marc:datafield>
@@ -2191,15 +1284,6 @@
 			<marc:subfield code="a">Galizien</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="0">(DE-588)4019124-2</marc:subfield>
-			<marc:subfield code="0">(DE-627)104254556</marc:subfield>
-			<marc:subfield code="0">(DE-576)20892809X</marc:subfield>
-			<marc:subfield code="a">Galizien</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="0">(DE-588)4415860-9</marc:subfield>
 			<marc:subfield code="0">https://d-nb.info/gnd/4415860-9</marc:subfield>
@@ -2207,15 +1291,6 @@
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Chassidim</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4415860-9</marc:subfield>
-			<marc:subfield code="0">(DE-627)212683551</marc:subfield>
-			<marc:subfield code="0">(DE-576)212212826</marc:subfield>
-			<marc:subfield code="a">Chassidim</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="A">f</marc:subfield>
@@ -2263,34 +1338,11 @@
 			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">1@@acgwrk@@d20201028@@qDE-101@@uhttps://d-nb.info/provenance/plan#cgwrk</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">ONB-PI</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="8">7\p</marc:subfield>
 			<marc:subfield code="8">6\p</marc:subfield>
 			<marc:subfield code="8">9\p</marc:subfield>
 			<marc:subfield code="8">8\p</marc:subfield>
 			<marc:subfield code="5">DE-604</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Emanzipation</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4130667-3</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="p">Pérez Galdós, Benito</marc:subfield>
-			<marc:subfield code="d">1843-1920</marc:subfield>
-			<marc:subfield code="t">Tristana</marc:subfield>
-			<marc:subfield code="0">(DE-588)4434274-3</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Pérez Galdós, Benito</marc:subfield>
@@ -2302,28 +1354,11 @@
 			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="s">Verfilmung</marc:subfield>
-			<marc:subfield code="0">(DE-588)4062809-7</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Verfilmung</marc:subfield>
 			<marc:subfield code="0">(DE-588)4062809-7</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="8">6\p</marc:subfield>
 			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
-			<marc:subfield code="A">f</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="t">Tristana</marc:subfield>
-			<marc:subfield code="0">(DE-588)4413751-5</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Tristana</marc:subfield>
@@ -2552,23 +1587,11 @@
 			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">1@@acgwrk@@d20201028@@qDE-101@@uhttps://d-nb.info/provenance/plan#cgwrk</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">16\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="8">22\p</marc:subfield>
 			<marc:subfield code="8">19\p</marc:subfield>
 			<marc:subfield code="8">29\p</marc:subfield>
 			<marc:subfield code="8">26\p</marc:subfield>
 			<marc:subfield code="5">DE-604</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="g">Berlin</marc:subfield>
-			<marc:subfield code="0">(DE-588)4005728-8</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">16\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Berlin</marc:subfield>
@@ -2578,25 +1601,11 @@
 			<marc:subfield code="8">26\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="s">Exil</marc:subfield>
-			<marc:subfield code="0">(DE-588)4015959-0</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">16\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Exil</marc:subfield>
 			<marc:subfield code="0">(DE-588)4015959-0</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="8">19\p</marc:subfield>
 			<marc:subfield code="8">26\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="s">Russen</marc:subfield>
-			<marc:subfield code="0">(DE-588)4051034-7</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">16\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Russen</marc:subfield>
@@ -2606,21 +1615,10 @@
 			<marc:subfield code="8">26\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
-			<marc:subfield code="z">Geschichte 1917-1923</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">16\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="a">Geschichte 1917-1923</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
 			<marc:subfield code="8">19\p</marc:subfield>
 			<marc:subfield code="8">26\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">1@@acgwrk@@d20201028@@qDE-101@@uhttps://d-nb.info/provenance/plan#cgwrk</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">16\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="8">23\p</marc:subfield>
@@ -2630,13 +1628,6 @@
 			<marc:subfield code="5">DE-604</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="g">Russland</marc:subfield>
-			<marc:subfield code="0">(DE-588)4076899-5</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">16\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Russland</marc:subfield>
 			<marc:subfield code="0">(DE-588)4076899-5</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
@@ -2644,21 +1635,10 @@
 			<marc:subfield code="8">26\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="1">
-			<marc:subfield code="z">Geschichte 1917-1922</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">16\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="1">
 			<marc:subfield code="a">Geschichte 1917-1922</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
 			<marc:subfield code="8">19\p</marc:subfield>
 			<marc:subfield code="8">26\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2=" ">
-			<marc:subfield code="5">1@@acgwrk@@d20201028@@qDE-101@@uhttps://d-nb.info/provenance/plan#cgwrk</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">16\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2=" ">
 			<marc:subfield code="8">24\p</marc:subfield>
@@ -2668,24 +1648,11 @@
 			<marc:subfield code="5">DE-604</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="0">
-			<marc:subfield code="g">Russland</marc:subfield>
-			<marc:subfield code="0">(DE-588)4076899-5</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">16\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="0">
 			<marc:subfield code="a">Russland</marc:subfield>
 			<marc:subfield code="0">(DE-588)4076899-5</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="8">19\p</marc:subfield>
 			<marc:subfield code="8">26\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="1">
-			<marc:subfield code="z">Geschichte 1917</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">16\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="1">
 			<marc:subfield code="a">Geschichte 1917</marc:subfield>
@@ -2694,24 +1661,11 @@
 			<marc:subfield code="8">26\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="3" ind2=" ">
-			<marc:subfield code="5">1@@acgwrk@@d20201028@@qDE-101@@uhttps://d-nb.info/provenance/plan#cgwrk</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">16\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="3" ind2=" ">
 			<marc:subfield code="8">25\p</marc:subfield>
 			<marc:subfield code="8">19\p</marc:subfield>
 			<marc:subfield code="8">32\p</marc:subfield>
 			<marc:subfield code="8">26\p</marc:subfield>
 			<marc:subfield code="5">DE-604</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="3" ind2="0">
-			<marc:subfield code="p">Šklovskij, Viktor Borisovič</marc:subfield>
-			<marc:subfield code="d">1893-1984</marc:subfield>
-			<marc:subfield code="0">(DE-588)118765701</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">16\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="3" ind2="0">
 			<marc:subfield code="a">Šklovskij, Viktor Borisovič</marc:subfield>
@@ -3025,23 +1979,11 @@
 			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">1@@acgwrk@@d20201028@@qDE-101@@uhttps://d-nb.info/provenance/plan#cgwrk</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">15\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="8">9\p</marc:subfield>
 			<marc:subfield code="8">7\p</marc:subfield>
 			<marc:subfield code="8">12\p</marc:subfield>
 			<marc:subfield code="8">10\p</marc:subfield>
 			<marc:subfield code="5">DE-604</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="s">Omnibus</marc:subfield>
-			<marc:subfield code="0">(DE-588)4043533-7</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">15\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Omnibus</marc:subfield>
@@ -3051,13 +1993,6 @@
 			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="s">Passagier</marc:subfield>
-			<marc:subfield code="0">(DE-588)4233205-9</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">15\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Passagier</marc:subfield>
 			<marc:subfield code="0">(DE-588)4233205-9</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
@@ -3065,25 +2000,11 @@
 			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="s">Begegnung</marc:subfield>
-			<marc:subfield code="0">(DE-588)4144298-2</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">15\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Begegnung</marc:subfield>
 			<marc:subfield code="0">(DE-588)4144298-2</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="8">7\p</marc:subfield>
 			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="3">
-			<marc:subfield code="s">Bilderbuch</marc:subfield>
-			<marc:subfield code="0">(DE-588)4006604-6</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">13\p</marc:subfield>
-			<marc:subfield code="8">15\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="a">Bilderbuch</marc:subfield>
@@ -3653,20 +2574,6 @@
 			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">1@@acgwrk@@d20201028@@qDE-101@@uhttps://d-nb.info/provenance/plan#cgwrk</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">VBKFUR</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">DE-101</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="8">14\p</marc:subfield>
 			<marc:subfield code="8">12\p</marc:subfield>
 			<marc:subfield code="8">18\p</marc:subfield>
@@ -3678,30 +2585,6 @@
 			<marc:subfield code="5">DE-604</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="D">p</marc:subfield>
-			<marc:subfield code="0">(DE-588)118552864</marc:subfield>
-			<marc:subfield code="0">(DE-627)079350496</marc:subfield>
-			<marc:subfield code="0">(DE-576)208961879</marc:subfield>
-			<marc:subfield code="a">Hohl, Ludwig</marc:subfield>
-			<marc:subfield code="d">1904-1980</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Hohl, Ludwig</marc:subfield>
-			<marc:subfield code="d">1904-1980</marc:subfield>
-			<marc:subfield code="D">p</marc:subfield>
-			<marc:subfield code="0">(DE-588)118552864</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="s">Weisheit</marc:subfield>
-			<marc:subfield code="0">(DE-588)4065203-8</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Weisheit</marc:subfield>
 			<marc:subfield code="0">(DE-588)4065203-8</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
@@ -3709,11 +2592,6 @@
 			<marc:subfield code="8">16\p</marc:subfield>
 			<marc:subfield code="8">20\p</marc:subfield>
 			<marc:subfield code="8">24\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">1@@acgwrk@@d20201028@@qDE-101@@uhttps://d-nb.info/provenance/plan#cgwrk</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="8">15\p</marc:subfield>
@@ -3725,14 +2603,6 @@
 			<marc:subfield code="8">27\p</marc:subfield>
 			<marc:subfield code="8">24\p</marc:subfield>
 			<marc:subfield code="5">DE-604</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="p">Hohl, Ludwig</marc:subfield>
-			<marc:subfield code="d">1904-1980</marc:subfield>
-			<marc:subfield code="0">(DE-588)118552864</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Hohl, Ludwig</marc:subfield>
@@ -3827,10 +2697,6 @@
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">DE-604</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="0">(DE-588)4028495-5</marc:subfield>
 			<marc:subfield code="0">https://d-nb.info/gnd/4028495-5</marc:subfield>
@@ -3838,12 +2704,6 @@
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="a">Japan</marc:subfield>
 			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Japan</marc:subfield>
-			<marc:subfield code="0">(DE-588)4028495-5</marc:subfield>
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="0">(DE-588)4039902-3</marc:subfield>
@@ -3853,12 +2713,6 @@
 			<marc:subfield code="a">Mönch</marc:subfield>
 			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="a">Buddhismus</marc:subfield>
-			<marc:subfield code="0">(DE-588)4008690-2</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="0">(DE-588)4156935-0</marc:subfield>
 			<marc:subfield code="0">https://d-nb.info/gnd/4156935-0</marc:subfield>
@@ -3867,12 +2721,6 @@
 			<marc:subfield code="a">Gesandtschaft</marc:subfield>
 			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="a">China</marc:subfield>
-			<marc:subfield code="0">(DE-588)4009937-4</marc:subfield>
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="0">(DE-588)4009937-4</marc:subfield>
 			<marc:subfield code="0">https://d-nb.info/gnd/4009937-4</marc:subfield>
@@ -3880,11 +2728,6 @@
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="a">China</marc:subfield>
 			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="3">
-			<marc:subfield code="a">Geschichte 730-760</marc:subfield>
-			<marc:subfield code="A">z</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="4">
 			<marc:subfield code="A">z</marc:subfield>
@@ -4117,93 +2960,19 @@
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">(DE-627)</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">VBKSOM</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">DE-188</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-			<marc:subfield code="8">15\p</marc:subfield>
-			<marc:subfield code="8">19\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4036031-3</marc:subfield>
-			<marc:subfield code="0">(DE-627)106244612</marc:subfield>
-			<marc:subfield code="0">(DE-576)209016078</marc:subfield>
-			<marc:subfield code="a">Literaturtheorie</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Literaturtheorie</marc:subfield>
 			<marc:subfield code="0">(DE-588)4036031-3</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Sprache</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4056449-6</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="s">Texttheorie</marc:subfield>
-			<marc:subfield code="0">(DE-588)4216276-2</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Texttheorie</marc:subfield>
-			<marc:subfield code="0">(DE-588)4216276-2</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="8">15\p</marc:subfield>
-			<marc:subfield code="8">19\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="a">Text</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4059596-1</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="a">Lust</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4036704-6</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">DE-188</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-			<marc:subfield code="8">15\p</marc:subfield>
-			<marc:subfield code="8">19\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="8">12\p</marc:subfield>
 			<marc:subfield code="8">10\p</marc:subfield>
 			<marc:subfield code="5">DE-604</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="s">Literaturtheorie</marc:subfield>
-			<marc:subfield code="0">(DE-588)4036031-3</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="a">Literaturtheorie</marc:subfield>
-			<marc:subfield code="0">(DE-588)4036031-3</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="8">15\p</marc:subfield>
-			<marc:subfield code="8">19\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Text</marc:subfield>
@@ -4230,10 +2999,6 @@
 			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2=" ">
-			<marc:subfield code="5">1@@acgwrk@@d20201028@@qDE-101@@uhttps://d-nb.info/provenance/plan#cgwrk</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2=" ">
 			<marc:subfield code="8">13\p</marc:subfield>
 			<marc:subfield code="8">10\p</marc:subfield>
 			<marc:subfield code="8">17\p</marc:subfield>
@@ -4243,66 +3008,10 @@
 			<marc:subfield code="5">DE-604</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="0">
-			<marc:subfield code="s">Text</marc:subfield>
-			<marc:subfield code="0">(DE-588)4059596-1</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="0">
-			<marc:subfield code="a">Text</marc:subfield>
-			<marc:subfield code="0">(DE-588)4059596-1</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="8">15\p</marc:subfield>
-			<marc:subfield code="8">19\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="0">
 			<marc:subfield code="a">Texttheorie</marc:subfield>
 			<marc:subfield code="0">(DE-588)4216276-2</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="1">
-			<marc:subfield code="s">Rezeption</marc:subfield>
-			<marc:subfield code="0">(DE-588)4049716-1</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="1">
-			<marc:subfield code="a">Rezeption</marc:subfield>
-			<marc:subfield code="0">(DE-588)4049716-1</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="8">15\p</marc:subfield>
-			<marc:subfield code="8">19\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="2">
-			<marc:subfield code="s">Leseinteresse</marc:subfield>
-			<marc:subfield code="0">(DE-588)4167437-6</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="2">
-			<marc:subfield code="a">Leseinteresse</marc:subfield>
-			<marc:subfield code="0">(DE-588)4167437-6</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="8">15\p</marc:subfield>
-			<marc:subfield code="8">19\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="3">
-			<marc:subfield code="s">Lustprinzip</marc:subfield>
-			<marc:subfield code="0">(DE-588)4168338-9</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="3">
-			<marc:subfield code="a">Lustprinzip</marc:subfield>
-			<marc:subfield code="0">(DE-588)4168338-9</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="8">15\p</marc:subfield>
-			<marc:subfield code="8">19\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="3" ind2=" ">
-			<marc:subfield code="5">1@@acgwrk@@d20201028@@qDE-101@@uhttps://d-nb.info/provenance/plan#cgwrk</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="3" ind2=" ">
 			<marc:subfield code="8">14\p</marc:subfield>
@@ -4312,14 +3021,6 @@
 			<marc:subfield code="8">22\p</marc:subfield>
 			<marc:subfield code="8">19\p</marc:subfield>
 			<marc:subfield code="5">DE-604</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="3" ind2="0">
-			<marc:subfield code="p">Barthes, Roland</marc:subfield>
-			<marc:subfield code="d">1915-1980</marc:subfield>
-			<marc:subfield code="t">Le plaisir du texte</marc:subfield>
-			<marc:subfield code="0">(DE-588)4218456-3</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="3" ind2="0">
 			<marc:subfield code="a">Barthes, Roland</marc:subfield>
@@ -4364,19 +3065,8 @@
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">Automatisch aus BVB_2013-06 2013-03-25</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="g">Süddeutschland</marc:subfield>
-			<marc:subfield code="0">(DE-588)4078022-3</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Süddeutschland</marc:subfield>
@@ -4386,23 +3076,11 @@
 			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="s">Kleinstadt</marc:subfield>
-			<marc:subfield code="0">(DE-588)4031110-7</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Kleinstadt</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4031110-7</marc:subfield>
 			<marc:subfield code="8">6\p</marc:subfield>
 			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="s">Sozialdemokrat</marc:subfield>
-			<marc:subfield code="0">(DE-588)4181914-7</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Sozialdemokrat</marc:subfield>
@@ -4412,12 +3090,6 @@
 			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
-			<marc:subfield code="s">Nationalsozialist</marc:subfield>
-			<marc:subfield code="0">(DE-588)4126114-8</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="a">Nationalsozialist</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4126114-8</marc:subfield>
@@ -4425,36 +3097,10 @@
 			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="4">
-			<marc:subfield code="z">Geschichte 1930</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="4">
 			<marc:subfield code="a">Geschichte 1930</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
 			<marc:subfield code="8">6\p</marc:subfield>
 			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="5">
-			<marc:subfield code="a">Theaterstück</marc:subfield>
-			<marc:subfield code="A">f</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">ONB-PI</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="a">Nationalsozialismus</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4041316-0</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="1">
-			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
-			<marc:subfield code="A">f</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -4505,23 +3151,11 @@
 			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">1@@acgwrk@@d20201028@@qDE-101@@uhttps://d-nb.info/provenance/plan#cgwrk</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="8">12\p</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
 			<marc:subfield code="8">14\p</marc:subfield>
 			<marc:subfield code="8">13\p</marc:subfield>
 			<marc:subfield code="5">DE-604</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="p">Paz, Octavio</marc:subfield>
-			<marc:subfield code="d">1914-1998</marc:subfield>
-			<marc:subfield code="t">El mono gramático</marc:subfield>
-			<marc:subfield code="0">(DE-588)1153349612</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Paz, Octavio</marc:subfield>
@@ -4578,12 +3212,6 @@
 			<marc:subfield code="0">(DE-588)4074299-4</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Łódź</marc:subfield>
-			<marc:subfield code="0">(DE-588)4074299-4</marc:subfield>
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Lazarett</marc:subfield>
@@ -4882,13 +3510,6 @@
 			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="g">Deutschland</marc:subfield>
-			<marc:subfield code="g">DDR</marc:subfield>
-			<marc:subfield code="0">(DE-588)4011890-3</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Deutschland</marc:subfield>
 			<marc:subfield code="g">DDR</marc:subfield>
 			<marc:subfield code="0">(DE-588)4011890-3</marc:subfield>
@@ -4897,23 +3518,11 @@
 			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="s">Politische Verfolgung</marc:subfield>
-			<marc:subfield code="0">(DE-588)4046565-2</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Politische Verfolgung</marc:subfield>
 			<marc:subfield code="0">(DE-588)4046565-2</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="8">5\p</marc:subfield>
 			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="s">Suizidversuch</marc:subfield>
-			<marc:subfield code="0">(DE-588)4137786-2</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Suizidversuch</marc:subfield>
@@ -5073,19 +3682,6 @@
 			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Barock</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4004541-9</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="s">Kunst</marc:subfield>
-			<marc:subfield code="0">(DE-588)4114333-4</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Kunst</marc:subfield>
 			<marc:subfield code="0">(DE-588)4114333-4</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
@@ -5096,18 +3692,6 @@
 			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="a">Rokoko</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4124930-6</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="z">Geschichte 1600-1780</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Geschichte 1600-1780</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
@@ -5115,11 +3699,6 @@
 			<marc:subfield code="8">10\p</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
 			<marc:subfield code="8">12\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="a">Aufsatzsammlung</marc:subfield>
-			<marc:subfield code="A">f</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -5163,18 +3742,6 @@
 			<marc:subfield code="d">1917-2011</marc:subfield>
 			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="0">(DE-588)118519271</marc:subfield>
-			<marc:subfield code="D">p</marc:subfield>
-			<marc:subfield code="a">Carrington, Leonora</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="A">s</marc:subfield>
-			<marc:subfield code="a">Autobiographie</marc:subfield>
-			<marc:subfield code="5">DE-101</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="A">f</marc:subfield>
 			<marc:subfield code="a">Autobiographie 1940</marc:subfield>
@@ -5193,12 +3760,6 @@
 			<marc:subfield code="a">Psychose</marc:subfield>
 			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="A">s</marc:subfield>
-			<marc:subfield code="a">Autobiographie</marc:subfield>
-			<marc:subfield code="5">DE-101</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="1">
 			<marc:subfield code="A">z</marc:subfield>
 			<marc:subfield code="a">Geschichte 1940</marc:subfield>
@@ -5208,35 +3769,6 @@
 			<marc:subfield code="A">f</marc:subfield>
 			<marc:subfield code="a">Erlebnisbericht</marc:subfield>
 			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="0">
-			<marc:subfield code="0">(DE-588)118519271</marc:subfield>
-			<marc:subfield code="D">p</marc:subfield>
-			<marc:subfield code="a">Carrington, Leonora</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="1">
-			<marc:subfield code="A">s</marc:subfield>
-			<marc:subfield code="a">Autobiographie 1940</marc:subfield>
-			<marc:subfield code="5">DE-101</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="3" ind2="0">
-			<marc:subfield code="0">(DE-588)4047734-4</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="a">Psychose</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="3" ind2="1">
-			<marc:subfield code="A">s</marc:subfield>
-			<marc:subfield code="a">Geschichte 1940</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="3" ind2="2">
-			<marc:subfield code="A">s</marc:subfield>
-			<marc:subfield code="a">Erlebnisbericht</marc:subfield>
-			<marc:subfield code="5">DE-101</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -5263,21 +3795,9 @@
 			<marc:subfield code="8">1\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">Automatisch aus BVB_2012-06 2013-05-30</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">4\p</marc:subfield>
 			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="p">Degas, Edgar</marc:subfield>
-			<marc:subfield code="d">1834-1917</marc:subfield>
-			<marc:subfield code="0">(DE-588)118524291</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Degas, Edgar</marc:subfield>
@@ -5287,12 +3807,6 @@
 			<marc:subfield code="8">2\p</marc:subfield>
 			<marc:subfield code="8">4\p</marc:subfield>
 			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="s">Tanz</marc:subfield>
-			<marc:subfield code="0">(DE-588)4059028-8</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Tanz</marc:subfield>
@@ -5353,10 +3867,6 @@
 			<marc:subfield code="8">9\p</marc:subfield>
 			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">DE-604</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="0">(DE-588)4040949-1</marc:subfield>
 			<marc:subfield code="0">https://d-nb.info/gnd/4040949-1</marc:subfield>
@@ -5366,14 +3876,6 @@
 			<marc:subfield code="8">8\p</marc:subfield>
 			<marc:subfield code="8">9\p</marc:subfield>
 			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Handke, Peter</marc:subfield>
-			<marc:subfield code="d">1942-</marc:subfield>
-			<marc:subfield code="t">Wunschloses Unglück</marc:subfield>
-			<marc:subfield code="0">(DE-588)4264145-7</marc:subfield>
-			<marc:subfield code="D">u</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="0">(DE-588)4054423-0</marc:subfield>
@@ -5422,22 +3924,6 @@
 			<marc:subfield code="8">9\p</marc:subfield>
 			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">DE-604</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="a">Suizid</marc:subfield>
-			<marc:subfield code="0">(DE-588)4054423-0</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="1">
-			<marc:subfield code="a">Frau</marc:subfield>
-			<marc:subfield code="0">(DE-588)4018202-2</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
 	</marc:record>
 
 	<marc:record>
@@ -5479,11 +3965,6 @@
 			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">ONB-PI</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="8">16\p</marc:subfield>
@@ -5495,17 +3976,6 @@
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="a">Anatolien</marc:subfield>
 			<marc:subfield code="8">16\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="0">(DE-588)4003217-6</marc:subfield>
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="a">Asien</marc:subfield>
-			<marc:subfield code="5">DE-101</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Karaosmanoglu, Yakub Kadri</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="0">(DE-588)4134557-5</marc:subfield>
@@ -5647,12 +4117,6 @@
 			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="s">Lebenslauf</marc:subfield>
-			<marc:subfield code="0">(DE-588)4034869-6</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Lebenslauf</marc:subfield>
 			<marc:subfield code="0">(DE-588)4034869-6</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
@@ -5753,21 +4217,11 @@
 			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">1@@acgwrk@@d20201028@@qDE-101@@uhttps://d-nb.info/provenance/plan#cgwrk</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="8">9\p</marc:subfield>
 			<marc:subfield code="8">8\p</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
 			<marc:subfield code="8">10\p</marc:subfield>
 			<marc:subfield code="5">DE-604</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="g">Italien</marc:subfield>
-			<marc:subfield code="0">(DE-588)4027833-5</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Italien</marc:subfield>
@@ -5777,23 +4231,11 @@
 			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="s">Bauernleben</marc:subfield>
-			<marc:subfield code="0">(DE-588)4144143-6</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Bauernleben</marc:subfield>
 			<marc:subfield code="0">(DE-588)4144143-6</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="8">8\p</marc:subfield>
 			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="s">Anthologie</marc:subfield>
-			<marc:subfield code="0">(DE-588)4002214-6</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Anthologie</marc:subfield>
@@ -5992,10 +4434,6 @@
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">1@@acgwrk@@d20201028@@qDE-101@@uhttps://d-nb.info/provenance/plan#cgwrk</marc:subfield>
-			<marc:subfield code="8">19\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="8">9\p</marc:subfield>
 			<marc:subfield code="8">7\p</marc:subfield>
 			<marc:subfield code="8">13\p</marc:subfield>
@@ -6003,12 +4441,6 @@
 			<marc:subfield code="8">17\p</marc:subfield>
 			<marc:subfield code="8">15\p</marc:subfield>
 			<marc:subfield code="5">DE-604</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="s">Weisheit</marc:subfield>
-			<marc:subfield code="0">(DE-588)4065203-8</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">19\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Weisheit</marc:subfield>
@@ -6019,10 +4451,6 @@
 			<marc:subfield code="8">15\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">1@@acgwrk@@d20201028@@qDE-101@@uhttps://d-nb.info/provenance/plan#cgwrk</marc:subfield>
-			<marc:subfield code="8">19\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="8">10\p</marc:subfield>
 			<marc:subfield code="8">7\p</marc:subfield>
 			<marc:subfield code="8">14\p</marc:subfield>
@@ -6030,13 +4458,6 @@
 			<marc:subfield code="8">18\p</marc:subfield>
 			<marc:subfield code="8">15\p</marc:subfield>
 			<marc:subfield code="5">DE-604</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="p">Hohl, Ludwig</marc:subfield>
-			<marc:subfield code="d">1904-1980</marc:subfield>
-			<marc:subfield code="0">(DE-588)118552864</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">19\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Hohl, Ludwig</marc:subfield>
@@ -6417,16 +4838,8 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-101</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">DE-604</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="0">(DE-588)4018145-5</marc:subfield>
@@ -6436,21 +4849,6 @@
 			<marc:subfield code="a">Frankreich</marc:subfield>
 			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="0">(DE-588)4018145-5</marc:subfield>
-			<marc:subfield code="0">(DE-627)106327232</marc:subfield>
-			<marc:subfield code="0">(DE-576)208922857</marc:subfield>
-			<marc:subfield code="a">Frankreich</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Frankreich</marc:subfield>
-			<marc:subfield code="0">(DE-588)4018145-5</marc:subfield>
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="0">(DE-588)4124813-2</marc:subfield>
 			<marc:subfield code="0">https://d-nb.info/gnd/4124813-2</marc:subfield>
@@ -6458,21 +4856,6 @@
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Ehepaar</marc:subfield>
 			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4124813-2</marc:subfield>
-			<marc:subfield code="0">(DE-627)105744794</marc:subfield>
-			<marc:subfield code="0">(DE-576)209571306</marc:subfield>
-			<marc:subfield code="a">Ehepaar</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="a">Ehepaar</marc:subfield>
-			<marc:subfield code="0">(DE-588)4124813-2</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="0">(DE-588)4034869-6</marc:subfield>
@@ -6482,21 +4865,6 @@
 			<marc:subfield code="a">Lebenslauf</marc:subfield>
 			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4034869-6</marc:subfield>
-			<marc:subfield code="0">(DE-627)106250485</marc:subfield>
-			<marc:subfield code="0">(DE-576)209009527</marc:subfield>
-			<marc:subfield code="a">Lebenslauf</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="a">Lebenslauf</marc:subfield>
-			<marc:subfield code="0">(DE-588)4034869-6</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="0">(DE-588)4015272-8</marc:subfield>
 			<marc:subfield code="0">https://d-nb.info/gnd/4015272-8</marc:subfield>
@@ -6504,27 +4872,6 @@
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Erinnerung</marc:subfield>
 			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="3">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4015272-8</marc:subfield>
-			<marc:subfield code="0">(DE-627)106337378</marc:subfield>
-			<marc:subfield code="0">(DE-576)208911022</marc:subfield>
-			<marc:subfield code="a">Erinnerung</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="3">
-			<marc:subfield code="a">Erinnerung</marc:subfield>
-			<marc:subfield code="0">(DE-588)4015272-8</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="4">
-			<marc:subfield code="A">z</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="a">Geschichte 1965-1980</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="4">
 			<marc:subfield code="a">Geschichte 1965-1980</marc:subfield>
@@ -6598,45 +4945,11 @@
 			<marc:subfield code="8">17\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">(DE-627)</marc:subfield>
-			<marc:subfield code="8">17\p</marc:subfield>
-			<marc:subfield code="8">18\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">UBI</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">6\p</marc:subfield>
 			<marc:subfield code="8">10\p</marc:subfield>
 			<marc:subfield code="8">12\p</marc:subfield>
 			<marc:subfield code="8">14\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="D">p</marc:subfield>
-			<marc:subfield code="0">(DE-588)118566016</marc:subfield>
-			<marc:subfield code="0">(DE-627)134266196</marc:subfield>
-			<marc:subfield code="0">(DE-576)161811671</marc:subfield>
-			<marc:subfield code="a">Kraft, Werner</marc:subfield>
-			<marc:subfield code="d">1896-1991</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">17\p</marc:subfield>
-			<marc:subfield code="8">18\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Kraft, Werner</marc:subfield>
-			<marc:subfield code="d">1896-1991</marc:subfield>
-			<marc:subfield code="D">p</marc:subfield>
-			<marc:subfield code="0">(DE-588)118566016</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="s">Fin de siècle</marc:subfield>
-			<marc:subfield code="0">(DE-588)4154404-3</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">16\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Fin de siècle</marc:subfield>
@@ -6646,20 +4959,6 @@
 			<marc:subfield code="8">10\p</marc:subfield>
 			<marc:subfield code="8">12\p</marc:subfield>
 			<marc:subfield code="8">14\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="a">Autobiographie</marc:subfield>
-			<marc:subfield code="A">f</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">1@@acgwrk@@d20201028@@qDE-101@@uhttps://d-nb.info/provenance/plan#cgwrk</marc:subfield>
-			<marc:subfield code="8">16\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">ONB-PI</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="8">7\p</marc:subfield>
@@ -6673,13 +4972,6 @@
 			<marc:subfield code="5">DE-604</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="p">Kraft, Werner</marc:subfield>
-			<marc:subfield code="d">1896-1991</marc:subfield>
-			<marc:subfield code="0">(DE-588)118566016</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">16\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Kraft, Werner</marc:subfield>
 			<marc:subfield code="d">1896-1991</marc:subfield>
 			<marc:subfield code="0">(DE-588)118566016</marc:subfield>
@@ -6688,22 +4980,6 @@
 			<marc:subfield code="8">10\p</marc:subfield>
 			<marc:subfield code="8">12\p</marc:subfield>
 			<marc:subfield code="8">14\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="a">Deutschland</marc:subfield>
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="0">(DE-588)4011882-4</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="1">
-			<marc:subfield code="a">Geschichte 1896-1934</marc:subfield>
-			<marc:subfield code="A">z</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="2">
-			<marc:subfield code="a">Erlebnisbericht</marc:subfield>
-			<marc:subfield code="A">f</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -6730,42 +5006,15 @@
 			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">Automatisch aus BVB_2013-06 2013-03-25</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">DE-101</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="0">(DE-588)4078022-3</marc:subfield>
-			<marc:subfield code="0">(DE-627)104729082</marc:subfield>
-			<marc:subfield code="0">(DE-576)209207019</marc:subfield>
-			<marc:subfield code="a">Süddeutschland</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Süddeutschland</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="0">(DE-588)4078022-3</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
 			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4031110-7</marc:subfield>
-			<marc:subfield code="0">(DE-627)106267272</marc:subfield>
-			<marc:subfield code="0">(DE-576)208990607</marc:subfield>
-			<marc:subfield code="a">Kleinstadt</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Kleinstadt</marc:subfield>
@@ -6775,29 +5024,11 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4181914-7</marc:subfield>
-			<marc:subfield code="0">(DE-627)105314382</marc:subfield>
-			<marc:subfield code="0">(DE-576)210007869</marc:subfield>
-			<marc:subfield code="a">Sozialdemokrat</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Sozialdemokrat</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4181914-7</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
 			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="3">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4126114-8</marc:subfield>
-			<marc:subfield code="0">(DE-627)105734845</marc:subfield>
-			<marc:subfield code="0">(DE-576)209582375</marc:subfield>
-			<marc:subfield code="a">Nationalsozialist</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="a">Nationalsozialist</marc:subfield>
@@ -6807,36 +5038,10 @@
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="4">
-			<marc:subfield code="A">z</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="a">Geschichte 1930</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="4">
 			<marc:subfield code="a">Geschichte 1930</marc:subfield>
 			<marc:subfield code="A">z</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
 			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="5">
-			<marc:subfield code="a">Theaterstück</marc:subfield>
-			<marc:subfield code="A">f</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">DE-101</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="D">u</marc:subfield>
-			<marc:subfield code="0">(DE-588)4575060-9</marc:subfield>
-			<marc:subfield code="0">(DE-627)325026068</marc:subfield>
-			<marc:subfield code="0">(DE-576)213871874</marc:subfield>
-			<marc:subfield code="a">Horváth, Ödön von</marc:subfield>
-			<marc:subfield code="d">1901-1938</marc:subfield>
-			<marc:subfield code="t">Italienische Nacht</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -6887,10 +5092,6 @@
 			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">1@@acgwrk@@d20201028@@qDE-101@@uhttps://d-nb.info/provenance/plan#cgwrk</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="8">8\p</marc:subfield>
 			<marc:subfield code="8">7\p</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
@@ -6900,14 +5101,6 @@
 			<marc:subfield code="8">15\p</marc:subfield>
 			<marc:subfield code="8">14\p</marc:subfield>
 			<marc:subfield code="5">DE-604</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="p">Bernhard, Thomas</marc:subfield>
-			<marc:subfield code="d">1931-1989</marc:subfield>
-			<marc:subfield code="t">Der Weltverbesserer</marc:subfield>
-			<marc:subfield code="0">(DE-588)4636697-0</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Bernhard, Thomas</marc:subfield>
@@ -6921,12 +5114,6 @@
 			<marc:subfield code="8">14\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="s">Bearbeitung</marc:subfield>
-			<marc:subfield code="0">(DE-588)4120981-3</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Bearbeitung</marc:subfield>
 			<marc:subfield code="0">(DE-588)4120981-3</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
@@ -6934,12 +5121,6 @@
 			<marc:subfield code="8">10\p</marc:subfield>
 			<marc:subfield code="8">12\p</marc:subfield>
 			<marc:subfield code="8">14\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="s">Comic</marc:subfield>
-			<marc:subfield code="0">(DE-588)4010427-8</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Comic</marc:subfield>
@@ -6979,48 +5160,16 @@
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">(DE-627)</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">Automatisch aus BVB_2012-06 2013-06-05</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">5\p</marc:subfield>
 			<marc:subfield code="8">8\p</marc:subfield>
 			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4129355-1</marc:subfield>
-			<marc:subfield code="0">(DE-627)105710512</marc:subfield>
-			<marc:subfield code="0">(DE-576)209609826</marc:subfield>
-			<marc:subfield code="a">Gewissheit</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Erkenntnis</marc:subfield>
 			<marc:subfield code="0">(DE-588)4015286-8</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Gewissheit</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4129355-1</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Evidenz</marc:subfield>
-			<marc:subfield code="0">(DE-588)4129356-3</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Gewissheit</marc:subfield>
@@ -7029,50 +5178,22 @@
 			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">Automatisch aus BVB_2012-06 2013-06-05</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">5\p</marc:subfield>
 			<marc:subfield code="8">9\p</marc:subfield>
 			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="a">Erkenntnis</marc:subfield>
-			<marc:subfield code="0">(DE-588)4015286-8</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Gewissheit</marc:subfield>
 			<marc:subfield code="0">(DE-588)4129355-1</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="a">Evidenz</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4129356-3</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="1">
 			<marc:subfield code="a">Theorie</marc:subfield>
 			<marc:subfield code="0">(DE-588)4059787-8</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="1">
-			<marc:subfield code="a">Gewissheit</marc:subfield>
-			<marc:subfield code="0">(DE-588)4129355-1</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">Automatisch aus BVB_2012-06 2013-06-05</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2=" ">
 			<marc:subfield code="8">6\p</marc:subfield>
@@ -7082,34 +5203,10 @@
 			<marc:subfield code="5">DE-604</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="0">
-			<marc:subfield code="a">Erkenntnis</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4015286-8</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="0">
-			<marc:subfield code="a">Gewissheit</marc:subfield>
-			<marc:subfield code="0">(DE-588)4129355-1</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="0">
 			<marc:subfield code="a">Evidenz</marc:subfield>
 			<marc:subfield code="0">(DE-588)4129356-3</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="1">
-			<marc:subfield code="a">Theorie</marc:subfield>
-			<marc:subfield code="0">(DE-588)4059787-8</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="1">
-			<marc:subfield code="a">Gewissheit</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4129355-1</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -7203,44 +5300,9 @@
 			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">(DE-627)</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">Automatisch aus BVB_2012-06 2013-06-13</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">5\p</marc:subfield>
 			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="D">p</marc:subfield>
-			<marc:subfield code="0">(DE-588)118540238</marc:subfield>
-			<marc:subfield code="0">(DE-627)133416720</marc:subfield>
-			<marc:subfield code="0">(DE-576)161142842</marc:subfield>
-			<marc:subfield code="a">Goethe, Johann Wolfgang von</marc:subfield>
-			<marc:subfield code="d">1749-1832</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="p">Goethe, Johann Wolfgang von</marc:subfield>
-			<marc:subfield code="d">1749-1832</marc:subfield>
-			<marc:subfield code="0">(DE-588)118540238</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Goethe, Johann Wolfgang &lt;&lt;von&gt;&gt;</marc:subfield>
-			<marc:subfield code="d">1749-1832</marc:subfield>
-			<marc:subfield code="D">p</marc:subfield>
-			<marc:subfield code="0">(DE-588)118540238</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Goethe, Johann Wolfgang von</marc:subfield>
@@ -7276,10 +5338,6 @@
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-101</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="5">DE-101</marc:subfield>
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
@@ -7291,15 +5349,6 @@
 			<marc:subfield code="a">USA</marc:subfield>
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="0">(DE-588)4078704-7</marc:subfield>
-			<marc:subfield code="0">(DE-627)106076612</marc:subfield>
-			<marc:subfield code="0">(DE-576)209209682</marc:subfield>
-			<marc:subfield code="a">USA</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="0">(DE-588)4025243-7</marc:subfield>
 			<marc:subfield code="0">https://d-nb.info/gnd/4025243-7</marc:subfield>
@@ -7308,15 +5357,6 @@
 			<marc:subfield code="a">Hochschullehrer</marc:subfield>
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4025243-7</marc:subfield>
-			<marc:subfield code="0">(DE-627)106294369</marc:subfield>
-			<marc:subfield code="0">(DE-576)208959793</marc:subfield>
-			<marc:subfield code="a">Hochschullehrer</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="0">(DE-588)4051034-7</marc:subfield>
 			<marc:subfield code="0">https://d-nb.info/gnd/4051034-7</marc:subfield>
@@ -7324,21 +5364,6 @@
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="a">Russen</marc:subfield>
 			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4051034-7</marc:subfield>
-			<marc:subfield code="0">(DE-627)10425324X</marc:subfield>
-			<marc:subfield code="0">(DE-576)209090952</marc:subfield>
-			<marc:subfield code="a">Russen</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="3">
-			<marc:subfield code="A">z</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="a">Geschichte 1957</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="A">z</marc:subfield>
@@ -7349,43 +5374,6 @@
 			<marc:subfield code="A">f</marc:subfield>
 			<marc:subfield code="a">Belletristische Darstellung</marc:subfield>
 			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">(DE-627)</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="0">(DE-588)4078704-7</marc:subfield>
-			<marc:subfield code="0">(DE-627)106076612</marc:subfield>
-			<marc:subfield code="0">(DE-576)209209682</marc:subfield>
-			<marc:subfield code="a">USA</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="1">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4025243-7</marc:subfield>
-			<marc:subfield code="0">(DE-627)106294369</marc:subfield>
-			<marc:subfield code="0">(DE-576)208959793</marc:subfield>
-			<marc:subfield code="a">Hochschullehrer</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="2">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4051034-7</marc:subfield>
-			<marc:subfield code="0">(DE-627)10425324X</marc:subfield>
-			<marc:subfield code="0">(DE-576)209090952</marc:subfield>
-			<marc:subfield code="a">Russen</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="3">
-			<marc:subfield code="A">z</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="a">Geschichte 1957</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -7432,15 +5420,6 @@
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">UBI BOKFVE</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">DE-101</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="8">10\p</marc:subfield>
 			<marc:subfield code="8">9\p</marc:subfield>
 			<marc:subfield code="8">14\p</marc:subfield>
@@ -7448,75 +5427,10 @@
 			<marc:subfield code="5">DE-604</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="0">(DE-588)4075613-0</marc:subfield>
-			<marc:subfield code="0">(DE-627)104653647</marc:subfield>
-			<marc:subfield code="0">(DE-576)209198680</marc:subfield>
-			<marc:subfield code="a">Österreich-Ungarn</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Österreich</marc:subfield>
-			<marc:subfield code="0">(DE-588)4043271-3</marc:subfield>
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-			<marc:subfield code="8">15\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="0">(DE-588)4075613-0</marc:subfield>
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="a">Österreich-Ungarn</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Ungarn</marc:subfield>
 			<marc:subfield code="0">(DE-588)4078541-5</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4034402-2</marc:subfield>
-			<marc:subfield code="0">(DE-627)10625295X</marc:subfield>
-			<marc:subfield code="0">(DE-576)209006692</marc:subfield>
-			<marc:subfield code="a">Landwirtschaft</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="0">(DE-588)4034402-2</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="a">Landwirtschaft</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4066527-6</marc:subfield>
-			<marc:subfield code="0">(DE-627)106113232</marc:subfield>
-			<marc:subfield code="0">(DE-576)209164956</marc:subfield>
-			<marc:subfield code="a">Wirtschaftswachstum</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="a">Wirtschaftswachstum</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4066527-6</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="A">s</marc:subfield>
-			<marc:subfield code="a">Geschichte 1800-1900</marc:subfield>
-			<marc:subfield code="5">DE-101</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">ONB-PI</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="8">11\p</marc:subfield>
@@ -7526,39 +5440,10 @@
 			<marc:subfield code="5">DE-604</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="a">Landwirtschaft</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4034402-2</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Österreich</marc:subfield>
 			<marc:subfield code="0">(DE-588)4043271-3</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="a">Ungarn</marc:subfield>
-			<marc:subfield code="0">(DE-588)4078541-5</marc:subfield>
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-			<marc:subfield code="8">15\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="1">
-			<marc:subfield code="a">Geschichte 19. Jh.</marc:subfield>
-			<marc:subfield code="A">z</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="2">
-			<marc:subfield code="a">Österreich-Ungarn</marc:subfield>
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="0">(DE-588)4075613-0</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="3">
-			<marc:subfield code="a">Aufsatzsammlung</marc:subfield>
-			<marc:subfield code="A">f</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2=" ">
 			<marc:subfield code="8">12\p</marc:subfield>
@@ -7609,11 +5494,6 @@
 			<marc:subfield code="5">(DE-627)</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">UAW</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4144507-7</marc:subfield>
@@ -7622,12 +5502,6 @@
 			<marc:subfield code="a">Benzin</marc:subfield>
 			<marc:subfield code="2">gnd</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Kraftstoffhandel</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4165453-5</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="D">s</marc:subfield>
@@ -7638,12 +5512,6 @@
 			<marc:subfield code="2">gnd</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="a">Produktgestaltung</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4047340-5</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4011510-0</marc:subfield>
@@ -7653,11 +5521,6 @@
 			<marc:subfield code="2">gnd</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="a">Geschichte</marc:subfield>
-			<marc:subfield code="A">z</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4065541-6</marc:subfield>
@@ -7666,44 +5529,6 @@
 			<marc:subfield code="a">Werbung</marc:subfield>
 			<marc:subfield code="2">gnd</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="3">
-			<marc:subfield code="a">Bildband</marc:subfield>
-			<marc:subfield code="A">f</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">UAW</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="a">Tankstelle</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4184403-8</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="1">
-			<marc:subfield code="a">Zubehör</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4191050-3</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="2">
-			<marc:subfield code="a">Design</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4011510-0</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="3">
-			<marc:subfield code="a">Geschichte</marc:subfield>
-			<marc:subfield code="A">z</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="4">
-			<marc:subfield code="a">Bildband</marc:subfield>
-			<marc:subfield code="A">f</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -7809,42 +5634,9 @@
 			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">(DE-627)</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">UBI</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
 			<marc:subfield code="8">12\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="0">(DE-588)7529420-5</marc:subfield>
-			<marc:subfield code="0">(DE-627)51258463X</marc:subfield>
-			<marc:subfield code="0">(DE-576)251650693</marc:subfield>
-			<marc:subfield code="a">Gargnano</marc:subfield>
-			<marc:subfield code="z">Region</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Mittelmeerraum</marc:subfield>
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="0">(DE-588)4074900-9</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="g">Monte Gargano</marc:subfield>
-			<marc:subfield code="0">(DE-588)4102164-2</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Monte Gargano</marc:subfield>
@@ -7854,48 +5646,11 @@
 			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="0">(DE-588)4045064-8</marc:subfield>
-			<marc:subfield code="0">(DE-627)104535997</marc:subfield>
-			<marc:subfield code="0">(DE-576)209063777</marc:subfield>
-			<marc:subfield code="a">Peloponnes</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="s">Küste</marc:subfield>
-			<marc:subfield code="0">(DE-588)4033469-7</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Küste</marc:subfield>
 			<marc:subfield code="0">(DE-588)4033469-7</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
 			<marc:subfield code="8">12\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="a">Küstenmorphologie</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4033476-4</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4033476-4</marc:subfield>
-			<marc:subfield code="0">(DE-627)104400854</marc:subfield>
-			<marc:subfield code="0">(DE-576)209002239</marc:subfield>
-			<marc:subfield code="a">Küstenmorphologie</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">ONB-PI</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
@@ -7903,18 +5658,6 @@
 			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="a">Küstenmorphologie</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4033476-4</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="g">Peloponnes</marc:subfield>
-			<marc:subfield code="0">(DE-588)4045064-8</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Peloponnes</marc:subfield>
 			<marc:subfield code="0">(DE-588)4045064-8</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
@@ -7922,39 +5665,16 @@
 			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="1">
-			<marc:subfield code="s">Küste</marc:subfield>
-			<marc:subfield code="0">(DE-588)4033469-7</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="1">
 			<marc:subfield code="a">Küste</marc:subfield>
 			<marc:subfield code="0">(DE-588)4033469-7</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
 			<marc:subfield code="8">12\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="1">
-			<marc:subfield code="a">Mittelmeer</marc:subfield>
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="0">(DE-588)4074895-9</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="2">
-			<marc:subfield code="a">Aufsatzsammlung</marc:subfield>
-			<marc:subfield code="A">f</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
 			<marc:subfield code="8">12\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="0">
-			<marc:subfield code="g">Mittelmeerküste</marc:subfield>
-			<marc:subfield code="0">(DE-588)4074898-4</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="0">
 			<marc:subfield code="a">Mittelmeerküste</marc:subfield>
@@ -7969,23 +5689,11 @@
 			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="3" ind2="0">
-			<marc:subfield code="g">Mittelmeerküste</marc:subfield>
-			<marc:subfield code="0">(DE-588)4074898-4</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="3" ind2="0">
 			<marc:subfield code="a">Mittelmeerküste</marc:subfield>
 			<marc:subfield code="0">(DE-588)4074898-4</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
 			<marc:subfield code="8">12\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="3" ind2="1">
-			<marc:subfield code="s">Geomorphologie</marc:subfield>
-			<marc:subfield code="0">(DE-588)4130684-3</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="3" ind2="1">
 			<marc:subfield code="a">Geomorphologie</marc:subfield>
@@ -8000,23 +5708,11 @@
 			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="4" ind2="0">
-			<marc:subfield code="g">Monte Gargano</marc:subfield>
-			<marc:subfield code="0">(DE-588)4102164-2</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="4" ind2="0">
 			<marc:subfield code="a">Monte Gargano</marc:subfield>
 			<marc:subfield code="0">(DE-588)4102164-2</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
 			<marc:subfield code="8">12\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="4" ind2="1">
-			<marc:subfield code="s">Küstenmorphologie</marc:subfield>
-			<marc:subfield code="0">(DE-588)4033476-4</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="4" ind2="1">
 			<marc:subfield code="a">Küstenmorphologie</marc:subfield>
@@ -8031,23 +5727,11 @@
 			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="5" ind2="0">
-			<marc:subfield code="g">Peloponnes</marc:subfield>
-			<marc:subfield code="0">(DE-588)4045064-8</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="5" ind2="0">
 			<marc:subfield code="a">Peloponnes</marc:subfield>
 			<marc:subfield code="0">(DE-588)4045064-8</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
 			<marc:subfield code="8">12\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="5" ind2="1">
-			<marc:subfield code="s">Küstenmorphologie</marc:subfield>
-			<marc:subfield code="0">(DE-588)4033476-4</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">10\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="5" ind2="1">
 			<marc:subfield code="a">Küstenmorphologie</marc:subfield>
@@ -8092,11 +5776,6 @@
 			<marc:subfield code="5">(DE-627)</marc:subfield>
 			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">BOK</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4251637-7</marc:subfield>
@@ -8106,30 +5785,9 @@
 			<marc:subfield code="2">gnd</marc:subfield>
 			<marc:subfield code="8">8\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Hangabtragung</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4204448-0</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="a">Kongress</marc:subfield>
-			<marc:subfield code="A">f</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="a">Delhi &lt;1969&gt;</marc:subfield>
-			<marc:subfield code="A">g</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">(DE-627)</marc:subfield>
 			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">ONB-PI</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="D">s</marc:subfield>
@@ -8139,17 +5797,6 @@
 			<marc:subfield code="a">Hangabtragung</marc:subfield>
 			<marc:subfield code="2">gnd</marc:subfield>
 			<marc:subfield code="8">8\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="a">Hangentwicklung</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4251637-7</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="1">
-			<marc:subfield code="a">Aufsatzsammlung</marc:subfield>
-			<marc:subfield code="A">f</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -8188,36 +5835,11 @@
 			<marc:subfield code="5">UBI</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">DE-101</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-			<marc:subfield code="8">11\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="0">(DE-588)4060997-2</marc:subfield>
-			<marc:subfield code="0">(DE-627)104483709</marc:subfield>
-			<marc:subfield code="0">(DE-576)209137576</marc:subfield>
-			<marc:subfield code="a">Tropen</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-			<marc:subfield code="8">11\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Tropen</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="0">(DE-588)4060997-2</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4137900-7</marc:subfield>
-			<marc:subfield code="0">(DE-627)105646555</marc:subfield>
-			<marc:subfield code="0">(DE-576)20968156X</marc:subfield>
-			<marc:subfield code="a">Piedmontfläche</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-			<marc:subfield code="8">11\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Piedmontfläche</marc:subfield>
@@ -8295,32 +5917,11 @@
 			<marc:subfield code="8">22\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">(DE-627)</marc:subfield>
-			<marc:subfield code="8">22\p</marc:subfield>
-			<marc:subfield code="8">23\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">Automatisch aus BVB_2013-06 2013-04-11</marc:subfield>
-			<marc:subfield code="8">16\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">5\p</marc:subfield>
 			<marc:subfield code="8">6\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="D">p</marc:subfield>
-			<marc:subfield code="0">(DE-588)11866879X</marc:subfield>
-			<marc:subfield code="0">(DE-627)13346444X</marc:subfield>
-			<marc:subfield code="0">(DE-576)160541697</marc:subfield>
-			<marc:subfield code="a">Cather, Willa</marc:subfield>
-			<marc:subfield code="d">1873-1947</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">22\p</marc:subfield>
-			<marc:subfield code="8">23\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Cather, Willa</marc:subfield>
 			<marc:subfield code="d">1873-1947</marc:subfield>
 			<marc:subfield code="0">(DE-588)11866879X</marc:subfield>
@@ -8328,22 +5929,6 @@
 			<marc:subfield code="8">5\p</marc:subfield>
 			<marc:subfield code="8">6\p</marc:subfield>
 			<marc:subfield code="8">16\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">(DE-627)</marc:subfield>
-			<marc:subfield code="8">22\p</marc:subfield>
-			<marc:subfield code="8">23\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="D">p</marc:subfield>
-			<marc:subfield code="0">(DE-588)11866879X</marc:subfield>
-			<marc:subfield code="0">(DE-627)13346444X</marc:subfield>
-			<marc:subfield code="0">(DE-576)160541697</marc:subfield>
-			<marc:subfield code="a">Cather, Willa</marc:subfield>
-			<marc:subfield code="d">1873-1947</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">22\p</marc:subfield>
-			<marc:subfield code="8">23\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -8370,19 +5955,6 @@
 			<marc:subfield code="5">UBS</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">DE-101</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4160235-3</marc:subfield>
-			<marc:subfield code="0">(DE-627)105479292</marc:subfield>
-			<marc:subfield code="0">(DE-576)209856297</marc:subfield>
-			<marc:subfield code="a">Hochspannungsfreileitung</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Deutschland</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
@@ -8390,43 +5962,16 @@
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4144182-5</marc:subfield>
-			<marc:subfield code="0">(DE-627)105600229</marc:subfield>
-			<marc:subfield code="0">(DE-576)209732067</marc:subfield>
-			<marc:subfield code="a">Bauplanungsrecht</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Hochspannungsfreileitung</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4160235-3</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4019956-3</marc:subfield>
-			<marc:subfield code="0">(DE-627)106319752</marc:subfield>
-			<marc:subfield code="0">(DE-576)208931368</marc:subfield>
-			<marc:subfield code="a">Gemeinde</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Bauplanungsrecht</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4144182-5</marc:subfield>
 			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="3">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4048835-4</marc:subfield>
-			<marc:subfield code="0">(DE-627)106189387</marc:subfield>
-			<marc:subfield code="0">(DE-576)209079444</marc:subfield>
-			<marc:subfield code="a">Rechtsschutz</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="3">
 			<marc:subfield code="a">Gemeinde</marc:subfield>
@@ -8547,66 +6092,16 @@
 			<marc:subfield code="8">7\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">(DE-627)</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">ONB</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">10\p</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="0">(DE-588)4001451-4</marc:subfield>
-			<marc:subfield code="0">(DE-627)106397052</marc:subfield>
-			<marc:subfield code="0">(DE-576)208842934</marc:subfield>
-			<marc:subfield code="a">Alter Orient</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="g">Alter Orient</marc:subfield>
-			<marc:subfield code="0">(DE-588)4001451-4</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Alter Orient</marc:subfield>
 			<marc:subfield code="0">(DE-588)4001451-4</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
 			<marc:subfield code="8">10\p</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Antike</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4068754-5</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4040311-7</marc:subfield>
-			<marc:subfield code="0">(DE-627)10622414X</marc:subfield>
-			<marc:subfield code="0">(DE-576)209039345</marc:subfield>
-			<marc:subfield code="a">Mosaik</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-			<marc:subfield code="8">7\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="s">Mosaik</marc:subfield>
-			<marc:subfield code="0">(DE-588)4040311-7</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Mosaik</marc:subfield>
@@ -8617,41 +6112,16 @@
 			<marc:subfield code="8">11\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="s">Antike</marc:subfield>
-			<marc:subfield code="0">(DE-588)4068754-5</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Antike</marc:subfield>
 			<marc:subfield code="0">(DE-588)4068754-5</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="8">10\p</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="a">Naher Osten</marc:subfield>
-			<marc:subfield code="D">g</marc:subfield>
-			<marc:subfield code="0">(DE-588)4068878-1</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">ONB</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">10\p</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="g">Naher Osten</marc:subfield>
-			<marc:subfield code="0">(DE-588)4068878-1</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Naher Osten</marc:subfield>
@@ -8662,13 +6132,6 @@
 			<marc:subfield code="8">11\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="1">
-			<marc:subfield code="s">Mosaik</marc:subfield>
-			<marc:subfield code="0">(DE-588)4040311-7</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="1">
 			<marc:subfield code="a">Mosaik</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4040311-7</marc:subfield>
@@ -8677,23 +6140,11 @@
 			<marc:subfield code="8">11\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="2">
-			<marc:subfield code="s">Antike</marc:subfield>
-			<marc:subfield code="0">(DE-588)4068754-5</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="2">
 			<marc:subfield code="a">Antike</marc:subfield>
 			<marc:subfield code="0">(DE-588)4068754-5</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="8">10\p</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="2">
-			<marc:subfield code="a">Geschichte 500 v. Chr.-500</marc:subfield>
-			<marc:subfield code="A">z</marc:subfield>
-			<marc:subfield code="8">3\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
@@ -8701,13 +6152,6 @@
 			<marc:subfield code="8">11\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="0">
-			<marc:subfield code="g">Alter Orient</marc:subfield>
-			<marc:subfield code="0">(DE-588)4001451-4</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="0">
 			<marc:subfield code="a">Alter Orient</marc:subfield>
 			<marc:subfield code="0">(DE-588)4001451-4</marc:subfield>
 			<marc:subfield code="D">g</marc:subfield>
@@ -8715,25 +6159,11 @@
 			<marc:subfield code="8">11\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="1">
-			<marc:subfield code="s">Mosaik</marc:subfield>
-			<marc:subfield code="0">(DE-588)4040311-7</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="1">
 			<marc:subfield code="a">Mosaik</marc:subfield>
 			<marc:subfield code="0">(DE-588)4040311-7</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="8">10\p</marc:subfield>
 			<marc:subfield code="8">11\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="2">
-			<marc:subfield code="s">Geschichte</marc:subfield>
-			<marc:subfield code="0">(DE-588)4020517-4</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-			<marc:subfield code="8">9\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="2">
 			<marc:subfield code="a">Geschichte</marc:subfield>
@@ -8766,11 +6196,6 @@
 			<marc:subfield code="5">(DE-627)</marc:subfield>
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">WUW</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4043774-7</marc:subfield>
@@ -8780,12 +6205,6 @@
 			<marc:subfield code="2">gnd</marc:subfield>
 			<marc:subfield code="8">4\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Kulturkontakt</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4033569-0</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="0">(DE-588)4125698-0</marc:subfield>
@@ -8794,30 +6213,6 @@
 			<marc:subfield code="a">Kultur</marc:subfield>
 			<marc:subfield code="2">gnd</marc:subfield>
 			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="a">Organisationsforschung</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4121431-6</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="a">Internationale Kooperation</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4120503-0</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="3">
-			<marc:subfield code="a">Nationalcharakter</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4137343-1</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="4">
-			<marc:subfield code="a">Ethnopsychologie</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4188478-4</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 	</marc:record>
 
@@ -8880,43 +6275,9 @@
 			<marc:subfield code="8">2\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">TUW</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">DE-101</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-			<marc:subfield code="8">16\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">13\p</marc:subfield>
 			<marc:subfield code="8">15\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4062355-5</marc:subfield>
-			<marc:subfield code="0">(DE-627)106132318</marc:subfield>
-			<marc:subfield code="0">(DE-576)209143797</marc:subfield>
-			<marc:subfield code="a">Variationsrechnung</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-			<marc:subfield code="8">16\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="0">(DE-588)4137272-4</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="a">Extremwert</marc:subfield>
-			<marc:subfield code="5">DE-101</marc:subfield>
-			<marc:subfield code="8">5\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="s">Minimum-Maximum-Prinzip</marc:subfield>
-			<marc:subfield code="0">(DE-588)4170060-0</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">11\p</marc:subfield>
-			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Minimum-Maximum-Prinzip</marc:subfield>
@@ -8925,58 +6286,12 @@
 			<marc:subfield code="8">13\p</marc:subfield>
 			<marc:subfield code="8">15\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Minimaxlösung</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4372620-3</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4138566-4</marc:subfield>
-			<marc:subfield code="0">(DE-627)105641693</marc:subfield>
-			<marc:subfield code="0">(DE-576)209687142</marc:subfield>
-			<marc:subfield code="a">Konvexe Analysis</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-			<marc:subfield code="8">16\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="s">Optimierung</marc:subfield>
-			<marc:subfield code="0">(DE-588)4043664-0</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">11\p</marc:subfield>
-			<marc:subfield code="8">12\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="1">
 			<marc:subfield code="a">Optimierung</marc:subfield>
 			<marc:subfield code="0">(DE-588)4043664-0</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="8">13\p</marc:subfield>
 			<marc:subfield code="8">15\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="1">
-			<marc:subfield code="a">Konvexe Analysis</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4138566-4</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4372620-3</marc:subfield>
-			<marc:subfield code="0">(DE-627)183795520</marc:subfield>
-			<marc:subfield code="0">(DE-576)211748048</marc:subfield>
-			<marc:subfield code="a">Minimaxlösung</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-			<marc:subfield code="8">16\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="s">Algorithmus</marc:subfield>
-			<marc:subfield code="0">(DE-588)4001183-5</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">11\p</marc:subfield>
-			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="2">
 			<marc:subfield code="a">Algorithmus</marc:subfield>
@@ -8985,77 +6300,22 @@
 			<marc:subfield code="8">13\p</marc:subfield>
 			<marc:subfield code="8">15\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="2">
-			<marc:subfield code="a">Variationsrechnung</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4062355-5</marc:subfield>
-			<marc:subfield code="8">6\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">(DE-627)</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-			<marc:subfield code="8">16\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">13\p</marc:subfield>
 			<marc:subfield code="8">15\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4062355-5</marc:subfield>
-			<marc:subfield code="0">(DE-627)106132318</marc:subfield>
-			<marc:subfield code="0">(DE-576)209143797</marc:subfield>
-			<marc:subfield code="a">Variationsrechnung</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-			<marc:subfield code="8">16\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="s">Konvexe Analysis</marc:subfield>
-			<marc:subfield code="0">(DE-588)4138566-4</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">11\p</marc:subfield>
-			<marc:subfield code="8">12\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Konvexe Analysis</marc:subfield>
 			<marc:subfield code="0">(DE-588)4138566-4</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="8">13\p</marc:subfield>
 			<marc:subfield code="8">15\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="1">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4138566-4</marc:subfield>
-			<marc:subfield code="0">(DE-627)105641693</marc:subfield>
-			<marc:subfield code="0">(DE-576)209687142</marc:subfield>
-			<marc:subfield code="a">Konvexe Analysis</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-			<marc:subfield code="8">16\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="2">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4372620-3</marc:subfield>
-			<marc:subfield code="0">(DE-627)183795520</marc:subfield>
-			<marc:subfield code="0">(DE-576)211748048</marc:subfield>
-			<marc:subfield code="a">Minimaxlösung</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">14\p</marc:subfield>
-			<marc:subfield code="8">16\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">13\p</marc:subfield>
 			<marc:subfield code="8">15\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="0">
-			<marc:subfield code="s">Extremalproblem</marc:subfield>
-			<marc:subfield code="0">(DE-588)4439315-5</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">11\p</marc:subfield>
-			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="0">
 			<marc:subfield code="a">Extremalproblem</marc:subfield>
@@ -9065,25 +6325,11 @@
 			<marc:subfield code="8">15\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="1">
-			<marc:subfield code="s">Konvexe Analysis</marc:subfield>
-			<marc:subfield code="0">(DE-588)4138566-4</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">11\p</marc:subfield>
-			<marc:subfield code="8">12\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="1">
 			<marc:subfield code="a">Konvexe Analysis</marc:subfield>
 			<marc:subfield code="0">(DE-588)4138566-4</marc:subfield>
 			<marc:subfield code="D">s</marc:subfield>
 			<marc:subfield code="8">13\p</marc:subfield>
 			<marc:subfield code="8">15\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="2">
-			<marc:subfield code="s">Variationsrechnung</marc:subfield>
-			<marc:subfield code="0">(DE-588)4062355-5</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">11\p</marc:subfield>
-			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="2">
 			<marc:subfield code="a">Variationsrechnung</marc:subfield>
@@ -9145,36 +6391,9 @@
 			<marc:subfield code="8">15\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">AT-OBV</marc:subfield>
-			<marc:subfield code="5">TUW</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
-			<marc:subfield code="5">DE-101</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-			<marc:subfield code="8">15\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">13\p</marc:subfield>
 			<marc:subfield code="8">14\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4242167-6</marc:subfield>
-			<marc:subfield code="0">(DE-627)104635762</marc:subfield>
-			<marc:subfield code="0">(DE-576)210443928</marc:subfield>
-			<marc:subfield code="a">Reihenfolgeproblem</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-			<marc:subfield code="8">15\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="s">Sequentialanalyse</marc:subfield>
-			<marc:subfield code="0">(DE-588)4128461-6</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">11\p</marc:subfield>
-			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="0" ind2="0">
 			<marc:subfield code="a">Sequentialanalyse</marc:subfield>
@@ -9183,45 +6402,10 @@
 			<marc:subfield code="8">13\p</marc:subfield>
 			<marc:subfield code="8">14\p</marc:subfield>
 		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="a">Reihenfolgeproblem</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4242167-6</marc:subfield>
-			<marc:subfield code="8">4\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="0" ind2="0">
-			<marc:subfield code="0">(DE-588)4261341-3</marc:subfield>
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="a">Reihenfolgeplanung</marc:subfield>
-			<marc:subfield code="5">DE-101</marc:subfield>
-			<marc:subfield code="8">2\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2=" ">
-			<marc:subfield code="5">(DE-627)</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-			<marc:subfield code="8">15\p</marc:subfield>
-		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">13\p</marc:subfield>
 			<marc:subfield code="8">14\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4128461-6</marc:subfield>
-			<marc:subfield code="0">(DE-627)105717177</marc:subfield>
-			<marc:subfield code="0">(DE-576)209602287</marc:subfield>
-			<marc:subfield code="a">Sequentialanalyse</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-			<marc:subfield code="8">15\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="1" ind2="0">
-			<marc:subfield code="s">Ablaufplanung</marc:subfield>
-			<marc:subfield code="0">(DE-588)4122751-7</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">11\p</marc:subfield>
-			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="1" ind2="0">
 			<marc:subfield code="a">Ablaufplanung</marc:subfield>
@@ -9231,31 +6415,9 @@
 			<marc:subfield code="8">14\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2=" ">
-			<marc:subfield code="5">(DE-627)</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-			<marc:subfield code="8">15\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2=" ">
 			<marc:subfield code="5">DE-604</marc:subfield>
 			<marc:subfield code="8">13\p</marc:subfield>
 			<marc:subfield code="8">14\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="0">
-			<marc:subfield code="D">s</marc:subfield>
-			<marc:subfield code="0">(DE-588)4122751-7</marc:subfield>
-			<marc:subfield code="0">(DE-627)104501030</marc:subfield>
-			<marc:subfield code="0">(DE-576)209553936</marc:subfield>
-			<marc:subfield code="a">Ablaufplanung</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">8\p</marc:subfield>
-			<marc:subfield code="8">15\p</marc:subfield>
-		</marc:datafield>
-		<marc:datafield tag="689" ind1="2" ind2="0">
-			<marc:subfield code="s">Warteschlange</marc:subfield>
-			<marc:subfield code="0">(DE-588)4189150-8</marc:subfield>
-			<marc:subfield code="2">gnd</marc:subfield>
-			<marc:subfield code="8">11\p</marc:subfield>
-			<marc:subfield code="8">12\p</marc:subfield>
 		</marc:datafield>
 		<marc:datafield tag="689" ind1="2" ind2="0">
 			<marc:subfield code="a">Warteschlange</marc:subfield>
