@@ -1,3 +1,34 @@
+do put_macro("schlagwortfolgeIndex")
+	do list(path:"689$[Ind1]$[Ind2]","var":"$689")
+		do list(path:"$689.8","var":"$8")
+			if in("@dnbSWFelation","$8")
+				copy_field("$689", "DNB$[Ind1]$[Ind2]")
+			elsif in("@bvbSWFRelation","$8")
+				copy_field("$689", "BVB$[Ind1]$[Ind2]")
+			elsif in("@k10PlusSWFRelation","$8")
+				copy_field("$689", "K10$[Ind1]$[Ind2]")
+			elsif in("@obvSWFRelation","$8")
+				copy_field("$689", "OBV$[Ind1]$[Ind2]")
+			end
+		end
+	end
+end
+
+
+do put_macro("schlagwortfolge")
+	call_macro("schlagwortfolgeIndex", Ind1: "$[Ind_1]", Ind2: " ")
+	call_macro("schlagwortfolgeIndex", Ind1: "$[Ind_1]", Ind2: "0")
+	call_macro("schlagwortfolgeIndex", Ind1: "$[Ind_1]", Ind2: "1")
+	call_macro("schlagwortfolgeIndex", Ind1: "$[Ind_1]", Ind2: "2")
+	call_macro("schlagwortfolgeIndex", Ind1: "$[Ind_1]", Ind2: "3")
+	call_macro("schlagwortfolgeIndex", Ind1: "$[Ind_1]", Ind2: "4")
+	call_macro("schlagwortfolgeIndex", Ind1: "$[Ind_1]", Ind2: "5")
+	call_macro("schlagwortfolgeIndex", Ind1: "$[Ind_1]", Ind2: "6")
+	call_macro("schlagwortfolgeIndex", Ind1: "$[Ind_1]", Ind2: "7")
+	call_macro("schlagwortfolgeIndex", Ind1: "$[Ind_1]", Ind2: "8")
+	call_macro("schlagwortfolgeIndex", Ind1: "$[Ind_1]", Ind2: "9")
+end
+
 do list(path: "035??", "var":"$i")
 	if any_contain("$i.a","(DE-605)")
 		add_field("hbzRecord","true")
@@ -7,7 +38,62 @@ do list(path: "035??", "var":"$i")
 			end
 		end
 	end
+	unless exists("dnbRecordRelation") # only use the first match
+		if any_contain("$i.a","(DE-101)")
+			copy_field("$i.8","dnbRecordRelation")
+		end
+	end
+	unless exists("bvbRecordRelation") # only use the first match
+		if any_contain("$i.a","(DE-604)")
+			copy_field("$i.8","bvbRecordRelation")
+		end
+	end
+	unless exists("k10PlusRecordRelation") # only use the first match
+		if any_contain("$i.a","(DE-627)")
+			copy_field("$i.8","k10PlusRecordRelation")
+		end
+	end
+	unless exists("obvRecordRelation") # only use the first match
+		if any_contain("$i.a","(AT-OBV)")
+			copy_field("$i.8","obvRecordRelation")
+		end
+	end
 end
+
+# This is currently in lexicallic order as shown in the aggregation data. Maybe we should 
+do list(path:"6890 ","var":"$i")
+	do list(path:"$i.8","var":"$8")
+		if any_contain("$i.5","DE-101")
+			if in("$8","dnbRecordRelation")
+				copy_field("$8","@dnbSWFelation")
+			end
+		elsif any_contain("$i.5","DE-604")
+			if in("$8","bvbRecordRelation")
+				copy_field("$8","@bvbSWFRelation")
+			end
+		elsif any_contain("$i.5","DE-627")
+			if in("$8","k10PlusRecordRelation")
+				copy_field("$8","@k10PlusSWFRelation")
+			end
+		elsif any_contain("$i.5","AT-OBV")
+			if in("$8","obvRecordRelation")
+				copy_field("$8","@obvSWFRelation")
+			end
+		end
+	end
+end
+
+call_macro("schlagwortfolge", Ind_1: " ")
+call_macro("schlagwortfolge", Ind_1: "0")
+call_macro("schlagwortfolge", Ind_1: "1")
+call_macro("schlagwortfolge", Ind_1: "2")
+call_macro("schlagwortfolge", Ind_1: "3")
+call_macro("schlagwortfolge", Ind_1: "4")
+call_macro("schlagwortfolge", Ind_1: "5")
+call_macro("schlagwortfolge", Ind_1: "6")
+call_macro("schlagwortfolge", Ind_1: "7")
+call_macro("schlagwortfolge", Ind_1: "8")
+call_macro("schlagwortfolge", Ind_1: "9")
 
 unless exists("hbzRecord")
 	reject()
@@ -24,5 +110,5 @@ end
 remove_field("hbzRecord")
 
 # Only keep 001, 035 and 689
-retain("001","689??","035??")
+retain("001","689??","035??","X89??", "DNB??", "K10??", "BVB??","OBV??")
 vacuum()
