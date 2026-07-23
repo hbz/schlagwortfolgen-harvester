@@ -136,6 +136,9 @@ elsif exists ("OBV??")
 	call_macro("schlagwortfolgenKeeper",SWF:"OBV")
 end
 
+do list(path:"035??|689??","var":"$i")
+	remove_field("$i.8")
+end
 
 
 unless exists("hbzRecord")
