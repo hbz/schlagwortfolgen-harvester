@@ -151,5 +151,5 @@ end
 remove_field("hbzRecord")
 
 # Only keep 001, 035 and 689
-retain("001","689??","035??","X89??", "DNB??", "K10??", "BVB??","OBV??")
+retain("001","689??","035??")
 vacuum()
