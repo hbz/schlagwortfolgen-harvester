@@ -2,7 +2,7 @@ default VERSION="prod/";
 default CATALOGUE="dnb";
 default SYSTEM_ISIL="DE-101";
 default SRU_HARVEST=FLUX_DIR + VERSION + "/harvest/" + CATALOGUE + "-sru-records.xml.gz";
-default OUTFILE=FLUX_DIR + VERSION + "swk-" + CATALOGUE + ".xml.gz";
+default OUTFILE=FLUX_DIR + VERSION + "swk-" + CATALOGUE + ".xml";
 default LOOKUP_FILE = FLUX_DIR + VERSION + "/maps/" + "almaMmsId2" + CATALOGUE + "Id.tsv";
 
 
