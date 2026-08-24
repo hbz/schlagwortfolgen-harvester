@@ -16,6 +16,7 @@ SRU_HARVEST
 | open-file
 | as-lines
 | filter-strings("ERROR:",passmatches="false")
+| filter-strings("<hr>",passmatches="false")
 | write(SRU_HARVEST + "_cleaned" )
 ;
 
