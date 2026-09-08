@@ -192,10 +192,14 @@ unless exists("hbzRecord")
 	reject()
 end
 
-remove_field("hbzId")
 
 # Remove all hbz records with existing hbz SWF
 if exists("hbzWithSWK")
+	reject()
+end
+
+# Remove all hbz records with multiple hbzIds
+if exists("hbzId.2")
 	reject()
 end
 
