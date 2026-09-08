@@ -20,7 +20,7 @@ LOBID_HARVEST
 | fix("retain('$[CATALOGUE]Id')",*)
 | literal-to-object
 | template(SRU_LINK_PART_1 + "${o}" + SRU_LINK_PART_2)
-| catch-object-exception(logprefix=CATALOGUE, logstacktrace="true")
+| catch-object-exception(logprefix=CATALOGUE, logstacktrace="false")
 | open-http(header="User-Agent: hbz/" + CATALOGUE + "-schlagwortfolgen-harvester\nAuthorization: Basic " + AUTH, accept="application/xml")
 | sleep(sleepTime=SLEEP_TIME, timeUnit="MILLISECONDS")
 | as-records

@@ -14,9 +14,14 @@ default LOOKUP_FILE = FLUX_DIR + VERSION + "/maps/" + "almaMmsId2" + CATALOGUE +
 
 SRU_HARVEST
 | open-file
-| as-records
-| match(pattern="ERROR: (?:.|\n)*?</body></html>",replacement="")
-| read-string
+| as-lines
+| filter-strings("ERROR:",passmatches="false")
+| filter-strings("<hr>",passmatches="false")
+| write(SRU_HARVEST + "_cleaned" )
+;
+
+SRU_HARVEST + "_cleaned"
+| open-file
 | decode-xml
 | handle-marcxml
 | batch-log(CATALOGUE + ": Total SRU proper records: ${totalRecords}", batchSize="10")
