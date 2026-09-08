@@ -1,6 +1,6 @@
 default VERSION="test/";
 default CG_AGGREGATION=FLUX_DIR + VERSION + "/harvest/cgTest.xml";
-default CG_SWK_OUTPUT=FLUX_DIR + VERSION + "cgTestOutput.xml";
+default CG_SWK_OUTPUT=FLUX_DIR + VERSION + "swk-cg.xml";
 default TIMESTAMP = "0";
 
 CG_AGGREGATION
