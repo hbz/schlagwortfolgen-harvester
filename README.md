@@ -5,7 +5,15 @@ Provides two mechanism one via SRU and one via Culturegraph Manifestation dumps.
 
 Culturegraph Manifestation Dumps:
 
-Checks for records from hbz without hbz-Schlagwortfolgen 689 in Culturegraph Manifestation Dump. Selects one of the following Schlwagwortfolgen-packages by source DNB, BVB, K10Plus or OBV as long as `035` and a matching `689 Ind5` is provided. Creates a simple reduced marcxml with only `001`, `035`, `689`, `883`.
+Checks for records with hbz-ID in `035` AND without Schlagwortfolgen `689`that are linked via `$5` to hbz in Culturegraph Manifestation Dump.
+
+Checks if these have Schlagwortfolgen from other providers. Currently we filter out all records with multiple hbz IDs. (TODO: How to handle multiple hbz-IDs.)
+
+Selects one of the following Schlwagwortfolgen-packages by source DNB, BVB, K10Plus or OBV as long as `035` and a matching `689 $5` is provided. 
+
+Delete all old links in `$8`.
+
+Creates a simple reduced marcxml with only `001`, `035`, `689`, `883`.
 
 SRU: 
 
