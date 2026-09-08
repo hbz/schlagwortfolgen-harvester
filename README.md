@@ -1,11 +1,11 @@
 # schlagwortfolgen-harvester
 Scripts that fetches the subjects 6XX from dnb and other union catalogue records for NZ records that are missing subjects.
 
-Provides two mechanism one via SRU and one via Culturegraph Manifestation dumps.
+Provides two mechanism one via SRU and one via Culturegraph Manifestation Aggregation dumps.
 
-Culturegraph Manifestation Dumps:
+Culturegraph Manifestation Aggregation Dumps:
 
-Checks for records with hbz-ID in `035` AND without Schlagwortfolgen `689`that are linked via `$5` to hbz in Culturegraph Manifestation Dump.
+Checks for records with hbz-ID in `035` AND without Schlagwortfolgen `689`that are linked via `$5` to hbz in Culturegraph Manifestation Aggregation Dump.
 
 Checks if these have Schlagwortfolgen from other providers. Currently we filter out all records with multiple hbz IDs. (TODO: How to handle multiple hbz-IDs.)
 
