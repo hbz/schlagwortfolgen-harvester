@@ -1,0 +1,21 @@
+# Check if aggregated record has hbz Alma MMS ID
+
+do list(path: "035??", "var":"$i")
+	if any_contain("$i.a","(DE-605)")
+		add_field("hbzRecord","true")
+		copy_field("$i.a","almaMmsId.$append")
+	end
+end
+
+replace_all("almaMmsId.*","\\(DE-605\\)","")
+
+unless exists("almaMmsId.2")
+	reject()
+end
+
+join_field("almaMmsId", "; ")
+
+retain("almaMmsId")
+
+
+vacuum()
