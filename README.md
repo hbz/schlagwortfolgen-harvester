@@ -1,7 +1,23 @@
 # schlagwortfolgen-harvester
-Script that fetches the subjects 6XX from dnb and other union catalogue records for NZ records that are missing subjects.
+Scripts that fetches the subjects 6XX from dnb and other union catalogue records for NZ records that are missing subjects.
 
-By default the script currently searches for all records with dnbId, from the NZ and without zdbId and without complexSubjects in lobid-resources. Then checks DNB for the marcxml and creates reduced marcxml with only `001`. `035` and `689`.
+Provides two mechanism one via SRU and one via Culturegraph Manifestation Aggregation dumps.
+
+Culturegraph Manifestation Aggregation Dumps:
+
+Checks for records with hbz-ID in `035` AND without Schlagwortfolgen `689`that are linked via `$5` to hbz in Culturegraph Manifestation Aggregation Dump.
+
+Checks if these have Schlagwortfolgen from other providers. Currently we filter out all records with multiple hbz IDs. (TODO: How to handle multiple hbz-IDs.)
+
+Selects one of the following Schlwagwortfolgen-packages by source DNB, BVB, K10Plus or OBV as long as `035` and a matching `689 $5` is provided. 
+
+Delete all old links in `$8`.
+
+Creates a simple reduced marcxml with only `001`, `035`, `689`, `883`.
+
+SRU: 
+
+By default the sru scripts currently searches for all records with dnbId or other union catalogue ids, from the hbz ALMA NZ and without zdbId and without complexSubjects in lobid-resources. Then checks DNB for the marcxml and creates reduced marcxml with only `001`, `035` and `689`.
 
 With the help of variables the workflow that can be provided when running the metafacture workflow the workflow can be configured that it harvests records from other union catalogues.
 
@@ -11,10 +27,27 @@ To be determined if other subjects should be kept.
 
 Metafacture 8.0.1 or higher
 
-## Run tests
+## Culturegrap Harvesting
+
+### Run tests
+
+```bash
+path/to/metafacture/flux.sh cg_test.flux
+```
+
+### Run full dump
+
+```bash
+path/to/metafacture/flux.sh cg_prod.flux
+```
+
+## SRU Harvesting
+
+### Run tests
 
 > [!IMPORTANT]
 > The harvesting processes are outcommented in the test, if you want to update a certain workflow, you have to undo the outcommenting and run a single workflow.
+
 
 To run all test workflows at once:
 
@@ -22,7 +55,7 @@ To run all test workflows at once:
 bash schlagwortfolgen_harvesting_test.sh 'path/to/metafacture/flux.sh'
 ```
 
-### DNB
+#### DNB
 
 ```bash
 echo "DNB: Lobid Harvesting" && date
@@ -42,7 +75,7 @@ path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_test.flux
 
 In order to upate or adjust the test data basis undo the outcomment in the test workflow.
 
-### Other Verbundkatalog
+#### Other Verbundkatalog
 
 ```bash
 echo "...: Lobid Harvesting" && date
@@ -58,11 +91,11 @@ echo "...: Broken Id Extracting" && date
 path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_test.flux CATALOGUE="..." 
 ```
 
-#### hebis
+##### hebis
 
 has no SWF
 
-#### bvb
+##### bvb
 
 ```bash
 echo "BVB: Lobid Harvesting" && date
@@ -78,7 +111,7 @@ echo "BVB: Broken Id Extracting" && date
 path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_test.flux CATALOGUE="bvb" 
 ```
 
-#### bzs
+##### bzs
 
 via k10Plus
 
@@ -97,7 +130,7 @@ path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_test.flux CATALOGUE="
 
 ```
 
-#### gbv
+##### gbv
 
 via k10Plus
 
@@ -116,7 +149,7 @@ path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_test.flux CATALOGUE="
 
 ```
 
-#### k10Plus
+##### k10Plus
 
 ```bash
 echo "K10Plus: Lobid Harvesting" && date
@@ -133,7 +166,7 @@ path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_test.flux CATALOGUE="
 
 ```
 
-#### kobv
+##### kobv
 
 ```bash
 echo "KOBV: Lobid Harvesting" && date
@@ -150,7 +183,7 @@ path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_test.flux CATALOGUE="
 
 ```
 
-#### obv
+##### obv
 
 ```bash
 echo "OBV: Lobid Harvesting" && date
@@ -169,7 +202,8 @@ path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_test.flux  CATALOGUE=
 
 for harvesting needs auth credential with the variable `AUTH= "[BASE64 of User:Password]"`
 
-## Create prod dumps
+
+### Create prod dumps
 
 Productive script for monthly harvested of DNB, BVB and K10Plus. To run all these prod workflows at once:
 
@@ -177,7 +211,8 @@ Productive script for monthly harvested of DNB, BVB and K10Plus. To run all thes
 bash schlagwortfolgen_harvesting_prod.sh 'path/to/metafacture/flux.sh'
 ```
 
-### DNB
+
+#### DNB
 
 ```bash
 echo "DNB: Lobid Harvesting" && date
@@ -195,7 +230,7 @@ path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_prod.flux
 
 (Is the default setting of the workflow.)
 
-### Other Verbundkatalog
+#### Other Verbundkatalog
 
 ```bash
 echo "...: Lobid Harvesting" && date
@@ -211,7 +246,7 @@ echo "...: Broken Id Extracting" && date
 path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_prod.flux CATALOGUE="..." 
 ```
 
-#### bvb
+##### bvb
 
 ```bash
 echo "BVB: Lobid Harvesting" && date
@@ -227,7 +262,7 @@ echo "BVB: Broken Id Extracting" && date
 path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_prod.flux CATALOGUE="bvb" 
 ```
 
-#### k10Plus
+##### k10Plus
 
 ```bash
 echo "K10Plus: Lobid Harvesting" && date
@@ -265,7 +300,7 @@ echo "BSZ: Broken Id Extracting" && date
 path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_prod.flux CATALOGUE="bsz" 
 ```
 
-#### gbv
+##### gbv
 
 via k10Plus
 
@@ -283,7 +318,7 @@ echo "GBV: Broken Id Extracting" && date
 path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_prod.flux CATALOGUE="gbv" 
 ```
 
-#### kobv
+##### kobv
 
 ```bash
 echo "KOBV: Lobid Harvesting" && date
@@ -299,7 +334,7 @@ echo "KOBV: Broken Id Extracting" && date
 path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_prod.flux CATALOGUE="kobv" 
 ```
 
-#### obv
+##### obv
 
 ```bash
 echo "OBV: Lobid Harvesting" && date

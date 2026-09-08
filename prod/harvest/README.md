@@ -1,0 +1,1 @@
+For Culturegraph you need to download the Manifestation Aggregation File here!
