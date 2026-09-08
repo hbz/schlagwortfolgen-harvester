@@ -64,6 +64,7 @@ end
 do list(path: "035??", "var":"$i")
 	if any_contain("$i.a","(DE-605)")
 		add_field("hbzRecord","true")
+		copy_field("$i.a","hbzId")
 		do list(path:"689??","var":"$x")
 			if in ("$i.8","$x.8")
 				add_field("hbzWithSWK","true")
@@ -180,11 +181,8 @@ do list(path:"689??","var":"$i")
 end
 
 # Set hbz almaMmsId as new 001
-do list(path:"035??","var":"$i")
-	if any_contain("$i.a","(DE-605)")
-		copy_field("$i.a","001")
-	end
-end
+
+move_field("hbzId","001")
 
 replace_all("001","\\(DE-605\\)","")
 
