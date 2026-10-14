@@ -17,6 +17,10 @@ SRU_HARVEST
 | as-lines
 | filter-strings("ERROR:",passmatches="false")
 | filter-strings("<hr>",passmatches="false")
+| filter-strings("No server is available to handle this request.",passmatches="false")
+| filter-strings("</body></html>",passmatches="false")
+| filter-strings("<html><head>",passmatches="false")
+| filter-strings("</head><body>",passmatches="false")
 | write(SRU_HARVEST + "_cleaned" )
 ;
 
