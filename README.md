@@ -178,6 +178,9 @@ for harvesting needs auth credential with the variable `AUTH= "[BASE64 of User:P
 Productive script for monthly harvested of DNB, BVB and K10Plus. In contrast to the testing the productive workflows should be started in separate commands:
 
 ```bash
+# Set variable Metafacture_Runner to your metafacture runner flux.sh
+Metafacture_Runner='path/to/metafacture/flux.sh'
+
 # DNB
 
 bash schlagwortfolgen_harvesting_single_prod.sh $Metafacture_Runner "dnb" "https://services.dnb.de/sru/dnb?version=1.1&operation=searchRetrieve&query=dnb.idn=" "&recordSchema=MARC21-xml" ".*dnb.idn=(.+)" "DE-101"
