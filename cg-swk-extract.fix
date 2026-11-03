@@ -17,7 +17,6 @@ do once("macros")
 
 
 	do put_macro("schlagwortfolgen") # Iterates over each 689?? to correctly sort with schlagwortfolgenSorter
-		call_macro("schlagwortfolgenSorter", Ind1: "$[Ind1]", Ind2: " ")
 		call_macro("schlagwortfolgenSorter", Ind1: "$[Ind1]", Ind2: "0")
 		call_macro("schlagwortfolgenSorter", Ind1: "$[Ind1]", Ind2: "1")
 		call_macro("schlagwortfolgenSorter", Ind1: "$[Ind1]", Ind2: "2")
@@ -28,10 +27,10 @@ do once("macros")
 		call_macro("schlagwortfolgenSorter", Ind1: "$[Ind1]", Ind2: "7")
 		call_macro("schlagwortfolgenSorter", Ind1: "$[Ind1]", Ind2: "8")
 		call_macro("schlagwortfolgenSorter", Ind1: "$[Ind1]", Ind2: "9")
+		call_macro("schlagwortfolgenSorter", Ind1: "$[Ind1]", Ind2: " ")
 	end
 
 	do put_macro("schlagwortfolgenMove") # copies the defiend catalogue SWF to the correct position with the correct indicators in the new 689 field
-		copy_field("$[field]$[Ind1] ", "689$[Ind1] ")
 		copy_field("$[field]$[Ind1]0", "689$[Ind1]0")
 		copy_field("$[field]$[Ind1]1", "689$[Ind1]1")
 		copy_field("$[field]$[Ind1]2", "689$[Ind1]2")
@@ -42,10 +41,10 @@ do once("macros")
 		copy_field("$[field]$[Ind1]7", "689$[Ind1]7")
 		copy_field("$[field]$[Ind1]8", "689$[Ind1]8")
 		copy_field("$[field]$[Ind1]9", "689$[Ind1]9")
+		copy_field("$[field]$[Ind1] ", "689$[Ind1] ")
 	end
 
 	do put_macro("schlagwortfolgenKeeper") # Iterates over the defined catalouge SWF to correctly keep it with schlagwortfolgenMove
-		call_macro("schlagwortfolgenMove", field:"$[SWF]", Ind1: " ")
 		call_macro("schlagwortfolgenMove", field:"$[SWF]", Ind1: "0")
 		call_macro("schlagwortfolgenMove", field:"$[SWF]", Ind1: "1")
 		call_macro("schlagwortfolgenMove", field:"$[SWF]", Ind1: "2")
@@ -56,6 +55,7 @@ do once("macros")
 		call_macro("schlagwortfolgenMove", field:"$[SWF]", Ind1: "7")
 		call_macro("schlagwortfolgenMove", field:"$[SWF]", Ind1: "8")
 		call_macro("schlagwortfolgenMove", field:"$[SWF]", Ind1: "9")
+		call_macro("schlagwortfolgenMove", field:"$[SWF]", Ind1: " ")
 	end
 end
 
