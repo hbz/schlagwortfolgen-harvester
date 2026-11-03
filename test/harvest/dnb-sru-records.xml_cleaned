@@ -8661,12 +8661,9 @@
       <subfield code="x">Australien</subfield>
     </datafield>
   </record></recordData><recordPosition>1</recordPosition></record></records><echoedSearchRetrieveRequest><version>1.1</version><query>dnb.idn=1323985972</query><xQuery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/><recordSchema>MARC21-xml</recordSchema></echoedSearchRetrieveRequest></searchRetrieveResponse>
-<html><head>
 <title>429 Too Many Requests</title>
-</head><body>
 <h1>Too Many Requests</h1>
 <p>The user has sent too many requests
 in a given amount of time.</p>
 <address>Apache Server at services.dnb.de Port 443</address>
-</body></html>
 </harvest>
