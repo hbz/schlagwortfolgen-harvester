@@ -25,7 +25,7 @@ bash schlagwortfolgen_harvesting_single_test.sh $Metafacture_Runner "k10Plus" "h
 
 # KOBV
 
-bash schlagwortfolgen_harvesting_single_test.sh $Metafacture_Runner "kobv" "https://sru.kobv.de/k2?version=1.1&operation=searchRetrieve&query=rec.id%3D" "&startRecord=1&maximumRecords=10&recordSchema=marcxml&recordSchema=marcxml" ".*rec.id=(.+)" "DE-602" "https://lobid.org/resources/search?q=_exists_%3AkobvId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+Garten"
+bash schlagwortfolgen_harvesting_single_test.sh $Metafacture_Runner "kobv" "https://sru.kobv.de/k2?version=1.1&operation=searchRetrieve&query=rec.id%3D" "&startRecord=1&maximumRecords=100&recordSchema=marcxml&recordSchema=marcxml" ".*rec.id=(.+)" "DE-602" "https://lobid.org/resources/search?q=_exists_%3AkobvId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+Garten"
 
 # OBV
 
