@@ -9,18 +9,25 @@ To be determined if other subjects should be kept.
 
 ## Requirements
 
-Metafacture 8.0.1 or higher
+[Metafacture 8.0.1 Runner](https://github.com/metafacture/metafacture-core/releases/tag/metafacture-core-8.0.1) or higher: For Installation Manual see [Flux User Guide](https://metafacture.github.io/metafacture-documentation/docs/flux/Flux-User-Guide.html).
+
+> [!IMPORTANT]
+> In the code examples we use `'path/to/metafacture/flux.sh'` as placeholder for the path to your metafacture runner installation.
 
 ## Run tests
 
 > [!IMPORTANT]
 > The harvesting processes are outcommented in the test, if you want to update a certain workflow, you have to undo the outcommenting and run a single workflow.
+>
+> If anything is changed the all test workflows should be executed and the results should be commited with the changes in the script.
 
 To run all test workflows at once:
 
 ```bash
 bash schlagwortfolgen_harvesting_test.sh 'path/to/metafacture/flux.sh'
 ```
+
+This scrip runs the the additional script `schlagwortfolgen_harvesting_single_test.sh` for all data providers. This script combines the relevant flux commands that are described for the single provider in the following:
 
 ### DNB
 
@@ -171,10 +178,23 @@ for harvesting needs auth credential with the variable `AUTH= "[BASE64 of User:P
 
 ## Create prod dumps
 
-Productive script for monthly harvested of DNB, BVB and K10Plus. To run all these prod workflows at once:
+Productive script for monthly harvested of DNB, BVB and K10Plus. In contrast to the testing the productive workflows should be started in separate commands:
 
 ```bash
-bash schlagwortfolgen_harvesting_prod.sh 'path/to/metafacture/flux.sh'
+# Set variable Metafacture_Runner to your metafacture runner flux.sh
+Metafacture_Runner='path/to/metafacture/flux.sh'
+
+# DNB
+
+bash schlagwortfolgen_harvesting_single_prod.sh $Metafacture_Runner "dnb" "https://services.dnb.de/sru/dnb?version=1.1&operation=searchRetrieve&query=dnb.idn=" "&recordSchema=MARC21-xml" ".*dnb.idn=(.+)" "DE-101"
+
+# BVB
+
+bash schlagwortfolgen_harvesting_single_prod.sh $Metafacture_Runner "bvb" "http://bvbr.bib-bvb.de:5661/bvb01sru?version=1.1&recordSchema=marcxml&operation=searchRetrieve&query=marcxml.idn=" "&maximumRecords=1" ".*marcxml.idn=(.+)" "DE-604"
+
+# K10Plus
+
+bash schlagwortfolgen_harvesting_single_prod.sh $Metafacture_Runner "k10Plus" "https://sru.k10plus.de/opac-de-627?version=1.1&operation=searchRetrieve&query=pica.ppn=" "&maximumRecords=1&recordSchema=marcxml" ".*pica.ppn=(.+)" "DE-627"
 ```
 
 ### DNB
