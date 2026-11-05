@@ -16,6 +16,3 @@ $Metafacture_Runner -f harvestRecordsFromSru_prod.flux -v CATALOGUE=$Catalogue -
 
 echo $Catalogue": SWF Exctracting" && date
 $Metafacture_Runner -f extractRecordsWithSWF_prod.flux -v CATALOGUE=$Catalogue -v SYSTEM_ISIL=$System_Isil
-
-echo $Catalogue": Broken Id Extracting" && date 
-$Metafacture_Runner -f extractBrokenUnionCatalogueIds_prod.flux -v CATALOGUE=$Catalogue
