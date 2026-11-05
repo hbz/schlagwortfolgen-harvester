@@ -17,7 +17,15 @@ LOBID_HARVEST
 | open-file
 | as-lines
 | decode-json
-| fix("retain('$[CATALOGUE]Id')",*)
+// Combine multiple records to reduce number of requestes
+| merge-batch-stream(batchSize="50")
+// Join catalogue ids to request multiple ids at once with OR operator
+| fix("retain('$[CATALOGUE]Id')
+	join_field('$[CATALOGUE]Id','+OR+')
+	prepend('$[CATALOGUE]Id','(')
+	append('$[CATALOGUE]Id',')')
+	",*
+)
 | literal-to-object
 | template(SRU_LINK_PART_1 + "${o}" + SRU_LINK_PART_2)
 | catch-object-exception(logprefix=CATALOGUE, logstacktrace="false")
@@ -26,6 +34,6 @@ LOBID_HARVEST
 | as-records
 // The following two steps create a single xml file from the multiple incoming sru requests, saved into a harvest tag
 | match(pattern="<\\?xml version=.*?>", replacement="")
-| object-batch-log(CATALOGUE + ": SRU Queries: ${totalRecords}", batchSize="1000")
+| object-batch-log(CATALOGUE + ": SRU Queries: ${totalRecords}", batchSize="100")
 | write(SRU_HARVEST, header="<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<harvest>", footer="</harvest>", compression="gzip")
 ;

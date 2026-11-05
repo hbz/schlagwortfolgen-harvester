@@ -9,13 +9,10 @@ System_Isil=$6
 
 echo "Start" $Catalogue "Schlagwortfolgen Harvesting" && date
 echo $Catalogue": Lobid Harvesting" && date
-$Metafacture_Runner harvestRecordsWithoutSWFFromLobid_prod.flux CATALOGUE=$Catalogue
+$Metafacture_Runner -f harvestRecordsWithoutSWFFromLobid_prod.flux -v CATALOGUE=$Catalogue
 
 echo $Catalogue": SRU Harvesting" && date
-$Metafacture_Runner harvestRecordsFromSru_prod.flux CATALOGUE=$Catalogue SRU_LINK_PART_1=$Sru_Link_Part_1 SRU_LINK_PART_2=$Sru_Link_Part_2 SRU_QUERY_PATTERN=$Sru_Query_Pattern
+$Metafacture_Runner -f harvestRecordsFromSru_prod.flux -v CATALOGUE=$Catalogue -v SRU_LINK_PART_1=$Sru_Link_Part_1 -v SRU_LINK_PART_2=$Sru_Link_Part_2 -v SRU_QUERY_PATTERN=$Sru_Query_Pattern
 
 echo $Catalogue": SWF Exctracting" && date
-$Metafacture_Runner extractRecordsWithSWF_prod.flux CATALOGUE=$Catalogue SYSTEM_ISIL=$System_Isil
-
-echo $Catalogue": Broken Id Extracting" && date 
-$Metafacture_Runner extractBrokenUnionCatalogueIds_prod.flux CATALOGUE=$Catalogue
+$Metafacture_Runner -f extractRecordsWithSWF_prod.flux -v CATALOGUE=$Catalogue -v SYSTEM_ISIL=$System_Isil
