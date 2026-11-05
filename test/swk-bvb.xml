@@ -15,6 +15,28 @@
 		<marc:datafield tag="689" ind1="0" ind2=" ">
 			<marc:subfield code="5">(DE-627)</marc:subfield>
 		</marc:datafield>
+		<marc:datafield tag="689" ind1="1" ind2="0">
+			<marc:subfield code="a">Nutzpflanzen</marc:subfield>
+			<marc:subfield code="0">(DE-588)4042838-2</marc:subfield>
+			<marc:subfield code="D">s</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="1" ind2="1">
+			<marc:subfield code="a">Essbare Pflanzen</marc:subfield>
+			<marc:subfield code="0">(DE-588)4153044-5</marc:subfield>
+			<marc:subfield code="D">s</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="1" ind2="2">
+			<marc:subfield code="a">Kultur</marc:subfield>
+			<marc:subfield code="0">(DE-588)4125698-0</marc:subfield>
+			<marc:subfield code="D">s</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="1" ind2="3">
+			<marc:subfield code="a">Geschichte</marc:subfield>
+			<marc:subfield code="A">z</marc:subfield>
+		</marc:datafield>
+		<marc:datafield tag="689" ind1="1" ind2=" ">
+			<marc:subfield code="5">DE-604</marc:subfield>
+		</marc:datafield>
 		<marc:datafield tag="035" ind1=" " ind2=" ">
 			<marc:subfield code="a">(DE-599)DNB1365695247</marc:subfield>
 		</marc:datafield>
