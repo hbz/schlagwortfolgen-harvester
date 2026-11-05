@@ -9,7 +9,7 @@ To be determined if other subjects should be kept.
 
 ## Requirements
 
-Metafacture 8.0.1 or higher
+[Metafacture 8.0.1 Runner](https://github.com/metafacture/metafacture-core/releases/tag/metafacture-core-8.0.1) or higher: For Installation Manual see [Flux User Guide](https://metafacture.github.io/metafacture-documentation/docs/flux/Flux-User-Guide.html).
 
 ## Run tests
 
