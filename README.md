@@ -40,9 +40,6 @@ path/to/metafacture/flux.sh harvestRecordsFromSru_test.flux
 
 echo "DNB: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_test.flux
-
-echo "DNB: Broken Id Extracting" && date
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_test.flux
 ```
 
 (Is the default setting of the workflow.)
@@ -60,9 +57,6 @@ path/to/metafacture/flux.sh harvestRecordsFromSru_test.flux CATALOGUE="..." [AUT
 
 echo "...: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_test.flux CATALOGUE="..." SYSTEM_ISIL="..." 
-
-echo "...: Broken Id Extracting" && date 
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_test.flux CATALOGUE="..." 
 ```
 
 #### hebis
@@ -80,9 +74,6 @@ path/to/metafacture/flux.sh harvestRecordsFromSru_test.flux CATALOGUE="bvb" SRU_
 
 echo "BVB: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_test.flux CATALOGUE="bvb" SYSTEM_ISIL="DE-604" 
-
-echo "BVB: Broken Id Extracting" && date 
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_test.flux CATALOGUE="bvb" 
 ```
 
 #### bzs
@@ -99,9 +90,6 @@ path/to/metafacture/flux.sh harvestRecordsFromSru_test.flux CATALOGUE="bsz" SRU_
 echo "BSZ: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_test.flux CATALOGUE="bsz" SYSTEM_ISIL="DE-576" 
 
-echo "BSZ: Broken Id Extracting" && date
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_test.flux CATALOGUE="bsz" 
-
 ```
 
 #### gbv
@@ -117,10 +105,6 @@ path/to/metafacture/flux.sh harvestRecordsFromSru_test.flux CATALOGUE="gbv" SRU_
 
 echo "GBV: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_test.flux CATALOGUE="gbv" SYSTEM_ISIL="DE-627" 
-
-echo "GBV: Broken Id Extracting" && date
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_test.flux CATALOGUE="gbv" 
-
 ```
 
 #### k10Plus
@@ -133,11 +117,7 @@ echo "K10Plus: SRU Harvesting" && date
 path/to/metafacture/flux.sh harvestRecordsFromSru_test.flux CATALOGUE="k10Plus" SRU_LINK_PART_1="https://sru.k10plus.de/opac-de-627?version=1.1&operation=searchRetrieve&query=pica.ppn=" SRU_LINK_PART_2="&maximumRecords=100&recordSchema=marcxml" SRU_QUERY_PATTERN=".*pica.ppn=(.+)"
 
 echo "K10Plus: SWF Exctracting" && date
-path/to/metafacture/flux.sh extractRecordsWithSWF_test.flux CATALOGUE="k10Plus" SYSTEM_ISIL="DE-627" 
-
-echo "K10Plus: Broken Id Extracting" && date
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_test.flux CATALOGUE="k10Plus" 
-
+path/to/metafacture/flux.sh extractRecordsWithSWF_test.flux CATALOGU
 ```
 
 #### kobv
@@ -151,10 +131,6 @@ path/to/metafacture/flux.sh harvestRecordsFromSru_test.flux CATALOGUE="kobv" SRU
 
 echo "KOBV: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_test.flux CATALOGUE="kobv" SYSTEM_ISIL="DE-602" 
-
-echo "KOBV: Broken Id Extracting" && date
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_test.flux CATALOGUE="kobv" 
-
 ```
 
 #### obv
@@ -168,10 +144,6 @@ path/to/metafacture/flux.sh harvestRecordsFromSru_test.flux  CATALOGUE="obv" SRU
 
 echo "OBV: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_test.flux  CATALOGUE="obv" SYSTEM_ISIL="AT-OBV" 
-
-echo "OBV: Broken Id Extracting" && date
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_test.flux  CATALOGUE="obv" 
-
 ```
 
 for harvesting needs auth credential with the variable `AUTH= "[BASE64 of User:Password]"`
@@ -208,9 +180,6 @@ path/to/metafacture/flux.sh harvestRecordsFromSru_prod.flux
 
 echo "DNB: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_prod.flux
-
-echo "DNB: Broken Id Extracting" && date
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_prod.flux
 ```
 
 (Is the default setting of the workflow.)
@@ -226,9 +195,6 @@ path/to/metafacture/flux.sh harvestRecordsFromSru_prod.flux CATALOGUE="..." SRU_
 
 echo "...: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_prod.flux CATALOGUE="..." SYSTEM_ISIL="..." 
-
-echo "...: Broken Id Extracting" && date 
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_prod.flux CATALOGUE="..." 
 ```
 
 #### bvb
@@ -242,9 +208,6 @@ path/to/metafacture/flux.sh harvestRecordsFromSru_prod.flux CATALOGUE="bvb" SRU_
 
 echo "BVB: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_prod.flux CATALOGUE="bvb" SYSTEM_ISIL="DE-604" 
-
-echo "BVB: Broken Id Extracting" && date 
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_prod.flux CATALOGUE="bvb" 
 ```
 
 #### k10Plus
@@ -258,9 +221,6 @@ path/to/metafacture/flux.sh harvestRecordsFromSru_prod.flux CATALOGUE="k10Plus" 
 
 echo "K10Plus: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_prod.flux CATALOGUE="k10Plus" SYSTEM_ISIL="DE-627" 
-
-echo "K10Plus: Broken Id Extracting" && date
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_prod.flux CATALOGUE="k10Plus" 
 ```
 
 #### hebis
@@ -280,9 +240,6 @@ path/to/metafacture/flux.sh harvestRecordsFromSru_prod.flux CATALOGUE="bsz" SRU_
  
 echo "BSZ: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_prod.flux CATALOGUE="bsz" SYSTEM_ISIL="DE-576" 
- 
-echo "BSZ: Broken Id Extracting" && date
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_prod.flux CATALOGUE="bsz" 
 ```
 
 #### gbv
@@ -298,9 +255,6 @@ path/to/metafacture/flux.sh harvestRecordsFromSru_prod.flux CATALOGUE="gbv" SRU_
 
 echo "GBV: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_prod.flux CATALOGUE="gbv" SYSTEM_ISIL="DE-627" 
-
-echo "GBV: Broken Id Extracting" && date
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_prod.flux CATALOGUE="gbv" 
 ```
 
 #### kobv
@@ -314,9 +268,6 @@ path/to/metafacture/flux.sh harvestRecordsFromSru_prod.flux CATALOGUE="kobv" SRU
 
 echo "KOBV: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_prod.flux CATALOGUE="kobv" SYSTEM_ISIL="DE-602" 
-
-echo "KOBV: Broken Id Extracting" && date
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_prod.flux CATALOGUE="kobv" 
 ```
 
 #### obv
@@ -330,10 +281,6 @@ path/to/metafacture/flux.sh harvestRecordsFromSru_prod.flux CATALOGUE="obv" SRU_
 
 echo "OBV: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_prod.flux CATALOGUE="obv" SYSTEM_ISIL="AT-OBV" 
-
-echo "OBV: Broken Id Extracting" && date
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_prod.flux CATALOGUE="obv" 
-
 ```
 
 for harvesting needs auth credential with the variable `AUTH= "[BASE64 of User:Password]"`
