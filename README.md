@@ -158,15 +158,15 @@ Metafacture_Runner='path/to/metafacture/flux.sh'
 
 # DNB
 
-bash schlagwortfolgen_harvesting_single_prod.sh $Metafacture_Runner "dnb" "https://services.dnb.de/sru/dnb?version=1.1&operation=searchRetrieve&query=dnb.idn=" "&recordSchema=MARC21-xml&maximumRecords=100" ".*dnb.idn=(.+)" "DE-101"
+bash schlagwortfolgen_harvesting_single_prod.sh $Metafacture_Runner "dnb" "50" "https://services.dnb.de/sru/dnb?version=1.1&operation=searchRetrieve&query=dnb.idn=" "&recordSchema=MARC21-xml&maximumRecords=100" ".*dnb.idn=(.+)" "DE-101"
 
 # BVB
 
-bash schlagwortfolgen_harvesting_single_prod.sh $Metafacture_Runner "bvb" "http://bvbr.bib-bvb.de:5661/bvb01sru?version=1.1&recordSchema=marcxml&operation=searchRetrieve&query=marcxml.idn=" "&maximumRecords=100" ".*marcxml.idn=(.+)" "DE-604"
+bash schlagwortfolgen_harvesting_single_prod.sh $Metafacture_Runner "bvb" "20" "http://bvbr.bib-bvb.de:5661/bvb01sru?version=1.1&recordSchema=marcxml&operation=searchRetrieve&query=marcxml.idn=" "&maximumRecords=100" ".*marcxml.idn=(.+)" "DE-604"
 
 # K10Plus
 
-bash schlagwortfolgen_harvesting_single_prod.sh $Metafacture_Runner "k10Plus" "https://sru.k10plus.de/opac-de-627?version=1.1&operation=searchRetrieve&query=pica.ppn=" "&maximumRecords=100&recordSchema=marcxml" ".*pica.ppn=(.+)" "DE-627"
+bash schlagwortfolgen_harvesting_single_prod.sh $Metafacture_Runner "k10Plus" "50" "https://sru.k10plus.de/opac-de-627?version=1.1&operation=searchRetrieve&query=pica.ppn=" "&maximumRecords=100&recordSchema=marcxml" ".*pica.ppn=(.+)" "DE-627"
 ```
 
 ### DNB

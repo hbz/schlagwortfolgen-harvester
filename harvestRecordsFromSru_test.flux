@@ -1,6 +1,7 @@
 default VERSION="test/";
 default CATALOGUE="dnb";
 default AUTH ="";
+default COMBINED_IDS = "10";
 default SRU_HARVEST=FLUX_DIR + VERSION + "/harvest/" + CATALOGUE + "-sru-records.xml";
 default LOBID_HARVEST = FLUX_DIR + VERSION +"/harvest/"  + CATALOGUE + "-lobid-records-no-swk.jsonl";
 default SRU_LINK_PART_1 = "https://services.dnb.de/sru/dnb?version=1.1&operation=searchRetrieve&query=dnb.idn=";
@@ -18,7 +19,7 @@ default SRU_QUERY_PATTERN = ".*dnb.idn=(.+)";
 //| as-lines
 //| decode-json
 //// Combine multiple records to reduce number of requestes
-//| merge-batch-stream(batchSize="10")
+//| merge-batch-stream(batchSize=COMBINED_IDS)
 //// Join catalogue ids to request multiple ids at once with OR operator
 //| fix("retain('$[CATALOGUE]Id')
 //	join_field('$[CATALOGUE]Id','+OR+')
