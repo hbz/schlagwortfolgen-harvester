@@ -9,7 +9,7 @@ To be determined if other subjects should be kept.
 
 ## Requirements
 
-[Metafacture 8.0.1 Runner](https://github.com/metafacture/metafacture-core/releases/tag/metafacture-core-8.0.1) or higher: For Installation Manual see [Flux User Guide](https://metafacture.github.io/metafacture-documentation/docs/flux/Flux-User-Guide.html).
+[Metafacture 9.0.0 Runner](https://github.com/metafacture/metafacture-core/releases/tag/metafacture-core-9.0.0) or higher: For Installation Manual see [Flux User Guide](https://metafacture.github.io/metafacture-documentation/docs/flux/Flux-User-Guide.html).
 
 > [!IMPORTANT]
 > In the code examples we use `'path/to/metafacture/flux.sh'` as placeholder for the path to your metafacture runner installation.
@@ -40,9 +40,6 @@ path/to/metafacture/flux.sh harvestRecordsFromSru_test.flux
 
 echo "DNB: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_test.flux
-
-echo "DNB: Broken Id Extracting" && date
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_test.flux
 ```
 
 (Is the default setting of the workflow.)
@@ -60,9 +57,6 @@ path/to/metafacture/flux.sh harvestRecordsFromSru_test.flux CATALOGUE="..." [AUT
 
 echo "...: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_test.flux CATALOGUE="..." SYSTEM_ISIL="..." 
-
-echo "...: Broken Id Extracting" && date 
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_test.flux CATALOGUE="..." 
 ```
 
 #### hebis
@@ -76,13 +70,10 @@ echo "BVB: Lobid Harvesting" && date
 path/to/metafacture/flux.sh harvestRecordsWithoutSWFFromLobid_test.flux CATALOGUE="bvb" TEST_LOBID_QUERY="https://lobid.org/resources/search?q=_exists_%3AbvbId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+Gemüse" 
 
 echo "BVB: SRU Harvesting" && date
-path/to/metafacture/flux.sh harvestRecordsFromSru_test.flux CATALOGUE="bvb" SRU_LINK_PART_1="http://bvbr.bib-bvb.de:5661/bvb01sru?version=1.1&recordSchema=marcxml&operation=searchRetrieve&query=marcxml.idn=" SRU_LINK_PART_2="&maximumRecords=1" SRU_QUERY_PATTERN=".*marcxml.idn=(.+)"
+path/to/metafacture/flux.sh harvestRecordsFromSru_test.flux CATALOGUE="bvb" SRU_LINK_PART_1="http://bvbr.bib-bvb.de:5661/bvb01sru?version=1.1&recordSchema=marcxml&operation=searchRetrieve&query=marcxml.idn=" SRU_LINK_PART_2="&maximumRecords=100" SRU_QUERY_PATTERN=".*marcxml.idn=(.+)"
 
 echo "BVB: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_test.flux CATALOGUE="bvb" SYSTEM_ISIL="DE-604" 
-
-echo "BVB: Broken Id Extracting" && date 
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_test.flux CATALOGUE="bvb" 
 ```
 
 #### bzs
@@ -94,13 +85,10 @@ echo "BSZ: Lobid Harvesting" && date
 path/to/metafacture/flux.sh harvestRecordsWithoutSWFFromLobid_test.flux CATALOGUE="bsz"  TEST_LOBID_QUERY="https://lobid.org/resources/search?q=_exists_%3AbszId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+Gartenbau"
 
 echo "BSZ: SRU Harvesting" && date
-path/to/metafacture/flux.sh harvestRecordsFromSru_test.flux CATALOGUE="bsz" SRU_LINK_PART_1="https://sru.k10plus.de/opac-de-627?version=1.1&operation=searchRetrieve&query=pica.swn=" SRU_LINK_PART_2="&maximumRecords=1&recordSchema=marcxml" SRU_QUERY_PATTERN=".*pica.swn=(.+)"
+path/to/metafacture/flux.sh harvestRecordsFromSru_test.flux CATALOGUE="bsz" SRU_LINK_PART_1="https://sru.k10plus.de/opac-de-627?version=1.1&operation=searchRetrieve&query=pica.swn=" SRU_LINK_PART_2="&maximumRecords=100&recordSchema=marcxml" SRU_QUERY_PATTERN=".*pica.swn=(.+)"
 
 echo "BSZ: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_test.flux CATALOGUE="bsz" SYSTEM_ISIL="DE-576" 
-
-echo "BSZ: Broken Id Extracting" && date
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_test.flux CATALOGUE="bsz" 
 
 ```
 
@@ -113,14 +101,10 @@ echo "GBV: Lobid Harvesting" && date
 path/to/metafacture/flux.sh harvestRecordsWithoutSWFFromLobid_test.flux CATALOGUE="gbv" TEST_LOBID_QUERY="https://lobid.org/resources/search?q=_exists_%3AgbvId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+Gemüse"
 
 echo "GBV: SRU Harvesting" && date
-path/to/metafacture/flux.sh harvestRecordsFromSru_test.flux CATALOGUE="gbv" SRU_LINK_PART_1="https://sru.k10plus.de/opac-de-627?version=1.2&operation=searchRetrieve&query=pica.ppn=" SRU_LINK_PART_2="&maximumRecords=1&recordSchema=marcxml" SRU_QUERY_PATTERN="<zs:searchRetrieveResponse.*pica.ppn=(.+)"
+path/to/metafacture/flux.sh harvestRecordsFromSru_test.flux CATALOGUE="gbv" SRU_LINK_PART_1="https://sru.k10plus.de/opac-de-627?version=1.2&operation=searchRetrieve&query=pica.ppn=" SRU_LINK_PART_2="&maximumRecords=100&recordSchema=marcxml" SRU_QUERY_PATTERN="<zs:searchRetrieveResponse.*pica.ppn=(.+)"
 
 echo "GBV: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_test.flux CATALOGUE="gbv" SYSTEM_ISIL="DE-627" 
-
-echo "GBV: Broken Id Extracting" && date
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_test.flux CATALOGUE="gbv" 
-
 ```
 
 #### k10Plus
@@ -130,14 +114,10 @@ echo "K10Plus: Lobid Harvesting" && date
 path/to/metafacture/flux.sh harvestRecordsWithoutSWFFromLobid_test.flux CATALOGUE="k10Plus"  TEST_LOBID_QUERY="https://lobid.org/resources/search?q=_exists_%3Ak10PlusId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+Garten"
 
 echo "K10Plus: SRU Harvesting" && date
-path/to/metafacture/flux.sh harvestRecordsFromSru_test.flux CATALOGUE="k10Plus" SRU_LINK_PART_1="https://sru.k10plus.de/opac-de-627?version=1.1&operation=searchRetrieve&query=pica.ppn=" SRU_LINK_PART_2="&maximumRecords=1&recordSchema=marcxml" SRU_QUERY_PATTERN=".*pica.ppn=(.+)"
+path/to/metafacture/flux.sh harvestRecordsFromSru_test.flux CATALOGUE="k10Plus" SRU_LINK_PART_1="https://sru.k10plus.de/opac-de-627?version=1.1&operation=searchRetrieve&query=pica.ppn=" SRU_LINK_PART_2="&maximumRecords=100&recordSchema=marcxml" SRU_QUERY_PATTERN=".*pica.ppn=(.+)"
 
 echo "K10Plus: SWF Exctracting" && date
-path/to/metafacture/flux.sh extractRecordsWithSWF_test.flux CATALOGUE="k10Plus" SYSTEM_ISIL="DE-627" 
-
-echo "K10Plus: Broken Id Extracting" && date
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_test.flux CATALOGUE="k10Plus" 
-
+path/to/metafacture/flux.sh extractRecordsWithSWF_test.flux CATALOGU
 ```
 
 #### kobv
@@ -147,14 +127,10 @@ echo "KOBV: Lobid Harvesting" && date
 path/to/metafacture/flux.sh harvestRecordsWithoutSWFFromLobid_test.flux CATALOGUE="kobv" TEST_LOBID_QUERY="https://lobid.org/resources/search?q=_exists_%3AkobvId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+Garten"
 
 echo "KOBV: SRU Harvesting" && date
-path/to/metafacture/flux.sh harvestRecordsFromSru_test.flux CATALOGUE="kobv" SRU_LINK_PART_1="https://sru.kobv.de/k2?version=1.1&operation=searchRetrieve&query=rec.id%3D" SRU_LINK_PART_2="&startRecord=1&maximumRecords=10&recordSchema=marcxml&recordSchema=marcxml" SRU_QUERY_PATTERN=".*rec.id=(.+)" 
+path/to/metafacture/flux.sh harvestRecordsFromSru_test.flux CATALOGUE="kobv" SRU_LINK_PART_1="https://sru.kobv.de/k2?version=1.1&operation=searchRetrieve&query=rec.id%3D" SRU_LINK_PART_2="&startRecord=1&maximumRecords=100&recordSchema=marcxml&recordSchema=marcxml" SRU_QUERY_PATTERN=".*rec.id=(.+)" 
 
 echo "KOBV: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_test.flux CATALOGUE="kobv" SYSTEM_ISIL="DE-602" 
-
-echo "KOBV: Broken Id Extracting" && date
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_test.flux CATALOGUE="kobv" 
-
 ```
 
 #### obv
@@ -164,14 +140,10 @@ echo "OBV: Lobid Harvesting" && date
 path/to/metafacture/flux.sh harvestRecordsWithoutSWFFromLobid_test.flux  CATALOGUE="obv" TEST_LOBID_QUERY="https://lobid.org/resources/search?q=_exists_%3AobvId+AND+NOT+subject.type%3A%22ComplexSubject%22+AND+inCollection.id%3A%22http%3A%2F%2Flobid.org%2Forganisations%2FDE-655%23%21%22+AND+NOT+_exists_%3AzdbId+AND+philosophy"
 
 echo "OBV: SRU Harvesting" && date
-path/to/metafacture/flux.sh harvestRecordsFromSru_test.flux  CATALOGUE="obv" SRU_LINK_PART_1="https://services.obvsg.at/sru/OBV-PARTNER?operation=searchRetrieve&query=alma.other_system_number_035_a_exact=" SRU_LINK_PART_2="&maximumRecords=10" SRU_QUERY_PATTERN=".*alma.other_system_number_035_a_exact=(.+)"
+path/to/metafacture/flux.sh harvestRecordsFromSru_test.flux  CATALOGUE="obv" SRU_LINK_PART_1="https://services.obvsg.at/sru/OBV-PARTNER?operation=searchRetrieve&query=alma.other_system_number_035_a_exact=" SRU_LINK_PART_2="&maximumRecords=100" SRU_QUERY_PATTERN=".*alma.other_system_number_035_a_exact=(.+)"
 
 echo "OBV: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_test.flux  CATALOGUE="obv" SYSTEM_ISIL="AT-OBV" 
-
-echo "OBV: Broken Id Extracting" && date
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_test.flux  CATALOGUE="obv" 
-
 ```
 
 for harvesting needs auth credential with the variable `AUTH= "[BASE64 of User:Password]"`
@@ -186,15 +158,15 @@ Metafacture_Runner='path/to/metafacture/flux.sh'
 
 # DNB
 
-bash schlagwortfolgen_harvesting_single_prod.sh $Metafacture_Runner "dnb" "https://services.dnb.de/sru/dnb?version=1.1&operation=searchRetrieve&query=dnb.idn=" "&recordSchema=MARC21-xml" ".*dnb.idn=(.+)" "DE-101"
+bash schlagwortfolgen_harvesting_single_prod.sh $Metafacture_Runner "dnb" "50" "https://services.dnb.de/sru/dnb?version=1.1&operation=searchRetrieve&query=dnb.idn=" "&recordSchema=MARC21-xml&maximumRecords=100" ".*dnb.idn=(.+)" "DE-101"
 
 # BVB
 
-bash schlagwortfolgen_harvesting_single_prod.sh $Metafacture_Runner "bvb" "http://bvbr.bib-bvb.de:5661/bvb01sru?version=1.1&recordSchema=marcxml&operation=searchRetrieve&query=marcxml.idn=" "&maximumRecords=1" ".*marcxml.idn=(.+)" "DE-604"
+bash schlagwortfolgen_harvesting_single_prod.sh $Metafacture_Runner "bvb" "20" "http://bvbr.bib-bvb.de:5661/bvb01sru?version=1.1&recordSchema=marcxml&operation=searchRetrieve&query=marcxml.idn=" "&maximumRecords=100" ".*marcxml.idn=(.+)" "DE-604"
 
 # K10Plus
 
-bash schlagwortfolgen_harvesting_single_prod.sh $Metafacture_Runner "k10Plus" "https://sru.k10plus.de/opac-de-627?version=1.1&operation=searchRetrieve&query=pica.ppn=" "&maximumRecords=1&recordSchema=marcxml" ".*pica.ppn=(.+)" "DE-627"
+bash schlagwortfolgen_harvesting_single_prod.sh $Metafacture_Runner "k10Plus" "50" "https://sru.k10plus.de/opac-de-627?version=1.1&operation=searchRetrieve&query=pica.ppn=" "&maximumRecords=100&recordSchema=marcxml" ".*pica.ppn=(.+)" "DE-627"
 ```
 
 ### DNB
@@ -208,9 +180,6 @@ path/to/metafacture/flux.sh harvestRecordsFromSru_prod.flux
 
 echo "DNB: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_prod.flux
-
-echo "DNB: Broken Id Extracting" && date
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_prod.flux
 ```
 
 (Is the default setting of the workflow.)
@@ -226,9 +195,6 @@ path/to/metafacture/flux.sh harvestRecordsFromSru_prod.flux CATALOGUE="..." SRU_
 
 echo "...: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_prod.flux CATALOGUE="..." SYSTEM_ISIL="..." 
-
-echo "...: Broken Id Extracting" && date 
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_prod.flux CATALOGUE="..." 
 ```
 
 #### bvb
@@ -238,13 +204,10 @@ echo "BVB: Lobid Harvesting" && date
 path/to/metafacture/flux.sh harvestRecordsWithoutSWFFromLobid_prod.flux CATALOGUE="bvb" 
 
 echo "BVB: SRU Harvesting" && date
-path/to/metafacture/flux.sh harvestRecordsFromSru_prod.flux CATALOGUE="bvb" SRU_LINK_PART_1="http://bvbr.bib-bvb.de:5661/bvb01sru?version=1.1&recordSchema=marcxml&operation=searchRetrieve&query=marcxml.idn=" SRU_LINK_PART_2="&maximumRecords=1" SRU_QUERY_PATTERN=".*marcxml.idn=(.+)" 
+path/to/metafacture/flux.sh harvestRecordsFromSru_prod.flux CATALOGUE="bvb" SRU_LINK_PART_1="http://bvbr.bib-bvb.de:5661/bvb01sru?version=1.1&recordSchema=marcxml&operation=searchRetrieve&query=marcxml.idn=" SRU_LINK_PART_2="&maximumRecords=100" SRU_QUERY_PATTERN=".*marcxml.idn=(.+)" 
 
 echo "BVB: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_prod.flux CATALOGUE="bvb" SYSTEM_ISIL="DE-604" 
-
-echo "BVB: Broken Id Extracting" && date 
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_prod.flux CATALOGUE="bvb" 
 ```
 
 #### k10Plus
@@ -254,13 +217,10 @@ echo "K10Plus: Lobid Harvesting" && date
 path/to/metafacture/flux.sh harvestRecordsWithoutSWFFromLobid_prod.flux CATALOGUE="k10Plus" 
 
 echo "K10Plus: SRU Harvesting" && date
-path/to/metafacture/flux.sh harvestRecordsFromSru_prod.flux CATALOGUE="k10Plus" SRU_LINK_PART_1="https://sru.k10plus.de/opac-de-627?version=1.1&operation=searchRetrieve&query=pica.ppn=" SRU_LINK_PART_2="&maximumRecords=1&recordSchema=marcxml" SRU_QUERY_PATTERN=".*pica.ppn=(.+)"
+path/to/metafacture/flux.sh harvestRecordsFromSru_prod.flux CATALOGUE="k10Plus" SRU_LINK_PART_1="https://sru.k10plus.de/opac-de-627?version=1.1&operation=searchRetrieve&query=pica.ppn=" SRU_LINK_PART_2="&maximumRecords=100&recordSchema=marcxml" SRU_QUERY_PATTERN=".*pica.ppn=(.+)"
 
 echo "K10Plus: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_prod.flux CATALOGUE="k10Plus" SYSTEM_ISIL="DE-627" 
-
-echo "K10Plus: Broken Id Extracting" && date
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_prod.flux CATALOGUE="k10Plus" 
 ```
 
 #### hebis
@@ -276,13 +236,10 @@ echo "BSZ: Lobid Harvesting" && date
 path/to/metafacture/flux.sh harvestRecordsWithoutSWFFromLobid_prod.flux CATALOGUE="bsz" 
  
 echo "BSZ: SRU Harvesting" && date
-path/to/metafacture/flux.sh harvestRecordsFromSru_prod.flux CATALOGUE="bsz" SRU_LINK_PART_1="https://sru.k10plus.de/opac-de-627?version=1.1&operation=searchRetrieve&query=pica.swn=" SRU_LINK_PART_2="&maximumRecords=1&recordSchema=marcxml" SRU_QUERY_PATTERN=".*pica.swn=(.+)"
+path/to/metafacture/flux.sh harvestRecordsFromSru_prod.flux CATALOGUE="bsz" SRU_LINK_PART_1="https://sru.k10plus.de/opac-de-627?version=1.1&operation=searchRetrieve&query=pica.swn=" SRU_LINK_PART_2="&maximumRecords=100&recordSchema=marcxml" SRU_QUERY_PATTERN=".*pica.swn=(.+)"
  
 echo "BSZ: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_prod.flux CATALOGUE="bsz" SYSTEM_ISIL="DE-576" 
- 
-echo "BSZ: Broken Id Extracting" && date
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_prod.flux CATALOGUE="bsz" 
 ```
 
 #### gbv
@@ -294,13 +251,10 @@ echo "GBV: Lobid Harvesting" && date
 path/to/metafacture/flux.sh harvestRecordsWithoutSWFFromLobid_prod.flux CATALOGUE="gbv" 
 
 echo "GBV: SRU Harvesting" && date
-path/to/metafacture/flux.sh harvestRecordsFromSru_prod.flux CATALOGUE="gbv" SRU_LINK_PART_1="https://sru.k10plus.de/opac-de-627?version=1.2&operation=searchRetrieve&query=pica.ppn=" SRU_LINK_PART_2="&maximumRecords=1&recordSchema=marcxml" SRU_QUERY_PATTERN="<zs:searchRetrieveResponse.*pica.ppn=(.+)"
+path/to/metafacture/flux.sh harvestRecordsFromSru_prod.flux CATALOGUE="gbv" SRU_LINK_PART_1="https://sru.k10plus.de/opac-de-627?version=1.2&operation=searchRetrieve&query=pica.ppn=" SRU_LINK_PART_2="&maximumRecords=100&recordSchema=marcxml" SRU_QUERY_PATTERN="<zs:searchRetrieveResponse.*pica.ppn=(.+)"
 
 echo "GBV: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_prod.flux CATALOGUE="gbv" SYSTEM_ISIL="DE-627" 
-
-echo "GBV: Broken Id Extracting" && date
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_prod.flux CATALOGUE="gbv" 
 ```
 
 #### kobv
@@ -310,13 +264,10 @@ echo "KOBV: Lobid Harvesting" && date
 path/to/metafacture/flux.sh harvestRecordsWithoutSWFFromLobid_prod.flux CATALOGUE="kobv" 
 
 echo "KOBV: SRU Harvesting" && date
-path/to/metafacture/flux.sh harvestRecordsFromSru_prod.flux CATALOGUE="kobv" SRU_LINK_PART_1="https://sru.kobv.de/k2?version=1.1&operation=searchRetrieve&query=rec.id%3D" SRU_LINK_PART_2="&startRecord=1&maximumRecords=10&recordSchema=marcxml&recordSchema=marcxml" SRU_QUERY_PATTERN=".*rec.id=(.+)"
+path/to/metafacture/flux.sh harvestRecordsFromSru_prod.flux CATALOGUE="kobv" SRU_LINK_PART_1="https://sru.kobv.de/k2?version=1.1&operation=searchRetrieve&query=rec.id%3D" SRU_LINK_PART_2="&startRecord=1&maximumRecords=100&recordSchema=marcxml&recordSchema=marcxml" SRU_QUERY_PATTERN=".*rec.id=(.+)"
 
 echo "KOBV: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_prod.flux CATALOGUE="kobv" SYSTEM_ISIL="DE-602" 
-
-echo "KOBV: Broken Id Extracting" && date
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_prod.flux CATALOGUE="kobv" 
 ```
 
 #### obv
@@ -326,14 +277,10 @@ echo "OBV: Lobid Harvesting" && date
 path/to/metafacture/flux.sh harvestRecordsWithoutSWFFromLobid_prod.flux CATALOGUE="obv" 
 
 echo "OBV: SRU Harvesting" && date
-path/to/metafacture/flux.sh harvestRecordsFromSru_prod.flux CATALOGUE="obv" SRU_LINK_PART_1="https://services.obvsg.at/sru/OBV-PARTNER?operation=searchRetrieve&query=alma.other_system_number_035_a_exact=" SRU_LINK_PART_2="&maximumRecords=10" SRU_QUERY_PATTERN=".*alma.other_system_number_035_a_exact=(.+)"
+path/to/metafacture/flux.sh harvestRecordsFromSru_prod.flux CATALOGUE="obv" SRU_LINK_PART_1="https://services.obvsg.at/sru/OBV-PARTNER?operation=searchRetrieve&query=alma.other_system_number_035_a_exact=" SRU_LINK_PART_2="&maximumRecords=100" SRU_QUERY_PATTERN=".*alma.other_system_number_035_a_exact=(.+)"
 
 echo "OBV: SWF Exctracting" && date
 path/to/metafacture/flux.sh extractRecordsWithSWF_prod.flux CATALOGUE="obv" SYSTEM_ISIL="AT-OBV" 
-
-echo "OBV: Broken Id Extracting" && date
-path/to/metafacture/flux.sh extractBrokenUnionCatalogueIds_prod.flux CATALOGUE="obv" 
-
 ```
 
 for harvesting needs auth credential with the variable `AUTH= "[BASE64 of User:Password]"`

@@ -1,0 +1,13 @@
+prod/almaMmsId2dnbId.tsv
+prod/dnb_sru_records.xml.gz
+prod/dnbfailed.tsv
+prod/dnbLobidWithoutSchlagwortfolge.jsonl.gz
+prod/dnbSubjects.jsonl.gz
+prod/dnbSubjects.xml.gz
+prod/failed.tsv
+prod/sru_records.xml.gz
+prod/swk-dnb.xml
+prod/harvest/dnb-lobid-records-no-swk.jsonl.gz
+prod/harvest/dnb-sru-records.xml.gz
+prod/harvest/dnb-sru-records.xml.gz_cleaned
+prod/maps/almaMmsId2dnbId.tsv
